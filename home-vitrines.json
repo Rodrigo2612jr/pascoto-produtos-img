@@ -193,5 +193,31 @@
     "total_produtos_pool": 278,
     "gerado_em": "2026-05-12",
     "fonte": "cross-sell-data.json"
-  }
+  },
+  "weekly_offers": [
+    {
+      "name": "FARELO DE TRIGO TOSTADO ( 100g )",
+      "price": 1.2,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_trigo_tostado_100g_473_1_4f3a939fd56dc53686942a860d4b7fc9.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/farelo-de-trigo-tostado-100g"
+    },
+    {
+      "name": "FARINHA DE COCO BRANCA ( 100g )",
+      "price": 3.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_coco_branca_100g_451_1_a327dcbf2ad26e8a94fc8771e03a3786.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/farinha-de-coco-branca-100g"
+    },
+    {
+      "name": "MEL ABV APICULTURA BOA VISTA LARANJEIRA 800G ( UND )",
+      "price": 58.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/mel_abv_apicultura_boa_vista_laranjeira_800g_und_287_1_6c34e03774f691b34f553756a8e10d15.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/11-apicultura/mel-abv-apicultura-boa-vista-laranjeira-800g-und"
+    },
+    {
+      "name": "FUMACA EM PO ( 100g )",
+      "price": 4.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/fumaca_em_po_100g_653_1_7bdb4f5644bfe827383f6b16ef01023c.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/17-temperos/fumaca-em-po-100g"
+    }
+  ]
 }
