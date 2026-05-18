@@ -219,5 +219,35 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/fumaca_em_po_100g_653_1_7bdb4f5644bfe827383f6b16ef01023c.png",
       "url": "https://emporiopascoto.commercesuite.com.br/17-temperos/fumaca-em-po-100g"
     }
+  ],
+  "chips_destaque": [
+    {
+      "id": 331,
+      "name": "CHIPS DE VEGETAIS 100G",
+      "price": 12.9,
+      "url": "https://emporiopascoto.commercesuite.com.br/12-chips-e-snacks/chips-de-vegetais-100g-und",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/chips_de_vegetais_100g_und_331_1_5d40a63158346623be73afd8e52ed601.png"
+    },
+    {
+      "id": 337,
+      "name": "CHIPS DE MANDIOCA 100G",
+      "price": 10.2,
+      "url": "https://emporiopascoto.commercesuite.com.br/12-chips-e-snacks/chips-de-mandioca-100g",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/chips_de_mandioca_100g_337_1_2662d7489e186c6a06a32a901a6d1a5a.png"
+    },
+    {
+      "id": 343,
+      "name": "BATATA DOCE CHIPS 100G",
+      "price": 11.5,
+      "url": "https://emporiopascoto.commercesuite.com.br/12-chips-e-snacks/batata-doce-chips-100g",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/batata_doce_chips_100g_343_1_f71ff64d0292efe91b6e2cc81ebebc51.png"
+    },
+    {
+      "id": 355,
+      "name": "CHIPS DE FRUTAS 100G",
+      "price": 16.9,
+      "url": "https://emporiopascoto.commercesuite.com.br/12-chips-e-snacks/chips-de-frutas-100g-und",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/chips_de_frutas_100g_und_355_1_f1e629f39ecc11e98b5672c5fd32cb2e.png"
+    }
   ]
 }
