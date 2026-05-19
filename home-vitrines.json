@@ -249,5 +249,56 @@
       "url": "https://emporiopascoto.commercesuite.com.br/12-chips-e-snacks/chips-de-frutas-100g-und",
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chips_de_frutas_100g_und_355_1_f1e629f39ecc11e98b5672c5fd32cb2e.png"
     }
+  ],
+  "kits": [
+    {
+      "id": 759,
+      "name": "KIT SECA E REGULA  ( UND )",
+      "price": 34.9,
+      "url": "https://emporiopascoto.commercesuite.com.br/20-kits-e-combos/kit-seca-e-regula-und",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_seca_e_regula_und_759_1_4b41b81092cccb75775a4090ec9442a3.jpg"
+    },
+    {
+      "id": 757,
+      "name": "KIT GRELHADOS & PROTEINAS  ( UND )",
+      "price": 9.9,
+      "url": "https://emporiopascoto.commercesuite.com.br/20-kits-e-combos/kit-grelhados-amp-proteinas-und",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_grelhados_amp_proteinas_und_757_1_0a73bc19ba430f9b93349d6965cb4d96.jpg"
+    },
+    {
+      "id": 755,
+      "name": "KIT EMAGRECIMENTO INTELIGENTE ( UND )",
+      "price": 44.9,
+      "url": "https://emporiopascoto.commercesuite.com.br/20-kits-e-combos/kit-emagrecimento-inteligente-und",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_emagrecimento_inteligente_und_755_1_4d789ae88189ae373d3d0d38591363a3.jpg"
+    },
+    {
+      "id": 761,
+      "name": "KIT LEVEZA E EQUILIBRIO ( UND )",
+      "price": 9.9,
+      "url": "https://emporiopascoto.commercesuite.com.br/20-kits-e-combos/kit-leveza-e-equilibrio-und",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_leveza_e_equilibrio_und_761_1_e36c7f4a5c6a53a465c92b79ce29c0ef.jpg"
+    },
+    {
+      "id": 763,
+      "name": "KIT SABOR DO DIA A DIA ( UND )",
+      "price": 14.9,
+      "url": "https://emporiopascoto.commercesuite.com.br/20-kits-e-combos/kit-sabor-do-dia-a-dia-und",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_sabor_do_dia_a_dia_und_763_1_53cc3b422f3f162742373e1efd980f8a.jpg"
+    },
+    {
+      "id": 765,
+      "name": "KIT RELAX & BEM ESTAR  ( UND )",
+      "price": 12.9,
+      "url": "https://emporiopascoto.commercesuite.com.br/20-kits-e-combos/kit-relax-amp-bem-estar-und",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_relax_amp_bem_estar_und_765_1_3733c923abc9ed431129a5aa4dccbc25.jpg"
+    },
+    {
+      "id": 767,
+      "name": "KIT DETOX 7 DIAS  ( UND )",
+      "price": 13.5,
+      "url": "https://emporiopascoto.commercesuite.com.br/20-kits-e-combos/kit-detox-7-dias-und",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_detox_7_dias_und_767_1_66ee5c1a0e1cec1c9b3409c1e77a14c1.jpg"
+    }
   ]
 }
