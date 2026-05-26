@@ -21,7 +21,13 @@ SITEMAP = "https://emporiopascoto.commercesuite.com.br/loja/arquivos/1491433/sit
 WORKERS = 12
 PRICE_KG_LIMIT = 19.90
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (pascoto-refresh-bot)"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+    "Accept-Encoding": "identity",
+    "Cache-Control": "no-cache",
+}
 URL_RE = re.compile(r"<loc>([^<]+)</loc>")
 JSONLD_RE = re.compile(r'<script type="application/ld\+json">([\s\S]*?)</script>', re.IGNORECASE)
 META_PRICE_RE = re.compile(r'<meta[^>]+property=["\']product:price:amount["\'][^>]+content=["\']([^"\']+)', re.IGNORECASE)
