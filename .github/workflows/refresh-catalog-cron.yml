@@ -1,0 +1,42 @@
+name: Refresh Catalog — Coleções fantasma + preços
+
+on:
+  schedule:
+    # 03:00 BRT (06:00 UTC) — junto com Instagram cron, baixa carga
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-catalog
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run refresh script
+        run: python scripts/refresh_catalog.py
+
+      - name: Commit if changes
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add home-vitrines.json
+          if git diff --cached --quiet; then
+            echo "Sem mudanças no JSON, pulando commit."
+            exit 0
+          fi
+          git commit -m "chore: refresh home-vitrines.json (cron diário)"
+          git push
