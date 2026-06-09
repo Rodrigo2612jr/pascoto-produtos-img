@@ -2,17 +2,19 @@
 Auto-sync das imagens das vitrines da home.
 Para cada produto no home-vitrines.json, busca a imagem ATUAL na pagina
 publica do produto (og:image) e atualiza. Roda no GitHub Actions (sem login).
-Paralelo (rapido): ~12 produtos ao mesmo tempo.
+
+Sequencial (1 por vez) pra nao tomar rate-limit da Tray, mas le so o
+cabecalho (~150KB) onde fica a og:image, entao e rapido (~4 min).
 """
 import json, re, urllib.request
-from concurrent.futures import ThreadPoolExecutor
 
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36'
 
 def og_image(url):
     try:
         req = urllib.request.Request(url, headers={'User-Agent': UA})
-        html = urllib.request.urlopen(req, timeout=12).read().decode('utf-8', 'ignore')
+        with urllib.request.urlopen(req, timeout=15) as r:
+            html = r.read(150000).decode('utf-8', 'ignore')  # so o <head>
         m = re.search(r'property=["\']og:image["\'][^>]*content=["\']([^"\']+)', html)
         if not m:
             m = re.search(r'id=["\']main-image["\'][^>]*src=["\']([^"\']+)', html)
@@ -27,16 +29,20 @@ def main():
         vit = json.load(f)
     prods = [p for lst in vit.values() if isinstance(lst, list)
              for p in lst if isinstance(p, dict) and p.get('url')]
-    with ThreadPoolExecutor(max_workers=12) as ex:
-        imgs = list(ex.map(og_image, [p['url'] for p in prods]))
     changed = failed = 0
-    for p, img in zip(prods, imgs):
+    for p in prods:
+        img = og_image(p['url'])
         if img:
             if img != p.get('image'):
                 p['image'] = img
                 changed += 1
         else:
             failed += 1
+    # so grava se a maioria deu certo (protege contra rate-limit que falha tudo)
+    ok = len(prods) - failed
+    if ok < len(prods) * 0.6:
+        print(f'ABORTADO: muitas falhas ({failed}/{len(prods)}) - provavel rate-limit, nao gravou')
+        raise SystemExit(1)
     vit.setdefault('_meta', {})['auto_sync'] = 'github-actions'
     with open('home-vitrines.json', 'w', encoding='utf-8') as f:
         json.dump(vit, f, ensure_ascii=False, indent=2)
