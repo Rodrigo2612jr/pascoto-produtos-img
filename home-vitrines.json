@@ -171,7 +171,7 @@
     "fonte": "cross-sell-data.json",
     "atualizado_imagens": "2026-06-09 (imagens atuais da Tray)",
     "auto_sync": "github-actions",
-    "precos_limpos": "itens com preco < 1 removidos"
+    "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados"
   },
   "weekly_offers": [
     {
@@ -281,6 +281,195 @@
     }
   ],
   "achados_banca": [
+    {
+      "id": null,
+      "name": " OREGANO EM PO 20G ( 100g )",
+      "price": 0.2,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/oregano_em_po_20g_100g_557_1_a27bd9a4861792ca5666fa78ba25351d.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/17-temperos/oregano-em-po-20g-100g",
+      "in_stock": true,
+      "_price_per_kg": 2.0
+    },
+    {
+      "id": null,
+      "name": " QUIRELA 500G ( 100gr )",
+      "price": 0.36,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/quirela_500g_100gr_53_1_c6d935440bb14e34d17bb8d677673e21.jpg",
+      "url": "https://emporiopascoto.commercesuite.com.br/7-graos/quirela-500g-100gr",
+      "in_stock": false,
+      "_price_per_kg": 3.6
+    },
+    {
+      "id": null,
+      "name": " FARINHA DE BATATA DOCE 100G ( 100g )",
+      "price": 0.45,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_batata_doce_100g_100g_461_1_0d3c309486f8e206182ab048b92ed692.jpg",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/farinha-de-batata-doce-100g-100g",
+      "in_stock": true,
+      "_price_per_kg": 4.5
+    },
+    {
+      "id": null,
+      "name": " QUIRELA  ( 100gr )",
+      "price": 0.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/quirela_100gr_125_1_4b6d1883157b8a3cc2e47e0158712046.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/7-graos/quirela-100gr",
+      "in_stock": false,
+      "_price_per_kg": 5.0
+    },
+    {
+      "id": null,
+      "name": " FARINHA TRIGO SARRACENO 100G ( 100g )",
+      "price": 0.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_trigo_sarraceno_100g_100g_361_1_06aade281ba8b940febdd75c809fdc2b.jpg",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/farinha-trigo-sarraceno-100g-100g",
+      "in_stock": true,
+      "_price_per_kg": 5.0
+    },
+    {
+      "id": null,
+      "name": " CANJICA AMARELA ( 100gr )",
+      "price": 0.63,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/canjica_amarela_100gr_103_1_1be48d6ec9a557bb4f479a380aa37e07.jpg",
+      "url": "https://emporiopascoto.commercesuite.com.br/7-graos/canjica-amarela-100gr",
+      "in_stock": false,
+      "_price_per_kg": 6.3
+    },
+    {
+      "id": null,
+      "name": " MILHO DE PIPOCA ( 100gr )",
+      "price": 0.75,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_de_pipoca_100gr_59_1_e4f62883ad49af61ccdaa9312813b677.jpg",
+      "url": "https://emporiopascoto.commercesuite.com.br/7-graos/milho-de-pipoca-100gr",
+      "in_stock": true,
+      "_price_per_kg": 7.5
+    },
+    {
+      "id": null,
+      "name": " FARINHA DE MANDIOCA GROSSA ( 100g )",
+      "price": 0.78,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_grossa_mandioca_100g_433_1_6f5e16962fdf202b1d153634a86bfe07.jpg",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/farinha-de-mandioca-grossa-100g",
+      "in_stock": true,
+      "_price_per_kg": 7.8
+    },
+    {
+      "id": null,
+      "name": " FARINHA DE MANDIOCA FINA ( 100g )",
+      "price": 0.78,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_fina_mandioca_100g_435_1_d27ac9357cff46f21e74fe593f35e14a.jpg",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/farinha-de-mandioca-fina-100g",
+      "in_stock": true,
+      "_price_per_kg": 7.8
+    },
+    {
+      "id": null,
+      "name": " AMIDO DE MILHO ( 100g )",
+      "price": 0.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amido_de_milho_100g_521_1_9af4634b8a40595d950a5f44cdc29aad.jpg",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/amido-de-milho-100g",
+      "in_stock": true,
+      "_price_per_kg": 8.0
+    },
+    {
+      "id": null,
+      "name": " POLVILHO DOCE (FECULA MANDIOCA) ( 100g )",
+      "price": 0.85,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/polvilho_doce_fecula_mandioca_100g_391_1_47aa89cde418d87b48b07e580afe01e8.jpg",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/polvilho-doce-fecula-mandioca-100g",
+      "in_stock": true,
+      "_price_per_kg": 8.5
+    },
+    {
+      "id": null,
+      "name": " FEIJAO PRETO ( 100gr )",
+      "price": 0.89,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/feijao_preto_100gr_77_1_8aafc2c26e9c492cb532b55de0499a82.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/7-graos/feijao-preto-100gr",
+      "in_stock": true,
+      "_price_per_kg": 8.9
+    },
+    {
+      "id": null,
+      "name": " FEIJAO CORDA ( 100gr )",
+      "price": 0.95,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/feijao_corda_100gr_83_1_5f86763890aa51ab401915c436788ba1.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/7-graos/feijao-corda-100gr",
+      "in_stock": true,
+      "_price_per_kg": 9.5
+    },
+    {
+      "id": null,
+      "name": " FUBA MIMOSO ( 100g )",
+      "price": 0.95,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/fuba_mimoso_100g_409_1_67b8bba7d1123391f64218f1f3169b73.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/fuba-mimoso-100g",
+      "in_stock": true,
+      "_price_per_kg": 9.5
+    },
+    {
+      "id": null,
+      "name": " SOJA GRAO ( 100gr )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/soja_grao_100gr_49_1_e972916b4247cd6193293582614d3e95.jpg",
+      "url": "https://emporiopascoto.commercesuite.com.br/7-graos/soja-grao-100gr",
+      "in_stock": true,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": null,
+      "name": " FEIJAO FRADINHO ( 100gr )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/feijao_fradinho_100gr_81_1_71569e1643a09284fa8a15c0fa18fc06.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/7-graos/feijao-fradinho-100gr",
+      "in_stock": true,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": null,
+      "name": " TRIGO PARA KIBE ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/trigo_para_kibe_100g_383_1_d0a03727ea64031426967be9a6acca30.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/trigo-para-kibe-100g",
+      "in_stock": false,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": null,
+      "name": " FARINHA DE ROSCA ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_rosca_100g_425_1_a33774822f677a34531daca50a461893.jpg",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/farinha-de-rosca-100g",
+      "in_stock": true,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": null,
+      "name": " FARINHA DE AVEIA ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_aveia_100g_465_1_eb25eb582d59eab7951461e53a5f4ab5.jpg",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/farinha-de-aveia-100g",
+      "in_stock": true,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": null,
+      "name": " AVEIA LAMINADA ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_laminada_100g_511_1_d295b8b3b1ef3aa5c868ba22bdd63ceb.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/aveia-laminada-100g",
+      "in_stock": true,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": null,
+      "name": " AVEIA FLOCOS ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_flocos_100g_513_1_70051dcbea39fcb1296586c1b3b23088.png",
+      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/aveia-flocos-100g",
+      "in_stock": true,
+      "_price_per_kg": 9.9
+    },
     {
       "id": null,
       "name": " ARROZ VERMELHO GRANEL ( 100gr )",
