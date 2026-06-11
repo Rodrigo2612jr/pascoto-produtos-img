@@ -10,6 +10,8 @@ import json, re, urllib.request
 
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36'
 
+SKIP_IMG = {'quirela-100gr'}  # imagem fixada manualmente, nao sobrescrever
+
 def og_image(url):
     try:
         req = urllib.request.Request(url, headers={'User-Agent': UA})
@@ -31,6 +33,8 @@ def main():
              for p in lst if isinstance(p, dict) and p.get('url')]
     changed = failed = 0
     for p in prods:
+        if p['url'].rstrip('/').split('/')[-1] in SKIP_IMG:
+            continue
         img = og_image(p['url'])
         if img:
             if img != p.get('image'):
