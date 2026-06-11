@@ -47,14 +47,6 @@
       "url": "https://emporiopascoto.commercesuite.com.br/16-sementes/gergelim-torrado-100g",
       "_cat_id": "16",
       "_cat_slug": "sementes"
-    },
-    {
-      "name": "FARINHA DE CHIA 200G ( UND )",
-      "price": 8.0,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_chia_200g_und_453_1_495c7b517ac217e7bf9d8c2842f4ae4b.png",
-      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/farinha-de-chia-200g-und",
-      "_cat_id": "15",
-      "_cat_slug": "farinaceos"
     }
   ],
   "bestsellers": [
@@ -117,14 +109,6 @@
   ],
   "frutas_desidratadas": [
     {
-      "name": "CEREJA EM CALDA COM CABO LATA COM 1.65KG ( 100g )",
-      "price": 16.39,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cereja_em_calda_com_cabo_lata_com_1_65kg_100g_137_1_3e7c4efcfae7b8f89e5e60fe3eeb0096.png",
-      "url": "https://emporiopascoto.commercesuite.com.br/9-frutas-secas/cereja-em-calda-com-cabo-lata-com-1-65kg-100g",
-      "_cat_id": "9",
-      "_cat_slug": "frutas-secas"
-    },
-    {
       "name": "CEREJA DESIDRATADA ( 100g )",
       "price": 9.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/cereja_desidratada_100g_179_1_66dd26b2674b6cde2f368bbda7568db3.jpg",
@@ -137,14 +121,6 @@
       "price": 19.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/garcinia_frutas_100g_157_1_53f9f3f4ff55783b9d123b98b5608691.jpg",
       "url": "https://emporiopascoto.commercesuite.com.br/9-frutas-secas/garcinia-frutas-100g",
-      "_cat_id": "9",
-      "_cat_slug": "frutas-secas"
-    },
-    {
-      "name": "CEREJA EM CALDA SEM CABO LATA 1.8 KG ( 100g )",
-      "price": 9.6,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cereja_em_calda_sem_cabo_lata_1_8_kg_100g_135_1_ce9778e7959a070e62f1e8d4a24d68a1.png",
-      "url": "https://emporiopascoto.commercesuite.com.br/9-frutas-secas/cereja-em-calda-sem-cabo-lata-1-8-kg-100g",
       "_cat_id": "9",
       "_cat_slug": "frutas-secas"
     },
@@ -292,15 +268,6 @@
     },
     {
       "id": null,
-      "name": " QUIRELA 500G ( 100gr )",
-      "price": 0.36,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/quirela_500g_100gr_53_1_c6d935440bb14e34d17bb8d677673e21.jpg",
-      "url": "https://emporiopascoto.commercesuite.com.br/7-graos/quirela-500g-100gr",
-      "in_stock": false,
-      "_price_per_kg": 3.6
-    },
-    {
-      "id": null,
       "name": " FARINHA DE BATATA DOCE 100G ( 100g )",
       "price": 0.45,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_batata_doce_100g_100g_461_1_0d3c309486f8e206182ab048b92ed692.jpg",
@@ -312,7 +279,7 @@
       "id": null,
       "name": " QUIRELA  ( 100gr )",
       "price": 0.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/quirela_100gr_125_1_4b6d1883157b8a3cc2e47e0158712046.png",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/quirela_500g_100gr_53_1_c6d935440bb14e34d17bb8d677673e21.jpg",
       "url": "https://emporiopascoto.commercesuite.com.br/7-graos/quirela-100gr",
       "in_stock": false,
       "_price_per_kg": 5.0
@@ -1299,14 +1266,6 @@
     },
     {
       "id": null,
-      "name": " FARINHA DE CHIA 200G ( UND )",
-      "price": 8.0,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_chia_200g_und_453_1_495c7b517ac217e7bf9d8c2842f4ae4b.png",
-      "url": "https://emporiopascoto.commercesuite.com.br/15-farinaceos/farinha-de-chia-200g-und",
-      "in_stock": true
-    },
-    {
-      "id": null,
       "name": " FARINHA DE CASTANHA DE CAJU ( 100g )",
       "price": 6.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_castanha_de_caju_100g_457_1_37d898f26f46ddf0f29efaf90142a1be.jpg",
@@ -1529,14 +1488,6 @@
       "price": 19.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_c_chocolate_100g_507_1_ca2e67dc56d564e1a314af3820e48492.jpg",
       "url": "https://emporiopascoto.commercesuite.com.br/13-drageados/banana-passa-c-chocolate-100g",
-      "in_stock": true
-    },
-    {
-      "id": null,
-      "name": " BANANA PASSA CHOC ZERO 150G ( 100g )",
-      "price": 5.49,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_choc_zero_150g_100g_505_1_e6c178d96f3a7c3d5580f7658aa6679a.png",
-      "url": "https://emporiopascoto.commercesuite.com.br/13-drageados/banana-passa-choc-zero-150g-100g",
       "in_stock": true
     }
   ]
