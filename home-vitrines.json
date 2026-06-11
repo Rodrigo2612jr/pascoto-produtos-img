@@ -83,14 +83,6 @@
       "_cat_slug": "apicultura"
     },
     {
-      "name": "TAMARA LARGE JUMBO ( 100g )",
-      "price": 8.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_large_jumbo_100g_181_1_f5eccf3f087abdf2985919bd42aeb63a.png",
-      "url": "https://emporiopascoto.commercesuite.com.br/9-frutas-secas/tamara-large-jumbo-100g",
-      "_cat_id": "9",
-      "_cat_slug": "frutas-secas"
-    },
-    {
       "name": "LOURO EM FOLHA ( 100g )",
       "price": 7.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/louro_em_folha_100g_647_1_e8513e4eb24b02f785a19f69fd0f2606.png",
@@ -129,14 +121,6 @@
       "price": 9.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/goji_berry_100g_153_1_9c8764ec8ab3775f0d0ba4d233869732.png",
       "url": "https://emporiopascoto.commercesuite.com.br/9-frutas-secas/goji-berry-100g",
-      "_cat_id": "9",
-      "_cat_slug": "frutas-secas"
-    },
-    {
-      "name": "TAMARA LARGE JUMBO ( 100g )",
-      "price": 8.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_large_jumbo_100g_181_1_f5eccf3f087abdf2985919bd42aeb63a.png",
-      "url": "https://emporiopascoto.commercesuite.com.br/9-frutas-secas/tamara-large-jumbo-100g",
       "_cat_id": "9",
       "_cat_slug": "frutas-secas"
     }
