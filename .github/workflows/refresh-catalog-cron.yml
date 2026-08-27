@@ -2,8 +2,9 @@ name: Refresh Catalog — Coleções fantasma + preços
 
 on:
   schedule:
-    # 03:00 BRT (06:00 UTC) — junto com Instagram cron, baixa carga
-    - cron: '0 6 * * *'
+    # 03:40 BRT (06:40 UTC). Sai de cima do Instagram cron (06:00): os dois
+    # commitam no mesmo repo e colidiam no push.
+    - cron: '40 6 * * *'
   workflow_dispatch:
 
 concurrency:
@@ -39,4 +40,17 @@ jobs:
             exit 0
           fi
           git commit -m "chore: refresh home-vitrines.json (cron diário)"
-          git push
+          # push com rebase e retry: os crons deste repo commitam no mesmo
+          # arquivo e o push sem rebase era rejeitado ("fetch first"), o que
+          # fazia este job falhar TODO DIA desde que os dois crons passaram a
+          # rodar no mesmo horario.
+          for tentativa in 1 2 3; do
+            if git push; then
+              echo "push ok na tentativa $tentativa"
+              exit 0
+            fi
+            echo "push rejeitado, sincronizando e tentando de novo..."
+            git pull --rebase origin main || exit 1
+          done
+          echo "push falhou apos 3 tentativas"
+          exit 1

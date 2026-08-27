@@ -1,12 +1,26 @@
 """Refresca o home-vitrines.json com precos atuais da loja Pascoto.
 
 Roda no GitHub Actions cron diariamente:
-  1. Scrape sitemap publico → todos os produtos com nome/preco/imagem
-  2. Calcula coleções fantasma (achados_banca, imunidade, cafe_fit, snacks_naturais, sem_gluten)
+  1. Le o catalogo na web_api PUBLICA da Tray (id, nome, preco, foto, url, disponibilidade)
+  2. Calcula colecoes fantasma (achados_banca, imunidade, cafe_fit, snacks_naturais, sem_gluten)
   3. Faz merge com home-vitrines.json existente (preserva chaves antigas)
   4. Salva no diretorio raiz do repo
 
 Saida: home-vitrines.json (na raiz do repo)
+
+POR QUE NAO RASPA MAIS O SITEMAP (12/08/2026):
+A versao antiga raspava o sitemap e lia o JSON-LD de cada pagina de produto.
+Isso trouxe dois problemas graves:
+
+1. O sitemap nao expoe o ID numerico do produto, entao TODO item saia com
+   id null. O tema, sem id, tentava adivinhar o produto pelo nome do arquivo
+   da imagem, e quando a imagem virava um placeholder isso desabava: 22
+   produtos DESATIVADOS ficaram na loja mostrando o logo esticado.
+2. Pagina de produto desativado responde 302 pra /sem-resultados-na-busca, e o
+   scraping engolia os dados da pagina de erro como se fossem do produto.
+
+A web_api resolve os dois: devolve id, foto e disponibilidade sem ambiguidade,
+sem redirect e sem pagina de erro pra confundir.
 """
 import json, re, urllib.request, time, sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -38,6 +52,62 @@ SLUG_RE = re.compile(r"^/(\d+)-([^/]+)/([^/?]+)")
 
 WEIGHT_RE = re.compile(r"(\d+(?:[\.,]\d+)?)\s*(kg|g|gr|gramas?)\b", re.IGNORECASE)
 PAREN_RE = re.compile(r"\(([^)]*)\)")
+
+
+WEB_API = "https://www.emporiopascoto.com.br/web_api/products"
+# imagens que nunca sao foto de produto (a 1a e o logo 190x60 da pagina de erro)
+PLACEHOLDER_RE = re.compile(
+    r"design[_-]?sem[_-]?nome|sem[_-]?imagem|sem[_-]?foto|no[-_]?image|placeholder", re.I)
+
+
+def catalogo_web_api():
+    """Catalogo inteiro pela web_api publica, paginado. Sem login, sem scraping."""
+    produtos = []
+    pagina = 1
+    while pagina <= 40:
+        url = f"{WEB_API}?limit=50&page={pagina}"
+        try:
+            req = urllib.request.Request(url, headers={**HEADERS, "Accept": "application/json"})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                d = json.loads(r.read().decode("utf-8", "ignore"))
+        except Exception as e:
+            print(f"    falha na pagina {pagina}: {e}")
+            break
+        itens = d.get("Products") or d.get("products") or []
+        if not itens:
+            break
+        for it in itens:
+            p = it.get("Product", it)
+            if not p.get("id"):
+                continue
+            imgs = p.get("ProductImage") or []
+            img = ""
+            if imgs:
+                img = imgs[0].get("https") or imgs[0].get("http") or ""
+            if img and PLACEHOLDER_RE.search(img):
+                img = ""      # nunca deixa placeholder entrar no dado
+            u = p.get("url") or {}
+            link = (u.get("https") or u.get("http")) if isinstance(u, dict) else (u or "")
+            promo = float(p.get("promotional_price") or 0)
+            preco = promo if promo > 0 else float(p.get("price") or 0)
+            # cat_id vem do prefixo do slug ("12-chips-e-snacks/..."), que e o
+            # mesmo numero que o sitemap dava antes; category_id da API e outro id
+            slug = p.get("slug") or ""
+            m = re.match(r"^(\d+)-([^/]+)/(.+)$", slug)
+            produtos.append({
+                "id": int(p["id"]),
+                "name": (p.get("name") or "").strip(),
+                "price": preco,
+                "image": img,
+                "url": link,
+                "available": str(p.get("available")) == "1",
+                "in_stock": str(p.get("available_for_purchase") or p.get("available")) == "1",
+                "cat_id": int(m.group(1)) if m else None,
+                "cat_slug": m.group(2) if m else None,
+                "prod_slug": m.group(3) if m else None,
+            })
+        pagina += 1
+    return produtos
 
 
 def fetch_urls():
@@ -136,12 +206,17 @@ def weight_g(name):
 
 
 def to_card(p):
+    """O campo id e OBRIGATORIO: e por ele que o tema confere no ar se o
+    produto ainda esta ativo e qual e a foto atual. Sem id, o tema tinha que
+    adivinhar pelo nome do arquivo da imagem, e era isso que quebrava."""
     return {
+        "id": p.get("id"),
         "name": p.get("name", ""),
         "price": p.get("price"),
         "image": p.get("image"),
         "url": p.get("url"),
         "in_stock": p.get("in_stock"),
+        "available": p.get("available"),
     }
 
 
@@ -233,19 +308,17 @@ def build_category(products, key):
 
 def main():
     t0 = time.time()
-    print(f"[1] Baixando sitemap...")
-    urls = fetch_urls()
-    print(f"    {len(urls)} URLs de produto")
+    print("[1] Lendo catalogo na web_api publica da Tray...")
+    todos = catalogo_web_api()
+    print(f"    {len(todos)} produtos em {time.time()-t0:.1f}s")
+    if len(todos) < 100:
+        print("ABORTADO: catalogo pequeno demais, provavel falha de rede. Nada gravado.")
+        raise SystemExit(1)
 
-    print(f"[2] Scrape paralelo ({WORKERS} workers)...")
-    products = []
-    with ThreadPoolExecutor(max_workers=WORKERS) as ex:
-        futures = {ex.submit(fetch_one, p): p for p in urls}
-        for fut in as_completed(futures):
-            r = fut.result()
-            if "_error" not in r:
-                products.append(r)
-    print(f"    {len(products)} OK em {time.time()-t0:.1f}s")
+    # so entra em vitrine quem esta ATIVO e tem foto de verdade
+    products = [p for p in todos if p["available"] and p["image"]]
+    fora = len(todos) - len(products)
+    print(f"[2] {len(products)} elegiveis ({fora} fora: desativados ou sem foto)")
 
     print(f"[3] Construindo coleções...")
     new_keys = OrderedDict()
@@ -267,11 +340,31 @@ def main():
         current = {}
     merged = {**current, **new_keys}
 
+    # TRAVA: nao publica item sem id nem com placeholder. Se sobrar, o job
+    # falha de proposito, pra virar email do GitHub em vez de logo na loja.
+    ruins = []
+    for k, lst in merged.items():
+        if not isinstance(lst, list):
+            continue
+        for p in lst:
+            if not isinstance(p, dict):
+                continue
+            nome = (p.get("name") or "?").strip()
+            if p.get("id") is None:
+                ruins.append(f"{k}: {nome} (sem id)")
+            if PLACEHOLDER_RE.search(p.get("image") or ""):
+                ruins.append(f"{k}: {nome} (imagem placeholder)")
+
     with open(HOME_VITRINES, "w", encoding="utf-8") as f:
         json.dump(merged, f, ensure_ascii=False, indent=2)
     size_kb = HOME_VITRINES.stat().st_size // 1024
     print(f"    Salvo: {HOME_VITRINES} ({size_kb} KB)")
     print(f"\nTotal: {time.time()-t0:.1f}s")
+    if ruins:
+        print(f"FALHA: {len(ruins)} itens invalidos ficaram no arquivo:")
+        for x in ruins[:30]:
+            print("   ", x)
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
