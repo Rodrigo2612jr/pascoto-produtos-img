@@ -234,8 +234,8 @@
     "atualizado_imagens": "2026-06-09 (imagens atuais da Tray)",
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
-    "itens": 286,
-    "indisponiveis": 3,
+    "itens": 418,
+    "indisponiveis": 6,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -2167,7 +2167,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_choc_zero_150g_100g_505_1_e6c178d96f3a7c3d5580f7658aa6679a.png",
       "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-choc-zero-150g-100g",
       "in_stock": true,
-      "available": true
+      "available": false
     },
     {
       "id": 507,
@@ -3079,7 +3079,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_choc_zero_150g_100g_505_1_e6c178d96f3a7c3d5580f7658aa6679a.png",
       "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-choc-zero-150g-100g",
       "in_stock": true,
-      "available": true
+      "available": false
     },
     {
       "id": 507,
@@ -3760,7 +3760,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_choc_zero_150g_100g_505_1_e6c178d96f3a7c3d5580f7658aa6679a.png",
       "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-choc-zero-150g-100g",
       "in_stock": true,
-      "available": true
+      "available": false
     },
     {
       "id": 509,
