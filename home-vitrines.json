@@ -63,64 +63,136 @@
   ],
   "bestsellers": [
     {
-      "name": "AVELA CRUA ( 100gr )",
-      "price": 16.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_crua_100gr_35_1_ad40c2a08a3f90d81a20077e3d4a96ec.jpg",
-      "url": "https://www.emporiopascoto.com.br/5-castanhas/avela-crua",
-      "_cat_id": "5",
-      "_cat_slug": "castanhas",
-      "id": 35,
-      "available": true
+      "name": " CASTANHA DO PARA MEDIA ( 100gr )",
+      "price": 14.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
+      "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
+      "_cat_id": "1",
+      "_cat_slug": "",
+      "id": 25,
+      "available": true,
+      "_vendidos_6m": 178
     },
     {
-      "name": "NOZES INTEIRA ( 100gr )",
+      "name": " CASTANHA CAJU C/ SAL ( 100gr )",
+      "price": 12.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_caju_c_sal_100gr_31_1_036e19aeb4a8183b1b2c44d159251018.jpg",
+      "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-caju-c-sal",
+      "_cat_id": "1",
+      "_cat_slug": "",
+      "id": 31,
+      "available": true,
+      "_vendidos_6m": 137
+    },
+    {
+      "name": " NOZES QUEBRADA ( 100gr )",
+      "price": 7.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_quebrada_100gr_9_1_974d615d4d962b66110563c466a01acf.jpg",
+      "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-quebrada",
+      "_cat_id": "1",
+      "_cat_slug": "",
+      "id": 9,
+      "available": true,
+      "_vendidos_6m": 125
+    },
+    {
+      "name": " CASTANHA CAJU S/ SAL ( 100gr )",
+      "price": 12.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_caju_s_sal_100gr_29_1_4c07d1778507ef8cf803bc45695411ec.jpg",
+      "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-caju-s-sal",
+      "_cat_id": "1",
+      "_cat_slug": "",
+      "id": 29,
+      "available": true,
+      "_vendidos_6m": 110
+    },
+    {
+      "name": " BICARBONATO DE SODIO ( 100g )",
+      "price": 1.05,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/bicarbonato_de_sodio_100g_697_1_5e41c87acf75c17ea8b425c530d88cd2.jpg",
+      "url": "https://www.emporiopascoto.com.br/17-temperos/bicarbonato-de-sodio-100g",
+      "_cat_id": "21",
+      "_cat_slug": "",
+      "id": 697,
+      "available": true,
+      "_vendidos_6m": 106
+    },
+    {
+      "name": " NOZES INTEIRA ( 100gr )",
       "price": 11.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_inteira_100gr_13_1_9b8c4a5b0855b5a6304e05592886bff1.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-inteira",
-      "_cat_id": "5",
-      "_cat_slug": "castanhas",
+      "_cat_id": "1",
+      "_cat_slug": "",
       "id": 13,
-      "available": true
+      "available": true,
+      "_vendidos_6m": 103
     },
     {
-      "name": "MEL ABV GARRAFA DE VIDRO APICULTURA BOA VISTA SILVESTRE 1KG ( UND )",
-      "price": 59.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/mel_abv_garrafa_de_vidro_apicultura_boa_vista_silvestre_1kg_und_231_1_0b399f76c926aa57f52cac7d344f738a.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/mel-abv-garrafa-de-vidro-apicultura-boa-vista-silvestre-1kg-und",
-      "_cat_id": "11",
-      "_cat_slug": "apicultura",
-      "id": 231,
-      "available": true
+      "name": " CASTANHA DE CAJU ASSADA ( 100gr )",
+      "price": 12.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_de_caju_assada_100gr_33_1_8c737800b9da7229d459fb7a4c01b166.jpg",
+      "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-de-caju-assada",
+      "_cat_id": "1",
+      "_cat_slug": "",
+      "id": 33,
+      "available": true,
+      "_vendidos_6m": 102
     },
     {
-      "name": "MEL SACHE EXTRATO DE PROPOLIS  SABOR GUACO SMELLS 40G ( UND )",
-      "price": 4.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/mel_sache_extrato_de_propolis_sabor_guaco_smells_40g_und_267_1_468c49d78da3a08c110b89030e23ff41.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/mel-sache-extrato-de-propolis-sabor-guaco-smells-40g-und",
-      "_cat_id": "11",
-      "_cat_slug": "apicultura",
-      "id": 267,
-      "available": true
+      "name": " MIX DE CASTANHAS ( 100gr )",
+      "price": 11.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
+      "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
+      "_cat_id": "1",
+      "_cat_slug": "",
+      "id": 17,
+      "available": true,
+      "_vendidos_6m": 78
     },
     {
-      "name": "LOURO EM FOLHA ( 100g )",
-      "price": 7.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/louro_em_folha_100g_647_1_428712e4c9a0759d21797f511f6b9812.jpg",
-      "url": "https://www.emporiopascoto.com.br/17-temperos/louro-em-folha-100g",
+      "name": " FARELO DE AVEIA ( 100g )",
+      "price": 1.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
       "_cat_id": "17",
-      "_cat_slug": "temperos",
-      "id": 647,
-      "available": true
+      "_cat_slug": "",
+      "id": 475,
+      "available": true,
+      "_vendidos_6m": 71
     },
     {
-      "name": "PIMENTA DO REINO  PRETA  GRAO ( 100g )",
-      "price": 9.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/pimenta_do_reino_preta_grao_100g_617_1_df030ad09b5890d0afdd8b773110f4ea.jpg",
-      "url": "https://www.emporiopascoto.com.br/17-temperos/pimenta-do-reino-preta-grao-100g",
-      "_cat_id": "17",
-      "_cat_slug": "temperos",
-      "id": 617,
-      "available": true
+      "name": " UVA PASSA PRETA ( 100g )",
+      "price": 2.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/uva_passa_preta_100g_139_1_adfa0bb6d5813904cd74af3be0600b3b.jpg",
+      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/uva-passa-preta-100g",
+      "_cat_id": "5",
+      "_cat_slug": "",
+      "id": 139,
+      "available": true,
+      "_vendidos_6m": 68
+    },
+    {
+      "name": " AMENDOA TORRADA C/ SAL ( 100gr )",
+      "price": 12.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_c_sal_100gr_43_1_56cc682a4e0d601558601433b57353d3.jpg",
+      "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-c-sal",
+      "_cat_id": "1",
+      "_cat_slug": "",
+      "id": 43,
+      "available": true,
+      "_vendidos_6m": 61
+    },
+    {
+      "name": " AMEIXA SEM CAROCO ( 100g )",
+      "price": 5.95,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/ameixa_sem_caroco_100g_173_1_ae0d3230f1057bba1ecdd3189d31f012.jpg",
+      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/ameixa-sem-caroco-100g",
+      "_cat_id": "5",
+      "_cat_slug": "",
+      "id": 173,
+      "available": true,
+      "_vendidos_6m": 60
     }
   ],
   "frutas_desidratadas": [
@@ -162,8 +234,9 @@
     "atualizado_imagens": "2026-06-09 (imagens atuais da Tray)",
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
-    "itens": 280,
-    "indisponiveis": 3
+    "itens": 286,
+    "indisponiveis": 3,
+    "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
     {
