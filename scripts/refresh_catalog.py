@@ -2,7 +2,7 @@
 
 Roda no GitHub Actions cron diariamente:
   1. Le o catalogo na web_api PUBLICA da Tray (id, nome, preco, foto, url, disponibilidade)
-  2. Calcula colecoes fantasma (achados_banca, imunidade, cafe_fit, snacks_naturais, sem_gluten)
+  2. Calcula colecoes fantasma (achados_banca, imunidade, cafe_fit, snacks_naturais, lanche_saudavel, sem_gluten)
   3. Faz merge com home-vitrines.json existente (preserva chaves antigas)
   4. Salva no diretorio raiz do repo
 
@@ -221,6 +221,19 @@ def to_card(p):
 
 
 CATEGORY_RULES = {
+    # 03/09/2026 (Rodrigo): card "Lanche saudavel" na home no lugar do "Sem gluten".
+    # Ocasiao de consumo (bolsa, trabalho, lancheira), sem promessa de saude:
+    # frutas secas (9), chips (12), drageados (13), granolas (22) + barrinhas,
+    # biscoitos, balas de mel, pipoca e mixes pelo nome.
+    "lanche_saudavel": {
+        "cat_ids": [9, 12, 13, 22],
+        "kw_include": [r"barr(a|inha)s? de", r"biscoit", r"cookie", r"bala de", r"pipoca",
+                       r"\bmix\b", r"banana ?passa", r"granola", r"damasco", r"t[aâ]mara",
+                       r"uva ?passa", r"ameixa", r"cranberry", r"chips?\b"],
+        # capsula/suplemento nao e lanche (o "cranberry 500mg 90cap" entrava pelo nome)
+        "kw_exclude": [r"\bcaps?\b", r"c[aá]psula", r"comprimido", r"\d+ ?mg\b", r"extrato",
+                       r"tintura", r"suplement", r"whey", r"creatin", r"col[aá]geno", r"vitamina"],
+    },
     "snacks_naturais": {
         "cat_ids": [12],
         "kw_include": [r"drageado", r"barra de", r"banana ?passa", r"\bchips?\b", r"snack"],
@@ -298,6 +311,8 @@ def build_category(products, key):
             ok = True
         elif cfg.get("kw_include") and match_any(p.get("name", ""), cfg["kw_include"]):
             ok = True
+        if ok and cfg.get("kw_exclude") and match_any(p.get("name", ""), cfg["kw_exclude"]):
+            ok = False
         if ok:
             u = p.get("url")
             if u and u not in seen:
@@ -326,6 +341,7 @@ def main():
     new_keys["imunidade"] = build_keyword(products, "imunidade")
     new_keys["cafe_fit"] = build_keyword(products, "cafe_fit")
     new_keys["snacks_naturais"] = build_category(products, "snacks_naturais")
+    new_keys["lanche_saudavel"] = build_category(products, "lanche_saudavel")
     sg = build_keyword(products, "sem_gluten")
     if sg:
         new_keys["sem_gluten"] = sg
