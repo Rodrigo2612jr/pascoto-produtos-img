@@ -21,34 +21,13 @@ jobs:
         with:
           python-version: '3.12'
 
+      # O script baixa as miniaturas pra pasta ig/ e aponta o JSON pra ca.
+      # As URLs do CDN do Instagram sao assinadas e expiram em poucos dias: guardar
+      # a URL crua fazia o feed do site cair sempre que este cron falhava.
       - name: Fetch Instagram posts
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
-        run: |
-          python <<'PY'
-          import urllib.request, json, os, sys
-          token = os.environ['IG_TOKEN']
-          fields = 'id,caption,media_type,media_url,thumbnail_url,permalink,timestamp'
-          url = f'https://graph.instagram.com/v21.0/me/media?fields={fields}&limit=8&access_token={token}'
-          r = urllib.request.urlopen(url, timeout=30)
-          data = json.loads(r.read().decode('utf-8')).get('data', [])
-          out = []
-          for p in data:
-              mt = p.get('media_type', 'IMAGE')
-              thumb = p.get('thumbnail_url' if mt == 'VIDEO' else 'media_url') or p.get('media_url', '')
-              caption = (p.get('caption') or '').strip()
-              out.append({
-                  'url': p.get('permalink', ''),
-                  'thumbnail': thumb,
-                  'caption': caption,
-                  'alt': caption[:80] if caption else 'Post do Emporio Pascoto no Instagram',
-                  'media_type': mt,
-                  'timestamp': p.get('timestamp', ''),
-              })
-          with open('instagram-posts.json', 'w', encoding='utf-8') as f:
-              json.dump(out, f, ensure_ascii=False, indent=2)
-          print(f'OK: {len(out)} posts salvos em instagram-posts.json')
-          PY
+        run: python3 scripts/refresh_instagram.py
 
       - name: Refresh token (extend long-lived)
         env:
@@ -57,24 +36,23 @@ jobs:
           python <<'PY'
           import urllib.request, json, os
           token = os.environ['IG_TOKEN']
-          # Renova o token Instagram Business (long-lived) — extende validade
           url = f'https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token={token}'
           try:
               r = urllib.request.urlopen(url, timeout=20)
               data = json.loads(r.read().decode())
               print(f'Token renovado, expira em {data.get("expires_in", 0)//86400} dias')
-              # Escreve novo token pra ser pego pelo proximo passo
-              with open('/tmp/new_token.txt', 'w') as f:
-                  f.write(data.get('access_token', ''))
           except Exception as e:
               print(f'Aviso: refresh falhou ({e}). Token atual ainda funciona.')
+          # ATENCAO: isto so estende a validade no lado do Instagram. O segredo
+          # IG_TOKEN do repo NAO e reescrito aqui: se um dia o feed parar com erro
+          # de auth, gerar token novo e atualizar o segredo na mao.
           PY
 
       - name: Commit and push (se houve mudanca)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add instagram-posts.json
+          git add instagram-posts.json ig
           if git diff --staged --quiet; then
             echo "Nenhuma mudanca nos posts."
           else
