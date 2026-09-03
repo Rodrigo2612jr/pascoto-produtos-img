@@ -3207,5 +3207,632 @@
       "in_stock": false,
       "available": true
     }
+  ],
+  "sono_ansiedade": [
+    {
+      "id": 1113,
+      "name": "MAGNESIO TAURATO MEISSEN 500G 60CAP ( UND )",
+      "price": 69.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/magnesio_taurato_meissen_500g_60cap_und_1113_1_f5f1504ca97cf530e478cf148e46c5cd.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/magnesio-taurato-meissen-500g-60cap-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 1161,
+      "name": "MAGNESIO QUELATO MEISSEN 120CAP 433MG ( UND )",
+      "price": 105.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/magnesio_quelato_meissen_120cap_433mg_und_1161_1_116d49da83952372eef32420137d2dd0.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/magnesio-quelato-meissen-120cap-433mg-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 1163,
+      "name": "MAGNESIO QUELATO MEISSEN 60CAP 433MG ( UND )",
+      "price": 58.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/magnesio_quelato_meissen_60cap_433mg_und_1163_1_aeb61bca650d4f4a43c64f5618675614.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/magnesio-quelato-meissen-60cap-433mg-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 1171,
+      "name": "VALERIANA 60 CAPS NINHO VERDE ( UND )",
+      "price": 36.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/valeriana_60_caps_ninho_verde_und_1171_1_7e9fc18778a51d06fd4d33e35dc5a961.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/valeriana-60-caps-ninho-verde-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 1173,
+      "name": "TRIPTOFANO UNILIFE 60CAP ( UND )",
+      "price": 38.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/triptofano_unilife_60cap_und_1173_1_0e23301840b35ae514da88284f6b6e1e.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/triptofano-unilife-60cap-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 1179,
+      "name": "MULUNGU NINHO VERDE 60CAP 500MG ( UND )",
+      "price": 29.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/mulungu_ninho_verde_60cap_500mg_und_1179_1_e84c36fc2ea5cbaeefff5d549faf2e0b.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/mulungu-ninho-verde-60cap-500mg-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 1183,
+      "name": "MARACUJAX UNILIFE 90CAP ( UND )",
+      "price": 32.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/maracujax_unilife_90cap_und_1183_1_2323fb0fc683ecdcdf07880be6fce4e3.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/maracujax-unilife-90cap-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 1311,
+      "name": "MALATO DE MAGNESIO MEISSEN 500MG 120 CAP ( UND )",
+      "price": 110.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/malato_de_magnesio_meissen_500mg_120_cap_und_1311_1_76ad09566c112d9a50e94331b1bf4c3a.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/malato-de-magnesio-meissen-500mg-120-cap-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 1313,
+      "name": "MALATO DE MAGNESIO MEISSEN 500G 60CAP ( UND )",
+      "price": 69.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/malato_de_magnesio_meissen_500g_60cap_und_1313_1_31048d03fd1900f6be9752a55fc5d1d7.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/malato-de-magnesio-meissen-500g-60cap-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 1347,
+      "name": "CLORETO DE MAGNESIO P.A 33G MEISSEN ( UND )",
+      "price": 9.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cloreto_de_magnesio_p_a_33g_meissen_und_1347_1_bcefcd7a5b12dbbb19814bec6b85b748.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/cloreto-de-magnesio-p-a-33g-meissen-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 1349,
+      "name": "CLORETO DE MAGNESIO MEISSEN 500MG 60CAP ( UND )",
+      "price": 43.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cloreto_de_magnesio_meissen_500mg_60cap_und_1349_1_577a668169753d587fe4d0d2e25a2567.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/cloreto-de-magnesio-meissen-500mg-60cap-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 1351,
+      "name": "CLORETO DE MAGNESIO COM SUCUPIRA NINHO VERDE 120 CAPS ( UND )",
+      "price": 30.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cloreto_de_magnesio_com_sucupira_ninho_verde_120_caps_und_1351_1_f15d13ba6aaa4dc81e5c803c6c663b08.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/cloreto-de-magnesio-com-sucupira-ninho-verde-120-caps-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 1353,
+      "name": "CLORETO DE MAGNESIO 500MG MEISSEN 120CAP ( UND )",
+      "price": 75.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cloreto_de_magnesio_500mg_meissen_120cap_und_1353_1_0f895218fe9e4aa75b746dc763cde11c.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/cloreto-de-magnesio-500mg-meissen-120cap-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 397,
+      "name": "MELISSA ( 100g )",
+      "price": 7.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/melissa_100g_397_1_bc4768a8ba1e1b39e223ca121ebd0d4f.jpg",
+      "url": "https://www.emporiopascoto.com.br/14-ervas/melissa-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 481,
+      "name": "ERVA CIDREIRA ( 100g )",
+      "price": 3.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/erva_cidreira_100g_481_1_f9340b42900a1d259f0830d06a20a742.jpg",
+      "url": "https://www.emporiopascoto.com.br/14-ervas/erva-cidreira-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 501,
+      "name": "CAMOMILA ( 100g )",
+      "price": 5.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/camomila_100g_501_1_b48ce291fb6e686a8445782bebfe7af2.jpg",
+      "url": "https://www.emporiopascoto.com.br/14-ervas/camomila-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 765,
+      "name": "KIT RELAX &amp; BEM ESTAR  ( UND )",
+      "price": 12.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_relax_amp_bem_estar_und_765_1_3733c923abc9ed431129a5aa4dccbc25.jpg",
+      "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-relax-amp-bem-estar-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 927,
+      "name": "CLORETO DE MAGNESIO UNILIFE 600MG 60CAP ( UND )",
+      "price": 23.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cloreto_de_magnesio_unilife_600mg_60cap_und_927_1_dbf74cd6df1df4c2ebef2783d184a41c.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/cloreto-de-magnesio-unilife-600mg-60cap-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 939,
+      "name": "MAGNESIO SJT NUTRITION 500MG 60CAP ( UND )",
+      "price": 38.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/magnesio_sjt_nutrition_500mg_60cap_und_939_1_a72ceb358dd47caf4cc028b38ccc526e.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/magnesio-sjt-nutrition-500mg-60cap-und",
+      "in_stock": false,
+      "available": true
+    }
+  ],
+  "emagrecer": [
+    {
+      "id": 1031,
+      "name": "OLEO DE ABOBORA E LINHACA  250ML PAZZE ( UND )",
+      "price": 69.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/oleo_de_abobora_e_linhaca_250ml_pazze_und_1031_1_e0799cbe97540714769037bd7f53204f.jpg",
+      "url": "https://www.emporiopascoto.com.br/27-mercearia/oleo-de-abobora-e-linhaca-250ml-pazze-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 1143,
+      "name": "PSYLLIUM UNILIFE 550MG 60CAP ( UND )",
+      "price": 36.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/psyllium_unilife_550mg_60cap_und_1143_1_90d94939e82a34cc19a57edf4089634d.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/psyllium-unilife-550mg-60cap-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 1193,
+      "name": "SENE 500MG 60CAPS NINHO VERDE ( UND )",
+      "price": 22.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/sene_500mg_60caps_ninho_verde_und_1193_1_e79542cf0babf6c3e518cbd2e825dc71.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/sene-500mg-60caps-ninho-verde-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 1251,
+      "name": "SPIRULINA CAPSULA OCEAN DROP 520MG 240CAP ( UND )",
+      "price": 94.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/spirulina_capsula_ocean_drop_520mg_240cap_und_1251_1_e47dad9b526e598886ce9d712a535815.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/spirulina-capsula-ocean-drop-520mg-240cap-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 1269,
+      "name": "OLEO DE LINHACA MARROM 250ML PAZZE ( UND )",
+      "price": 37.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/oleo_de_linhaca_marrom_250ml_pazze_und_1269_1_d1e46b64d5c186403f0f00c49a19bc4a.jpg",
+      "url": "https://www.emporiopascoto.com.br/27-mercearia/oleo-de-linhaca-marrom-250ml-pazze-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 1271,
+      "name": "OLEO DE LINHACA DOURADA 250ML PAZZE ( UND )",
+      "price": 39.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/oleo_de_linhaca_dourada_250ml_pazze_und_1271_1_f176e9abbfc30b600b565859fcea2b3c.jpg",
+      "url": "https://www.emporiopascoto.com.br/27-mercearia/oleo-de-linhaca-dourada-250ml-pazze-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 1355,
+      "name": "CHLORELLA CAPSULA OCEAN DROP 530MG 240CAP ( UND )",
+      "price": 116.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/chlorella_capsula_ocean_drop_530mg_240cap_und_1355_1_706f6b812a803da440b594bb443972cb.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/chlorella-capsula-ocean-drop-530mg-240cap-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 387,
+      "name": "SENE ( 100g )",
+      "price": 2.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/sene_100g_387_1_d147fc584211ae1c470b4e36a6608494.jpg",
+      "url": "https://www.emporiopascoto.com.br/14-ervas/sene-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 401,
+      "name": "HIBISCO FLOR ( 100g )",
+      "price": 4.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/hibisco_flor_100g_401_1_4149a18fc8234c0972750c7c18ba3c07.jpg",
+      "url": "https://www.emporiopascoto.com.br/14-ervas/hibisco-flor-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 415,
+      "name": "FARINHA QUINUA ( 100g )",
+      "price": 6.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_quinua_100g_415_1_c153d4333dca80f9ba9814ff79ae61a9.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-quinua-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 431,
+      "name": "FARINHA DE MARACUJA ( 100g )",
+      "price": 5.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_maracuja_100g_431_1_a4edc8895fe6e38d55ac95159804d2f4.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-maracuja-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 439,
+      "name": "FARINHA DE LINHACA MARROM ( 100g )",
+      "price": 3.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_linhaca_marrom_100g_439_1_dd3011842e620e5095e1ab03f282cc0e.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-linhaca-marrom-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 441,
+      "name": "FARINHA DE LINHACA DOURADA ( 100g )",
+      "price": 2.35,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_linhaca_dourada_100g_441_1_b5092076bd903a44d308c291fb009b18.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-linhaca-dourada-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 451,
+      "name": "FARINHA DE COCO BRANCA ( 100g )",
+      "price": 4.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_coco_branca_100g_451_1_1f675c6d3ca70620b45155d48610b72d.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-coco-branca-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 453,
+      "name": "FARINHA DE CHIA 100G ( UND )",
+      "price": 8.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_chia_200g_und_453_1_495c7b517ac217e7bf9d8c2842f4ae4b.png",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-chia-200g-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 459,
+      "name": "FARINHA DE BERINJELA ( 100g )",
+      "price": 5.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_berinjela_100g_459_1_cae3dcca4f90d909781d38c6f9e21422.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-berinjela-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 463,
+      "name": "FARINHA DE BANANA VERDE ( 100g )",
+      "price": 3.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_banana_verde_100g_463_1_d52d7593c5cd176c27c49f7ac019011e.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-banana-verde-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 465,
+      "name": "FARINHA DE AVEIA ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_aveia_100g_465_1_29a64203450428c9b1d39da73445c75c.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-aveia-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 471,
+      "name": "FARINHA DE AMENDOA ( 100g )",
+      "price": 13.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_amendoa_100g_471_1_9ffaf64af0f047f13f78c653b5e3bf75.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-amendoa-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 475,
+      "name": "FARELO DE AVEIA ( 100g )",
+      "price": 1.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 487,
+      "name": "CHA VERDE IMPORTADO ( 100g )",
+      "price": 6.3,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cha_verde_importado_100g_487_1_a757299dedc389e3191f875535e5b36c.jpg",
+      "url": "https://www.emporiopascoto.com.br/14-ervas/cha-verde-importado-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 489,
+      "name": "CHA VERDE ( 100g )",
+      "price": 3.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cha_verde_100g_489_1_5b209c7111cadb0489f496b0d5739dd1.jpg",
+      "url": "https://www.emporiopascoto.com.br/14-ervas/cha-verde-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 493,
+      "name": "CAVALINHA CULTIVADA ( 100g )",
+      "price": 9.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cavalinha_cultivada_100g_493_1_44ff379370117e646db6fa4bc2589bf4.jpg",
+      "url": "https://www.emporiopascoto.com.br/14-ervas/cavalinha-cultivada-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 499,
+      "name": "CARQUEJA AMARGA ( 100g )",
+      "price": 5.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/carqueja_amarga_100g_499_1_37ea637f671bf2cfb8a7e04dabec447b.jpg",
+      "url": "https://www.emporiopascoto.com.br/14-ervas/carqueja-amarga-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 523,
+      "name": "FARINHA DE CHIA  ( 100g )",
+      "price": 4.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_chia_100g_523_1_5610b2273d97e06155040c64ae42fa10.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-chia-100g",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 535,
+      "name": "LINHACA MARROM SEMENTE ( 100g )",
+      "price": 2.65,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_marrom_semente_100g_535_1_9b1a8c55a16c97ae5cd1a3d57071a49e.jpg",
+      "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-marrom-semente-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 537,
+      "name": "LINHACA DOURADA SEMENTE ( 100g )",
+      "price": 2.45,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_dourada_semente_100g_537_1_486100281a0c89e19ad36a06ade3f82b.jpg",
+      "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-dourada-semente-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 547,
+      "name": "CHIA PREMIUM ( 100g )",
+      "price": 4.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
+      "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 55,
+      "name": "QUINUA GRAO ( 100gr )",
+      "price": 3.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/quinua_grao_100gr_55_1_f3d498b60e40436a39fe398111b061f9.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/quinua-grao-100gr",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 57,
+      "name": "MIX QUINUA ( 100gr )",
+      "price": 4.6,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_quinua_100gr_57_1_2c26d08cf41d8116285a9e8be7917436.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/mix-quinua-100gr",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 755,
+      "name": "KIT EMAGRECIMENTO INTELIGENTE ( UND )",
+      "price": 44.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_emagrecimento_inteligente_und_755_1_4d789ae88189ae373d3d0d38591363a3.jpg",
+      "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-emagrecimento-inteligente-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 767,
+      "name": "KIT DETOX 7 DIAS  ( UND )",
+      "price": 13.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_detox_7_dias_und_767_1_66ee5c1a0e1cec1c9b3409c1e77a14c1.jpg",
+      "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-detox-7-dias-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 837,
+      "name": "CHLORELLA PO ( 100g )",
+      "price": 32.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/chlorella_po_100g_837_1_6fed2f7dcebc04f4f99995db641d8e75.jpg",
+      "url": "https://www.emporiopascoto.com.br/23-suplemetos/chlorella-po-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 843,
+      "name": "SPIRULINA PO ( 100g )",
+      "price": 12.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/spirulina_po_100g_843_1_8f39cc025ff8d33c790f1cb75fbc5ace.jpg",
+      "url": "https://www.emporiopascoto.com.br/23-suplemetos/spirulina-po-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 867,
+      "name": "GENGIBRE EM PO PURO ( 100g )",
+      "price": 11.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/gengibre_em_po_puro_100g_867_1_9cf73d28add5afc587f50d9aa738f18b.jpg",
+      "url": "https://www.emporiopascoto.com.br/23-suplemetos/gengibre-em-po-puro-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 893,
+      "name": "MORINGA EM PO ( 100g )",
+      "price": 12.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/moringa_em_po_100g_893_1_417452696a11f9a737a3072f7b097d8e.jpg",
+      "url": "https://www.emporiopascoto.com.br/23-suplemetos/moringa-em-po-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 905,
+      "name": "SPIRULINA UNILIFE 1000G 150COMP ( UND )",
+      "price": 59.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/spirulina_unilife_1000g_150comp_und_905_1_54ce8eae0d624e4e43e95826408bb252.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/spirulina-unilife-1000g-150comp-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 995,
+      "name": "PSYLLIUM NINHO VERDE 500MG 60CAP ( UND )",
+      "price": 28.3,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/psyllium_ninho_verde_500mg_60cap_und_995_1_405203289dfdea25f2de922e117cdf63.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/psyllium-ninho-verde-500mg-60cap-und",
+      "in_stock": true,
+      "available": true
+    }
+  ],
+  "sem_acucar": [
+    {
+      "id": 315,
+      "name": "STEVIA EM PO ( 100g )",
+      "price": 24.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/stevia_em_po_100g_315_1_2f2b9f590fd2a49d0a10fe9aed4ec9a2.jpg",
+      "url": "https://www.emporiopascoto.com.br/10-adocantes-naturais/stevia-em-po-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 317,
+      "name": "ERITRITOL ( 100g )",
+      "price": 4.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/eritritol_100g_317_1_8273240b290e25b7c3589d0cebc690a5.jpg",
+      "url": "https://www.emporiopascoto.com.br/10-adocantes-naturais/eritritol-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 497,
+      "name": "CASTANHA DE CAJU C/ CHOC 70% CACAU ( 100g )",
+      "price": 24.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_de_caju_c_choc_70_cacau_100g_497_1_005e42870ed429cc0c7188b22e0fc1d5.jpg",
+      "url": "https://www.emporiopascoto.com.br/13-drageados/castanha-de-caju-c-choc-70-cacau-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 505,
+      "name": "BANANA PASSA CHOC ZERO 70G ( 100g )",
+      "price": 2.19,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_choc_zero_150g_100g_505_1_e6c178d96f3a7c3d5580f7658aa6679a.png",
+      "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-choc-zero-150g-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 509,
+      "name": "AVELA C/ CHOC 70% ( 100g )",
+      "price": 26.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_c_choc_70_100g_509_1_bd583f14abaf24a591cb55c34f11860c.jpg",
+      "url": "https://www.emporiopascoto.com.br/13-drageados/avela-c-choc-70-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 769,
+      "name": "PASTA DE AMENDOIM INTEGRAL CROCANTE POWER ONE 500G ( UND )",
+      "price": 24.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_integral_crocante_power_one_500g_und_769_1_e9b338f5be3011cef08375e2b5bd6282.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-integral-crocante-power-one-500g-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 771,
+      "name": "PASTA DE AMENDOIM TRADICIONAL INTEGRAL POWER ONE 500G ( UND )",
+      "price": 24.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_tradicional_integral_power_one_500g_und_771_1_84a1e5e382739358e31e84afc7f3305b.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-tradicional-integral-power-one-500g-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 775,
+      "name": "PASTA DE AMENDOIM INTEGRAL POWER ONE 1,005KG ( UND )",
+      "price": 38.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_integral_power_one_1_005kg_und_775_1_3966f3a79ed23f3dcc50cc1161de21ed.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-integral-power-one-1-005kg-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 777,
+      "name": "PASTA DE AMENDOIM CROCANTE POWER ONE 1.005KG ( UND )",
+      "price": 38.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_crocante_power_one_1_005kg_und_777_1_d4a81140040cb11c5ba3ebd76850fef5.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-crocante-power-one-1-005kg-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 779,
+      "name": "PASTA DE AMENDOIM CHOCOLATE COM AVELA POWER ONE 1.005KG ( UND )",
+      "price": 59.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_chocolate_com_avela_power_one_1_005kg_und_779_1_59c0d92d3772ad549c36e70a4344f0f8.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-chocolate-com-avela-power-one-1-005kg-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 815,
+      "name": "GRANOLA ZERO WS ( 100g )",
+      "price": 5.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/granola_zero_ws_100g_815_1_ef799695018330427ef84ee7ffd94227.jpg",
+      "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/granola-zero-ws-100g",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 819,
+      "name": "SUCRILHO S/ AÇUCAR ( 100g )",
+      "price": 3.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/sucrilho_s_acucar_100g_819_1_9b6f656418a8d64ecd3cda283144d18b.jpg",
+      "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/sucrilho-s-acucar-100g",
+      "in_stock": true,
+      "available": true
+    }
   ]
 }

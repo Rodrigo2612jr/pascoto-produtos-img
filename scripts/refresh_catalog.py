@@ -241,6 +241,26 @@ CATEGORY_RULES = {
 }
 
 KEYWORDS = {
+    # 03/09/2026 (Rodrigo): cards da home por DOR. Imunidade fica; entram estes 3.
+    "sono_ansiedade": {
+        "include": [r"camomila", r"melissa", r"mulungu", r"passiflora", r"maracuj[aá]", r"capim[- ]?lim[aã]o",
+                    r"cidreira", r"lavanda", r"valeriana", r"magn[eé]sio", r"triptofano", r"ashwagandha",
+                    r"\bsono\b", r"calmante", r"relax", r"l[- ]?teanina", r"erva[- ]?doce", r"tília|tilia"],
+        "exclude": [r"energ[eé]tico", r"caf[eé]\b", r"leite de magn[eé]sia", r"farinha de maracuj", r"erva[- ]?doce|funcho"],
+    },
+    "emagrecer": {
+        "include": [r"\bchia\b", r"psyllium", r"linha[cç]a", r"farinha de (banana verde|maracuj[aá]|berinjela|coco|am[eê]ndoa|aveia|chia|linha[cç]a)",
+                    r"ch[aá] verde", r"hibisco", r"\bgengibre\b", r"cavalinha", r"carqueja", r"ch[aá] branco",
+                    r"spirulina", r"termog", r"detox", r"\bslim\b", r"emagre", r"glucomanan", r"aveia em flocos|flocos de aveia|farelo de aveia",
+                    r"quinoa|quinua", r"chlorella|clorela", r"sene\b", r"moringa"],
+        "exclude": [r"chocolate", r"confeitad", r"caramel", r"cristalizad", r"com mel", r"a[cç][uú]car", r"\bbala\b", r"em cubos", r"\b[oó]leo de gengibre"],
+    },
+    "sem_acucar": {
+        "include": [r"eritritol", r"xilitol", r"stevia|est[eé]via", r"\bzero\b", r"sem a[cç][uú]car|s/ ?a[cç][uú]car|s\.a[cç][uú]car",
+                    r"\bdiet\b", r"(choc|cacau)[^,]*(7[0-9]|8[0-9]|9[0-9]|100) ?%", r"(7[0-9]|8[0-9]|9[0-9]|100) ?% ?cacau", r"cacau nibs|nibs de cacau", r"sem adi[cç][aã]o", r"monk ?fruit", r"ado[cç]ante",
+                    r"taumatina|sucralose", r"pasta de amendoim", r"manteiga de amendoim", r"cacau em p[oó]|cacau 100"],
+        "exclude": [r"c/ ?a[cç][uú]car|com a[cç][uú]car", r"caramel", r"confeitad", r"cristalizad", r"ao leite"],
+    },
     "sem_gluten": {
         "include": [r"sem ?gl[úu]ten", r"glut[eê]n[- ]?free"],
         "exclude": [],
@@ -342,6 +362,9 @@ def main():
     new_keys["cafe_fit"] = build_keyword(products, "cafe_fit")
     new_keys["snacks_naturais"] = build_category(products, "snacks_naturais")
     new_keys["lanche_saudavel"] = build_category(products, "lanche_saudavel")
+    new_keys["sono_ansiedade"] = build_keyword(products, "sono_ansiedade")
+    new_keys["emagrecer"] = build_keyword(products, "emagrecer")
+    new_keys["sem_acucar"] = build_keyword(products, "sem_acucar")
     sg = build_keyword(products, "sem_gluten")
     if sg:
         new_keys["sem_gluten"] = sg
