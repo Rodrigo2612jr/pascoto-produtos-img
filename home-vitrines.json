@@ -2161,15 +2161,6 @@
       "available": true
     },
     {
-      "id": 505,
-      "name": "BANANA PASSA CHOC ZERO 70G ( 100g )",
-      "price": 2.19,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_choc_zero_150g_100g_505_1_e6c178d96f3a7c3d5580f7658aa6679a.png",
-      "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-choc-zero-150g-100g",
-      "in_stock": true,
-      "available": false
-    },
-    {
       "id": 507,
       "name": "BANANA PASSA C/ CHOCOLATE ( 100g )",
       "price": 19.5,
@@ -3073,15 +3064,6 @@
       "available": true
     },
     {
-      "id": 505,
-      "name": "BANANA PASSA CHOC ZERO 70G ( 100g )",
-      "price": 2.19,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_choc_zero_150g_100g_505_1_e6c178d96f3a7c3d5580f7658aa6679a.png",
-      "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-choc-zero-150g-100g",
-      "in_stock": true,
-      "available": false
-    },
-    {
       "id": 507,
       "name": "BANANA PASSA C/ CHOCOLATE ( 100g )",
       "price": 19.5,
@@ -3752,15 +3734,6 @@
       "url": "https://www.emporiopascoto.com.br/13-drageados/castanha-de-caju-c-choc-70-cacau-100g",
       "in_stock": true,
       "available": true
-    },
-    {
-      "id": 505,
-      "name": "BANANA PASSA CHOC ZERO 70G ( 100g )",
-      "price": 2.19,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_choc_zero_150g_100g_505_1_e6c178d96f3a7c3d5580f7658aa6679a.png",
-      "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-choc-zero-150g-100g",
-      "in_stock": true,
-      "available": false
     },
     {
       "id": 509,
