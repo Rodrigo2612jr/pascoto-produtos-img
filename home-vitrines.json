@@ -234,8 +234,8 @@
     "atualizado_imagens": "2026-06-09 (imagens atuais da Tray)",
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
-    "itens": 418,
-    "indisponiveis": 6,
+    "itens": 415,
+    "indisponiveis": 3,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
