@@ -861,7 +861,7 @@
       "price": 1.59,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/arroz_integral_agulha_misto_100gr_111_1_418ce3472930b6070c75a50886e6f175.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/arroz-integral-agulha-misto-100gr",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 15.9
     },
@@ -2790,7 +2790,7 @@
       "price": 8.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/figo_cristalizado_100g_163_1_b872a1023f16784e75dcb67e8b4d80e0.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/figo-cristalizado-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3123,7 +3123,7 @@
       "price": 32.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/fruit_rings_und_817_1_7f513d4c6f377fbe32fb2433df559c11.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/fruit-rings-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
