@@ -456,6 +456,16 @@
       "_price_per_kg": 8.5
     },
     {
+      "id": 513,
+      "name": "AVEIA FLOCOS ( 100g )",
+      "price": 0.92,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_flocos_100g_513_1_500c96acb66f3c229c773fe3c57827d0.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-flocos-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 9.2
+    },
+    {
       "id": 409,
       "name": "FUBA MIMOSO ( 100g )",
       "price": 0.95,
@@ -521,16 +531,6 @@
       "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_laminada_100g_511_1_827294e0c7a20ada950a21aec50d2a2e.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-laminada-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 9.9
-    },
-    {
-      "id": 513,
-      "name": "AVEIA FLOCOS ( 100g )",
-      "price": 0.99,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_flocos_100g_513_1_500c96acb66f3c229c773fe3c57827d0.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-flocos-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 9.9
@@ -1316,7 +1316,7 @@
       "price": 14.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -1669,7 +1669,7 @@
       "price": 14.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -1912,7 +1912,7 @@
       "price": 38.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_crocante_power_one_1_005kg_und_777_1_d4a81140040cb11c5ba3ebd76850fef5.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-crocante-power-one-1-005kg-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3777,7 +3777,7 @@
       "price": 38.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_crocante_power_one_1_005kg_und_777_1_d4a81140040cb11c5ba3ebd76850fef5.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-crocante-power-one-1-005kg-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
