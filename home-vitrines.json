@@ -456,16 +456,6 @@
       "_price_per_kg": 8.5
     },
     {
-      "id": 513,
-      "name": "AVEIA FLOCOS ( 100g )",
-      "price": 0.99,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_flocos_100g_513_1_500c96acb66f3c229c773fe3c57827d0.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-flocos-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 9.2
-    },
-    {
       "id": 409,
       "name": "FUBA MIMOSO ( 100g )",
       "price": 0.95,
@@ -531,6 +521,16 @@
       "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_laminada_100g_511_1_827294e0c7a20ada950a21aec50d2a2e.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-laminada-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": 513,
+      "name": "AVEIA FLOCOS ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_flocos_100g_513_1_500c96acb66f3c229c773fe3c57827d0.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-flocos-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 9.9
@@ -2121,7 +2121,7 @@
       "price": 6.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_salgada_100g_347_1_bb16613fc7a71722e9a8651f4ea4b5b9.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/banana-salgada-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2826,7 +2826,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2970,7 +2970,7 @@
       "price": 6.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_salgada_100g_347_1_bb16613fc7a71722e9a8651f4ea4b5b9.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/banana-salgada-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3514,7 +3514,7 @@
       "price": 3.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_banana_verde_100g_463_1_d52d7593c5cd176c27c49f7ac019011e.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-banana-verde-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
