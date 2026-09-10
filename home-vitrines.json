@@ -235,7 +235,7 @@
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
     "itens": 415,
-    "indisponiveis": 3,
+    "indisponiveis": 5,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -2273,7 +2273,7 @@
       "price": 13.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_frutas_100g_147_1_3d6b1d7acebfcfc1654e8008c32a596e.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/mix-de-frutas-100g",
-      "available": true
+      "available": false
     },
     {
       "id": 165,
@@ -2719,7 +2719,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_frutas_100g_147_1_3d6b1d7acebfcfc1654e8008c32a596e.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/mix-de-frutas-100g",
       "in_stock": true,
-      "available": true
+      "available": false
     },
     {
       "id": 149,
