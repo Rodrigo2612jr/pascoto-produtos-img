@@ -1316,7 +1316,7 @@
       "price": 14.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -1516,7 +1516,7 @@
       "price": 12.2,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_s_sal_100gr_1_1_2d22ea9aae5caa5fd1b20e911d58a944.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-s-sal-100gr",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -1669,7 +1669,7 @@
       "price": 14.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -1855,7 +1855,7 @@
     {
       "id": 535,
       "name": "LINHACA MARROM SEMENTE ( 100g )",
-      "price": 2.65,
+      "price": 2.52,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_marrom_semente_100g_535_1_9b1a8c55a16c97ae5cd1a3d57071a49e.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-marrom-semente-100g",
       "in_stock": true,
@@ -1864,7 +1864,7 @@
     {
       "id": 537,
       "name": "LINHACA DOURADA SEMENTE ( 100g )",
-      "price": 2.45,
+      "price": 2.11,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_dourada_semente_100g_537_1_486100281a0c89e19ad36a06ade3f82b.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-dourada-semente-100g",
       "in_stock": true,
@@ -1873,7 +1873,7 @@
     {
       "id": 547,
       "name": "CHIA PREMIUM ( 100g )",
-      "price": 4.5,
+      "price": 3.6,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
       "in_stock": true,
@@ -2826,7 +2826,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3592,7 +3592,7 @@
     {
       "id": 535,
       "name": "LINHACA MARROM SEMENTE ( 100g )",
-      "price": 2.65,
+      "price": 2.52,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_marrom_semente_100g_535_1_9b1a8c55a16c97ae5cd1a3d57071a49e.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-marrom-semente-100g",
       "in_stock": true,
@@ -3601,7 +3601,7 @@
     {
       "id": 537,
       "name": "LINHACA DOURADA SEMENTE ( 100g )",
-      "price": 2.45,
+      "price": 2.11,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_dourada_semente_100g_537_1_486100281a0c89e19ad36a06ade3f82b.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-dourada-semente-100g",
       "in_stock": true,
@@ -3610,7 +3610,7 @@
     {
       "id": 547,
       "name": "CHIA PREMIUM ( 100g )",
-      "price": 4.5,
+      "price": 3.6,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
       "in_stock": true,
