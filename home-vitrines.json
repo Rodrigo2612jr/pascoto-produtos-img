@@ -1513,7 +1513,7 @@
     {
       "id": 1,
       "name": "AMENDOA TORRADA S/ SAL ( 100gr )",
-      "price": 12.2,
+      "price": 11.47,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_s_sal_100gr_1_1_2d22ea9aae5caa5fd1b20e911d58a944.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-s-sal-100gr",
       "in_stock": false,
@@ -1567,7 +1567,7 @@
     {
       "id": 11,
       "name": "NOZES PECAN EXTRA ( 100gr )",
-      "price": 18.5,
+      "price": 17.58,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_pecan_extra_100gr_11_1_cbfc565aed62ae67513d6ea9a37e576f.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-pecan-extra",
       "in_stock": true,
@@ -1747,7 +1747,7 @@
     {
       "id": 39,
       "name": "AMENDOA DEFUMADA ( 100gr )",
-      "price": 12.0,
+      "price": 11.28,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_defumada_100gr_39_1_0e2f26b6d2989851420af306a9fac9f6.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-defumada",
       "in_stock": true,
@@ -2190,7 +2190,7 @@
     {
       "id": 1,
       "name": "AMENDOA TORRADA S/ SAL ( 100gr )",
-      "price": 12.2,
+      "price": 11.47,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_s_sal_100gr_1_1_2d22ea9aae5caa5fd1b20e911d58a944.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-s-sal-100gr",
       "available": true
@@ -2198,7 +2198,7 @@
     {
       "id": 11,
       "name": "NOZES PECAN EXTRA ( 100gr )",
-      "price": 18.5,
+      "price": 17.58,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_pecan_extra_100gr_11_1_cbfc565aed62ae67513d6ea9a37e576f.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-pecan-extra",
       "available": true
