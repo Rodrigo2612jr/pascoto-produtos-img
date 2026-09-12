@@ -64,7 +64,7 @@
   "bestsellers": [
     {
       "name": " CASTANHA DO PARA MEDIA ( 100gr )",
-      "price": 14.8,
+      "price": 12.43,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
       "_cat_id": "1",
@@ -86,7 +86,7 @@
     },
     {
       "name": " NOZES QUEBRADA ( 100gr )",
-      "price": 7.5,
+      "price": 6.53,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_quebrada_100gr_9_1_974d615d4d962b66110563c466a01acf.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-quebrada",
       "_cat_id": "1",
@@ -119,7 +119,7 @@
     },
     {
       "name": " NOZES INTEIRA ( 100gr )",
-      "price": 11.0,
+      "price": 10.12,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_inteira_100gr_13_1_9b8c4a5b0855b5a6304e05592886bff1.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-inteira",
       "_cat_id": "1",
@@ -174,7 +174,7 @@
     },
     {
       "name": " AMENDOA TORRADA C/ SAL ( 100gr )",
-      "price": 12.0,
+      "price": 11.28,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_c_sal_100gr_43_1_56cc682a4e0d601558601433b57353d3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-c-sal",
       "_cat_id": "1",
@@ -1286,7 +1286,7 @@
     {
       "id": 23,
       "name": "CASTANHA DO PARA QUEBRADA ( 100gr )",
-      "price": 13.5,
+      "price": 11.48,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_quebrada_100gr_23_1_080d7791fa9008e57f503cf20b4268f3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-quebrada",
       "in_stock": true,
@@ -1313,7 +1313,7 @@
     {
       "id": 25,
       "name": "CASTANHA DO PARA MEDIA ( 100gr )",
-      "price": 14.8,
+      "price": 12.43,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
       "in_stock": true,
@@ -1621,7 +1621,7 @@
     {
       "id": 13,
       "name": "NOZES INTEIRA ( 100gr )",
-      "price": 11.0,
+      "price": 10.12,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_inteira_100gr_13_1_9b8c4a5b0855b5a6304e05592886bff1.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-inteira",
       "in_stock": true,
@@ -1657,7 +1657,7 @@
     {
       "id": 23,
       "name": "CASTANHA DO PARA QUEBRADA ( 100gr )",
-      "price": 13.5,
+      "price": 11.48,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_quebrada_100gr_23_1_080d7791fa9008e57f503cf20b4268f3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-quebrada",
       "in_stock": true,
@@ -1666,7 +1666,7 @@
     {
       "id": 25,
       "name": "CASTANHA DO PARA MEDIA ( 100gr )",
-      "price": 14.8,
+      "price": 12.43,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
       "in_stock": true,
@@ -1711,7 +1711,7 @@
     {
       "id": 35,
       "name": "AVELA CRUA ( 100gr )",
-      "price": 16.9,
+      "price": 14.03,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_crua_100gr_35_1_ad40c2a08a3f90d81a20077e3d4a96ec.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/avela-crua",
       "in_stock": true,
@@ -1729,7 +1729,7 @@
     {
       "id": 37,
       "name": "AMENDOA LAMINADA ( 100gr )",
-      "price": 14.5,
+      "price": 11.6,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_laminada_100gr_37_1_0fcd7027691521bd2f1146b31a367f2b.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-laminada",
       "in_stock": true,
@@ -1765,7 +1765,7 @@
     {
       "id": 43,
       "name": "AMENDOA TORRADA C/ SAL ( 100gr )",
-      "price": 12.0,
+      "price": 11.28,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_c_sal_100gr_43_1_56cc682a4e0d601558601433b57353d3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-c-sal",
       "in_stock": true,
@@ -1873,7 +1873,7 @@
     {
       "id": 547,
       "name": "CHIA PREMIUM ( 100g )",
-      "price": 4.5,
+      "price": 3.6,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
       "in_stock": true,
@@ -1999,7 +1999,7 @@
     {
       "id": 9,
       "name": "NOZES QUEBRADA ( 100gr )",
-      "price": 7.5,
+      "price": 6.53,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_quebrada_100gr_9_1_974d615d4d962b66110563c466a01acf.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-quebrada",
       "in_stock": true,
@@ -2326,7 +2326,7 @@
     {
       "id": 13,
       "name": "NOZES INTEIRA ( 100gr )",
-      "price": 11.0,
+      "price": 10.12,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_inteira_100gr_13_1_9b8c4a5b0855b5a6304e05592886bff1.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-inteira",
       "available": true
@@ -2334,7 +2334,7 @@
     {
       "id": 25,
       "name": "CASTANHA DO PARA MEDIA ( 100gr )",
-      "price": 14.8,
+      "price": 12.43,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
       "available": true
@@ -3628,7 +3628,7 @@
     {
       "id": 547,
       "name": "CHIA PREMIUM ( 100g )",
-      "price": 4.5,
+      "price": 3.6,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
       "in_stock": true,
