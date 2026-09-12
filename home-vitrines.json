@@ -1930,7 +1930,7 @@
       "price": 5.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/granola_zero_ws_100g_815_1_ef799695018330427ef84ee7ffd94227.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/granola-zero-ws-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2677,6 +2677,24 @@
       "available": true
     },
     {
+      "id": 135,
+      "name": "CEREJA EM CALDA SEM CABO LATA 1.8 KG ( 100g )",
+      "price": 9.6,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cereja_em_calda_sem_cabo_lata_1_8_kg_100g_135_1_ce9778e7959a070e62f1e8d4a24d68a1.png",
+      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/cereja-em-calda-sem-cabo-lata-1-8-kg-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 137,
+      "name": "CEREJA EM CALDA COM CABO LATA COM 1.65KG ( 100g )",
+      "price": 16.39,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cereja_em_calda_com_cabo_lata_com_1_65kg_100g_137_1_3e7c4efcfae7b8f89e5e60fe3eeb0096.png",
+      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/cereja-em-calda-com-cabo-lata-com-1-65kg-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
       "id": 139,
       "name": "UVA PASSA PRETA ( 100g )",
       "price": 2.8,
@@ -3114,7 +3132,7 @@
       "price": 5.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/granola_zero_ws_100g_815_1_ef799695018330427ef84ee7ffd94227.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/granola-zero-ws-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3795,7 +3813,7 @@
       "price": 5.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/granola_zero_ws_100g_815_1_ef799695018330427ef84ee7ffd94227.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/granola-zero-ws-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
