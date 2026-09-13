@@ -861,7 +861,7 @@
       "price": 1.59,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/arroz_integral_agulha_misto_100gr_111_1_418ce3472930b6070c75a50886e6f175.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/arroz-integral-agulha-misto-100gr",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 15.9
     },
@@ -1469,7 +1469,7 @@
       "price": 49.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/oleo_de_curcuma_tani_250ml_und_901_1_c309f4bfcb7571eaeeb9813947484f65.jpg",
       "url": "https://www.emporiopascoto.com.br/26-encapsulados/oleo-de-curcuma-tani-250ml-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -1516,7 +1516,7 @@
       "price": 11.47,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_s_sal_100gr_1_1_2d22ea9aae5caa5fd1b20e911d58a944.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-s-sal-100gr",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2121,7 +2121,7 @@
       "price": 6.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_salgada_100g_347_1_bb16613fc7a71722e9a8651f4ea4b5b9.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/banana-salgada-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2844,7 +2844,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2988,7 +2988,7 @@
       "price": 6.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_salgada_100g_347_1_bb16613fc7a71722e9a8651f4ea4b5b9.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/banana-salgada-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3703,7 +3703,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/moringa_em_po_100g_893_1_417452696a11f9a737a3072f7b097d8e.jpg",
       "url": "https://www.emporiopascoto.com.br/23-suplemetos/moringa-em-po-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
