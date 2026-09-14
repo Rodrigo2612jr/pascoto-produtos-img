@@ -406,6 +406,16 @@
       "_price_per_kg": 7.5
     },
     {
+      "id": 101,
+      "name": "CANJICA BRANCA ( 100gr )",
+      "price": 0.76,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/canjica_branca_100gr_101_1_cbfa52772f7a3002f76e97a017d93297.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/canjica-branca-100gr",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 7.6
+    },
+    {
       "id": 433,
       "name": "FARINHA GROSSA MANDIOCA ( 100g )",
       "price": 0.78,
@@ -436,6 +446,16 @@
       "_price_per_kg": 8.0
     },
     {
+      "id": 697,
+      "name": "BICARBONATO DE SODIO ( 100g )",
+      "price": 0.81,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/bicarbonato_de_sodio_100g_697_1_5e41c87acf75c17ea8b425c530d88cd2.jpg",
+      "url": "https://www.emporiopascoto.com.br/17-temperos/bicarbonato-de-sodio-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 8.1
+    },
+    {
       "id": 1043,
       "name": "MOLHO DE TOMATE TRADICIONAL QUERO 300G ( UND )",
       "price": 2.5,
@@ -464,16 +484,6 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 9.5
-    },
-    {
-      "id": 101,
-      "name": "CANJICA BRANCA ( 100gr )",
-      "price": 0.99,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/canjica_branca_100gr_101_1_cbfa52772f7a3002f76e97a017d93297.jpg",
-      "url": "https://www.emporiopascoto.com.br/7-graos/canjica-branca-100gr",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 9.9
     },
     {
       "id": 383,
@@ -606,16 +616,6 @@
       "_price_per_kg": 10.5
     },
     {
-      "id": 697,
-      "name": "BICARBONATO DE SODIO ( 100g )",
-      "price": 1.05,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/bicarbonato_de_sodio_100g_697_1_5e41c87acf75c17ea8b425c530d88cd2.jpg",
-      "url": "https://www.emporiopascoto.com.br/17-temperos/bicarbonato-de-sodio-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 10.5
-    },
-    {
       "id": 99,
       "name": "ERVILHA PARTIDA ( 100gr )",
       "price": 1.05,
@@ -634,6 +634,16 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 10.8
+    },
+    {
+      "id": 475,
+      "name": "FARELO DE AVEIA ( 100g )",
+      "price": 1.13,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 11.3
     },
     {
       "id": 467,
@@ -666,6 +676,16 @@
       "_price_per_kg": 12.0
     },
     {
+      "id": 325,
+      "name": "ACUCAR DEMERARA  ( 100g )",
+      "price": 1.2,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/acucar_demerara_100g_325_1_a0072004b80bc70d798edaacda3d0071.jpg",
+      "url": "https://www.emporiopascoto.com.br/10-adocantes-naturais/acucar-demerara-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 12.0
+    },
+    {
       "id": 47,
       "name": "TRIGO EM GRAO ( 100gr )",
       "price": 1.2,
@@ -684,6 +704,16 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 12.0
+    },
+    {
+      "id": 791,
+      "name": "AMENDOIM RUNNER ( 100g )",
+      "price": 1.22,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_runner_100g_791_1_558d88fd8ecb25d0abf5ea58122a11e2.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-runner-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 12.2
     },
     {
       "id": 1337,
@@ -736,6 +766,16 @@
       "_price_per_kg": 13.0
     },
     {
+      "id": 65,
+      "name": "GRAO DE BICO  MIUDO ( 100gr )",
+      "price": 1.31,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/grao_de_bico_miudo_100gr_65_1_948a785a3adb9cbbf14c4b71940d6f6e.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/grao-de-bico-miudo-100gr",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 13.1
+    },
+    {
       "id": 1085,
       "name": "MOLHO DE TOMATE TRADICIONAL SALSARETTI 300G ( UND )",
       "price": 4.0,
@@ -754,16 +794,6 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 13.5
-    },
-    {
-      "id": 791,
-      "name": "AMENDOIM RUNNER ( 100g )",
-      "price": 1.36,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_runner_100g_791_1_558d88fd8ecb25d0abf5ea58122a11e2.jpg",
-      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-runner-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 13.6
     },
     {
       "id": 1239,
@@ -796,16 +826,6 @@
       "_price_per_kg": 13.9
     },
     {
-      "id": 325,
-      "name": "ACUCAR DEMERARA  ( 100g )",
-      "price": 1.45,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/acucar_demerara_100g_325_1_a0072004b80bc70d798edaacda3d0071.jpg",
-      "url": "https://www.emporiopascoto.com.br/10-adocantes-naturais/acucar-demerara-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 14.5
-    },
-    {
       "id": 87,
       "name": "FEIJAO BRANCO ( 100gr )",
       "price": 1.49,
@@ -816,16 +836,6 @@
       "_price_per_kg": 14.9
     },
     {
-      "id": 475,
-      "name": "FARELO DE AVEIA ( 100g )",
-      "price": 1.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 15.0
-    },
-    {
       "id": 571,
       "name": "TEMPERO BAIANO SEM PIMENTA ( 100g )",
       "price": 1.5,
@@ -834,6 +844,26 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 15.0
+    },
+    {
+      "id": 785,
+      "name": "AMENDOIM S/ SAL S/PELE TORRADO ( 100g )",
+      "price": 1.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_s_sal_s_pele_torrado_100g_785_1_85b5edf1d3ae813d61822db6d839c1f7.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-s-sal-spele-torrado-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 15.0
+    },
+    {
+      "id": 787,
+      "name": "AMENDOIM C/ SAL S/PELE TORRADO ( 100g )",
+      "price": 1.52,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_c_sal_s_pele_torrado_100g_787_1_aa09704200d7956de6a71bb9079cf82e.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-c-sal-spele-torrado-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 15.2
     },
     {
       "id": 455,
@@ -916,6 +946,26 @@
       "_price_per_kg": 16.5
     },
     {
+      "id": 781,
+      "name": "XEREM DE AMENDOIM ( 100g )",
+      "price": 1.69,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/xerem_de_amendoim_100g_781_1_83187ad4394e472798736d21eee03f44.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/xerem-de-amendoim-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 16.9
+    },
+    {
+      "id": 783,
+      "name": "FARINHA DE AMENDOIM ( 100g )",
+      "price": 1.69,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_amendoim_100g_783_1_49c0bdee20aaf06461d59bb676fbfca0.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/farinha-de-amendoim-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 16.9
+    },
+    {
       "id": 447,
       "name": "FARINHA DE GLUTEN 500G ( 100g )",
       "price": 1.7,
@@ -924,16 +974,6 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 17.0
-    },
-    {
-      "id": 65,
-      "name": "GRAO DE BICO  MIUDO ( 100gr )",
-      "price": 1.75,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/grao_de_bico_miudo_100gr_65_1_948a785a3adb9cbbf14c4b71940d6f6e.jpg",
-      "url": "https://www.emporiopascoto.com.br/7-graos/grao-de-bico-miudo-100gr",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 17.5
     },
     {
       "id": 673,
@@ -966,24 +1006,14 @@
       "_price_per_kg": 18.0
     },
     {
-      "id": 781,
-      "name": "XEREM DE AMENDOIM ( 100g )",
-      "price": 1.8,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/xerem_de_amendoim_100g_781_1_83187ad4394e472798736d21eee03f44.jpg",
-      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/xerem-de-amendoim-100g",
+      "id": 73,
+      "name": "FEIJAO ROXAO ( 100gr )",
+      "price": 1.86,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/feijao_roxao_100gr_73_1_50292543ccc7c2101705e0c23b70b4cf.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/feijao-roxao-100gr",
       "in_stock": true,
       "available": true,
-      "_price_per_kg": 18.0
-    },
-    {
-      "id": 783,
-      "name": "FARINHA DE AMENDOIM ( 100g )",
-      "price": 1.8,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_amendoim_100g_783_1_49c0bdee20aaf06461d59bb676fbfca0.jpg",
-      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/farinha-de-amendoim-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 18.0
+      "_price_per_kg": 18.6
     },
     {
       "id": 1243,
@@ -1044,26 +1074,6 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 19.0
-    },
-    {
-      "id": 785,
-      "name": "AMENDOIM S/ SAL S/PELE TORRADO ( 100g )",
-      "price": 1.95,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_s_sal_s_pele_torrado_100g_785_1_85b5edf1d3ae813d61822db6d839c1f7.jpg",
-      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-s-sal-spele-torrado-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 19.5
-    },
-    {
-      "id": 787,
-      "name": "AMENDOIM C/ SAL S/PELE TORRADO ( 100g )",
-      "price": 1.95,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_c_sal_s_pele_torrado_100g_787_1_aa09704200d7956de6a71bb9079cf82e.jpg",
-      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-c-sal-spele-torrado-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 19.5
     }
   ],
   "imunidade": [
@@ -1286,7 +1296,7 @@
     {
       "id": 23,
       "name": "CASTANHA DO PARA QUEBRADA ( 100gr )",
-      "price": 13.5,
+      "price": 11.48,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_quebrada_100gr_23_1_080d7791fa9008e57f503cf20b4268f3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-quebrada",
       "in_stock": true,
@@ -1313,7 +1323,7 @@
     {
       "id": 25,
       "name": "CASTANHA DO PARA MEDIA ( 100gr )",
-      "price": 14.8,
+      "price": 12.43,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
       "in_stock": true,
@@ -1439,7 +1449,7 @@
     {
       "id": 867,
       "name": "GENGIBRE EM PO PURO ( 100g )",
-      "price": 11.5,
+      "price": 9.32,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/gengibre_em_po_puro_100g_867_1_9cf73d28add5afc587f50d9aa738f18b.jpg",
       "url": "https://www.emporiopascoto.com.br/23-suplemetos/gengibre-em-po-puro-100g",
       "in_stock": true,
@@ -1513,7 +1523,7 @@
     {
       "id": 1,
       "name": "AMENDOA TORRADA S/ SAL ( 100gr )",
-      "price": 12.2,
+      "price": 11.47,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_s_sal_100gr_1_1_2d22ea9aae5caa5fd1b20e911d58a944.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-s-sal-100gr",
       "in_stock": true,
@@ -1567,7 +1577,7 @@
     {
       "id": 11,
       "name": "NOZES PECAN EXTRA ( 100gr )",
-      "price": 18.5,
+      "price": 17.58,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_pecan_extra_100gr_11_1_cbfc565aed62ae67513d6ea9a37e576f.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-pecan-extra",
       "in_stock": true,
@@ -1621,7 +1631,7 @@
     {
       "id": 13,
       "name": "NOZES INTEIRA ( 100gr )",
-      "price": 11.0,
+      "price": 10.12,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_inteira_100gr_13_1_9b8c4a5b0855b5a6304e05592886bff1.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-inteira",
       "in_stock": true,
@@ -1657,7 +1667,7 @@
     {
       "id": 23,
       "name": "CASTANHA DO PARA QUEBRADA ( 100gr )",
-      "price": 13.5,
+      "price": 11.48,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_quebrada_100gr_23_1_080d7791fa9008e57f503cf20b4268f3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-quebrada",
       "in_stock": true,
@@ -1666,7 +1676,7 @@
     {
       "id": 25,
       "name": "CASTANHA DO PARA MEDIA ( 100gr )",
-      "price": 14.8,
+      "price": 12.43,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
       "in_stock": true,
@@ -1711,7 +1721,7 @@
     {
       "id": 35,
       "name": "AVELA CRUA ( 100gr )",
-      "price": 16.9,
+      "price": 14.03,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_crua_100gr_35_1_ad40c2a08a3f90d81a20077e3d4a96ec.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/avela-crua",
       "in_stock": true,
@@ -1729,7 +1739,7 @@
     {
       "id": 37,
       "name": "AMENDOA LAMINADA ( 100gr )",
-      "price": 14.5,
+      "price": 11.31,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_laminada_100gr_37_1_0fcd7027691521bd2f1146b31a367f2b.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-laminada",
       "in_stock": true,
@@ -1747,7 +1757,7 @@
     {
       "id": 39,
       "name": "AMENDOA DEFUMADA ( 100gr )",
-      "price": 12.0,
+      "price": 11.28,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_defumada_100gr_39_1_0e2f26b6d2989851420af306a9fac9f6.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-defumada",
       "in_stock": true,
@@ -1765,7 +1775,7 @@
     {
       "id": 43,
       "name": "AMENDOA TORRADA C/ SAL ( 100gr )",
-      "price": 12.0,
+      "price": 11.28,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_c_sal_100gr_43_1_56cc682a4e0d601558601433b57353d3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-c-sal",
       "in_stock": true,
@@ -1873,7 +1883,7 @@
     {
       "id": 547,
       "name": "CHIA PREMIUM ( 100g )",
-      "price": 4.5,
+      "price": 3.38,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
       "in_stock": true,
@@ -1999,7 +2009,7 @@
     {
       "id": 9,
       "name": "NOZES QUEBRADA ( 100gr )",
-      "price": 7.5,
+      "price": 6.6,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_quebrada_100gr_9_1_974d615d4d962b66110563c466a01acf.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-quebrada",
       "in_stock": true,
@@ -2019,7 +2029,7 @@
     {
       "id": 1005,
       "name": "CHIPS DE MORANGO 80G ( UND )",
-      "price": 48.5,
+      "price": 40.74,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chips_de_morango_80g_und_1005_1_f1bebae274d311afc178b8d3ee3f537d.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/chips-de-morango-80g-und",
       "in_stock": true,
@@ -2046,7 +2056,7 @@
     {
       "id": 331,
       "name": "CHIPS DE VEGETAIS 100G ( UND )",
-      "price": 16.9,
+      "price": 12.68,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chips_de_vegetais_100g_und_331_1_93f8bef7af8baf1fc27d74a92133eb24.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/chips-de-vegetais-100g-und",
       "in_stock": true,
@@ -2055,7 +2065,7 @@
     {
       "id": 333,
       "name": "MIX BATATA DOCE 50G ( UND )",
-      "price": 7.5,
+      "price": 5.63,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_batata_doce_50g_und_333_1_605954a1d76036f656ec4f34ce97562f.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/mix-batata-doce-50g-und",
       "in_stock": true,
@@ -2064,7 +2074,7 @@
     {
       "id": 335,
       "name": "MILHO MOSTARDA E MEL ( 100g )",
-      "price": 6.5,
+      "price": 5.33,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_mostarda_e_mel_100g_335_1_bff669268376c57392c5336290457e18.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/milho-mostarda-e-mel-100g",
       "in_stock": true,
@@ -2085,7 +2095,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/ervilha_torrada_com_wasabi_100g_339_1_3096c55a82b6f5ee3e87c528c1a72559.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/ervilha-torrada-com-wasabi-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2634,7 +2644,7 @@
     {
       "id": 1005,
       "name": "CHIPS DE MORANGO 80G ( UND )",
-      "price": 48.5,
+      "price": 40.74,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chips_de_morango_80g_und_1005_1_f1bebae274d311afc178b8d3ee3f537d.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/chips-de-morango-80g-und",
       "in_stock": true,
@@ -2652,7 +2662,7 @@
     {
       "id": 129,
       "name": "MORANGO DESIDRATADO ( 100g )",
-      "price": 12.0,
+      "price": 9.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/morango_desidratado_100g_129_1_3f65c16740de4414fcea8f3848899e2c.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/morango-desidratado-100g",
       "in_stock": true,
@@ -2697,7 +2707,7 @@
     {
       "id": 139,
       "name": "UVA PASSA PRETA ( 100g )",
-      "price": 2.8,
+      "price": 2.21,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/uva_passa_preta_100g_139_1_adfa0bb6d5813904cd74af3be0600b3b.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/uva-passa-preta-100g",
       "in_stock": true,
@@ -2706,7 +2716,7 @@
     {
       "id": 141,
       "name": "UVA PASSA BRANCA ( 100g )",
-      "price": 6.5,
+      "price": 5.33,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/uva_passa_branca_100g_141_1_664c6757b7db5a42d5e3541777fc676a.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/uva-passa-branca-100g",
       "in_stock": true,
@@ -2715,7 +2725,7 @@
     {
       "id": 143,
       "name": "TAMARA SEM CAROCO ( 100g )",
-      "price": 4.5,
+      "price": 3.38,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
       "in_stock": true,
@@ -2814,7 +2824,7 @@
     {
       "id": 165,
       "name": "DAMASCO ( 100g )",
-      "price": 14.9,
+      "price": 12.37,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/damasco_100g_165_1_e74515eceed7fc7e5fd2525aa1bd9a0f.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/damasco-100g",
       "in_stock": true,
@@ -2868,7 +2878,7 @@
     {
       "id": 175,
       "name": "ABACAXI CRISTALIZADO ( 100g )",
-      "price": 12.8,
+      "price": 10.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/abacaxi_cristalizado_100g_175_1_234b058d1bd4379d54c85a0ab523ac19.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/abacaxi-cristalizado-100g",
       "in_stock": true,
@@ -2913,7 +2923,7 @@
     {
       "id": 331,
       "name": "CHIPS DE VEGETAIS 100G ( UND )",
-      "price": 16.9,
+      "price": 12.68,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chips_de_vegetais_100g_und_331_1_93f8bef7af8baf1fc27d74a92133eb24.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/chips-de-vegetais-100g-und",
       "in_stock": true,
@@ -2922,7 +2932,7 @@
     {
       "id": 333,
       "name": "MIX BATATA DOCE 50G ( UND )",
-      "price": 7.5,
+      "price": 5.63,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_batata_doce_50g_und_333_1_605954a1d76036f656ec4f34ce97562f.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/mix-batata-doce-50g-und",
       "in_stock": true,
@@ -2931,7 +2941,7 @@
     {
       "id": 335,
       "name": "MILHO MOSTARDA E MEL ( 100g )",
-      "price": 6.5,
+      "price": 5.33,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_mostarda_e_mel_100g_335_1_bff669268376c57392c5336290457e18.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/milho-mostarda-e-mel-100g",
       "in_stock": true,
@@ -2952,7 +2962,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/ervilha_torrada_com_wasabi_100g_339_1_3096c55a82b6f5ee3e87c528c1a72559.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/ervilha-torrada-com-wasabi-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3338,7 +3348,7 @@
     {
       "id": 481,
       "name": "ERVA CIDREIRA ( 100g )",
-      "price": 3.5,
+      "price": 2.94,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/erva_cidreira_100g_481_1_f9340b42900a1d259f0830d06a20a742.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/erva-cidreira-100g",
       "in_stock": true,
@@ -3457,7 +3467,7 @@
     {
       "id": 401,
       "name": "HIBISCO FLOR ( 100g )",
-      "price": 4.8,
+      "price": 3.89,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/hibisco_flor_100g_401_1_4149a18fc8234c0972750c7c18ba3c07.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/hibisco-flor-100g",
       "in_stock": true,
@@ -3502,7 +3512,7 @@
     {
       "id": 451,
       "name": "FARINHA DE COCO BRANCA ( 100g )",
-      "price": 4.5,
+      "price": 3.38,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_coco_branca_100g_451_1_1f675c6d3ca70620b45155d48610b72d.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-coco-branca-100g",
       "in_stock": true,
@@ -3556,7 +3566,7 @@
     {
       "id": 475,
       "name": "FARELO DE AVEIA ( 100g )",
-      "price": 1.5,
+      "price": 1.13,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
       "in_stock": true,
@@ -3583,7 +3593,7 @@
     {
       "id": 493,
       "name": "CAVALINHA CULTIVADA ( 100g )",
-      "price": 9.8,
+      "price": 7.35,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/cavalinha_cultivada_100g_493_1_44ff379370117e646db6fa4bc2589bf4.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/cavalinha-cultivada-100g",
       "in_stock": true,
@@ -3628,7 +3638,7 @@
     {
       "id": 547,
       "name": "CHIA PREMIUM ( 100g )",
-      "price": 4.5,
+      "price": 3.38,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
       "in_stock": true,
@@ -3637,7 +3647,7 @@
     {
       "id": 55,
       "name": "QUINUA GRAO ( 100gr )",
-      "price": 3.8,
+      "price": 2.96,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/quinua_grao_100gr_55_1_f3d498b60e40436a39fe398111b061f9.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/quinua-grao-100gr",
       "in_stock": true,
@@ -3691,7 +3701,7 @@
     {
       "id": 867,
       "name": "GENGIBRE EM PO PURO ( 100g )",
-      "price": 11.5,
+      "price": 9.32,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/gengibre_em_po_puro_100g_867_1_9cf73d28add5afc587f50d9aa738f18b.jpg",
       "url": "https://www.emporiopascoto.com.br/23-suplemetos/gengibre-em-po-puro-100g",
       "in_stock": true,
@@ -3738,7 +3748,7 @@
     {
       "id": 317,
       "name": "ERITRITOL ( 100g )",
-      "price": 4.5,
+      "price": 3.56,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/eritritol_100g_317_1_8273240b290e25b7c3589d0cebc690a5.jpg",
       "url": "https://www.emporiopascoto.com.br/10-adocantes-naturais/eritritol-100g",
       "in_stock": true,
