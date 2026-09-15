@@ -706,16 +706,6 @@
       "_price_per_kg": 12.0
     },
     {
-      "id": 791,
-      "name": "AMENDOIM RUNNER ( 100g )",
-      "price": 1.36,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_runner_100g_791_1_558d88fd8ecb25d0abf5ea58122a11e2.jpg",
-      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-runner-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 12.2
-    },
-    {
       "id": 1337,
       "name": "FARINHA DE MILHO PIRA 1KG ( UND )",
       "price": 12.5,
@@ -794,6 +784,16 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 13.5
+    },
+    {
+      "id": 791,
+      "name": "AMENDOIM RUNNER ( 100g )",
+      "price": 1.36,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_runner_100g_791_1_558d88fd8ecb25d0abf5ea58122a11e2.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-runner-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 13.6
     },
     {
       "id": 1239,
@@ -946,26 +946,6 @@
       "_price_per_kg": 16.5
     },
     {
-      "id": 781,
-      "name": "XEREM DE AMENDOIM ( 100g )",
-      "price": 1.8,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/xerem_de_amendoim_100g_781_1_83187ad4394e472798736d21eee03f44.jpg",
-      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/xerem-de-amendoim-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 16.9
-    },
-    {
-      "id": 783,
-      "name": "FARINHA DE AMENDOIM ( 100g )",
-      "price": 1.8,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_amendoim_100g_783_1_49c0bdee20aaf06461d59bb676fbfca0.jpg",
-      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/farinha-de-amendoim-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 16.9
-    },
-    {
       "id": 447,
       "name": "FARINHA DE GLUTEN 500G ( 100g )",
       "price": 1.7,
@@ -1001,6 +981,26 @@
       "price": 1.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tempero_baiano_po_100g_601_1_ee7312108b5a74f72f990d3f6edef947.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/tempero-baiano-po-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 18.0
+    },
+    {
+      "id": 781,
+      "name": "XEREM DE AMENDOIM ( 100g )",
+      "price": 1.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/xerem_de_amendoim_100g_781_1_83187ad4394e472798736d21eee03f44.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/xerem-de-amendoim-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 18.0
+    },
+    {
+      "id": 783,
+      "name": "FARINHA DE AMENDOIM ( 100g )",
+      "price": 1.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_amendoim_100g_783_1_49c0bdee20aaf06461d59bb676fbfca0.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/farinha-de-amendoim-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 18.0
