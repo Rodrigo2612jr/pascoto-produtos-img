@@ -42,7 +42,7 @@
     },
     {
       "name": "BOLDO ( 100g )",
-      "price": 8.5,
+      "price": 7.48,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/boldo_100g_503_1_cf10403bf24fc0ec48c7a0a8d196749d.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/boldo-100g",
       "_cat_id": "14",
@@ -86,7 +86,7 @@
     },
     {
       "name": " NOZES QUEBRADA ( 100gr )",
-      "price": 6.6,
+      "price": 7.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_quebrada_100gr_9_1_974d615d4d962b66110563c466a01acf.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-quebrada",
       "_cat_id": "1",
@@ -119,7 +119,7 @@
     },
     {
       "name": " NOZES INTEIRA ( 100gr )",
-      "price": 10.12,
+      "price": 11.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_inteira_100gr_13_1_9b8c4a5b0855b5a6304e05592886bff1.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-inteira",
       "_cat_id": "1",
@@ -174,7 +174,7 @@
     },
     {
       "name": " AMENDOA TORRADA C/ SAL ( 100gr )",
-      "price": 11.28,
+      "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_c_sal_100gr_43_1_56cc682a4e0d601558601433b57353d3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-c-sal",
       "_cat_id": "1",
@@ -708,7 +708,7 @@
     {
       "id": 791,
       "name": "AMENDOIM RUNNER ( 100g )",
-      "price": 1.22,
+      "price": 1.36,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_runner_100g_791_1_558d88fd8ecb25d0abf5ea58122a11e2.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-runner-100g",
       "in_stock": true,
@@ -948,7 +948,7 @@
     {
       "id": 781,
       "name": "XEREM DE AMENDOIM ( 100g )",
-      "price": 1.69,
+      "price": 1.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/xerem_de_amendoim_100g_781_1_83187ad4394e472798736d21eee03f44.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/xerem-de-amendoim-100g",
       "in_stock": true,
@@ -958,7 +958,7 @@
     {
       "id": 783,
       "name": "FARINHA DE AMENDOIM ( 100g )",
-      "price": 1.69,
+      "price": 1.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_amendoim_100g_783_1_49c0bdee20aaf06461d59bb676fbfca0.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/farinha-de-amendoim-100g",
       "in_stock": true,
@@ -1523,7 +1523,7 @@
     {
       "id": 1,
       "name": "AMENDOA TORRADA S/ SAL ( 100gr )",
-      "price": 11.47,
+      "price": 12.2,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_s_sal_100gr_1_1_2d22ea9aae5caa5fd1b20e911d58a944.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-s-sal-100gr",
       "in_stock": true,
@@ -1577,7 +1577,7 @@
     {
       "id": 11,
       "name": "NOZES PECAN EXTRA ( 100gr )",
-      "price": 17.58,
+      "price": 18.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_pecan_extra_100gr_11_1_cbfc565aed62ae67513d6ea9a37e576f.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-pecan-extra",
       "in_stock": true,
@@ -1631,7 +1631,7 @@
     {
       "id": 13,
       "name": "NOZES INTEIRA ( 100gr )",
-      "price": 10.12,
+      "price": 11.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_inteira_100gr_13_1_9b8c4a5b0855b5a6304e05592886bff1.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-inteira",
       "in_stock": true,
@@ -1757,7 +1757,7 @@
     {
       "id": 39,
       "name": "AMENDOA DEFUMADA ( 100gr )",
-      "price": 11.28,
+      "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_defumada_100gr_39_1_0e2f26b6d2989851420af306a9fac9f6.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-defumada",
       "in_stock": true,
@@ -1775,7 +1775,7 @@
     {
       "id": 43,
       "name": "AMENDOA TORRADA C/ SAL ( 100gr )",
-      "price": 11.28,
+      "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_c_sal_100gr_43_1_56cc682a4e0d601558601433b57353d3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-c-sal",
       "in_stock": true,
@@ -2009,7 +2009,7 @@
     {
       "id": 9,
       "name": "NOZES QUEBRADA ( 100gr )",
-      "price": 6.6,
+      "price": 7.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_quebrada_100gr_9_1_974d615d4d962b66110563c466a01acf.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-quebrada",
       "in_stock": true,
@@ -2200,7 +2200,7 @@
     {
       "id": 1,
       "name": "AMENDOA TORRADA S/ SAL ( 100gr )",
-      "price": 11.47,
+      "price": 12.2,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_s_sal_100gr_1_1_2d22ea9aae5caa5fd1b20e911d58a944.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-s-sal-100gr",
       "available": true
@@ -2208,7 +2208,7 @@
     {
       "id": 11,
       "name": "NOZES PECAN EXTRA ( 100gr )",
-      "price": 17.58,
+      "price": 18.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_pecan_extra_100gr_11_1_cbfc565aed62ae67513d6ea9a37e576f.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-pecan-extra",
       "available": true
@@ -2232,7 +2232,7 @@
     {
       "id": 795,
       "name": "AMENDOIM JAPONES ( 100g )",
-      "price": 2.94,
+      "price": 3.2,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_japones_100g_795_1_ef18938489b15026db540f4fbc341fe9.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-japones-100g",
       "available": true
@@ -2336,7 +2336,7 @@
     {
       "id": 13,
       "name": "NOZES INTEIRA ( 100gr )",
-      "price": 10.12,
+      "price": 11.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_inteira_100gr_13_1_9b8c4a5b0855b5a6304e05592886bff1.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-inteira",
       "available": true
@@ -2474,7 +2474,7 @@
     {
       "id": 791,
       "name": "AMENDOIM RUNNER ( 100g )",
-      "price": 1.22,
+      "price": 1.36,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_runner_100g_791_1_558d88fd8ecb25d0abf5ea58122a11e2.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-runner-100g",
       "available": true
@@ -2482,7 +2482,7 @@
     {
       "id": 797,
       "name": "AMENDOIM HPS ( 100g )",
-      "price": 3.17,
+      "price": 3.6,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_hps_100g_797_1_619650b639ca364d8e78bc70ea22e6bb.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-hps-100g",
       "available": true
@@ -2506,7 +2506,7 @@
     {
       "id": 795,
       "name": "AMENDOIM JAPONES ( 100g )",
-      "price": 2.94,
+      "price": 3.2,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_japones_100g_795_1_ef18938489b15026db540f4fbc341fe9.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-japones-100g",
       "available": true
@@ -2610,7 +2610,7 @@
     {
       "id": 479,
       "name": "ERVA DOCE IMPORTADA ( 100g )",
-      "price": 6.8,
+      "price": 5.98,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/erva_doce_importada_100g_479_1_cff2c5b5ce21c3773085b2aa02077e0a.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/erva-doce-importada-100g",
       "available": true
@@ -3339,7 +3339,7 @@
     {
       "id": 397,
       "name": "MELISSA ( 100g )",
-      "price": 7.8,
+      "price": 7.25,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/melissa_100g_397_1_bc4768a8ba1e1b39e223ca121ebd0d4f.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/melissa-100g",
       "in_stock": true,
@@ -3357,7 +3357,7 @@
     {
       "id": 501,
       "name": "CAMOMILA ( 100g )",
-      "price": 5.8,
+      "price": 5.1,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/camomila_100g_501_1_b48ce291fb6e686a8445782bebfe7af2.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/camomila-100g",
       "in_stock": true,
@@ -3458,7 +3458,7 @@
     {
       "id": 387,
       "name": "SENE ( 100g )",
-      "price": 2.8,
+      "price": 2.46,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/sene_100g_387_1_d147fc584211ae1c470b4e36a6608494.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/sene-100g",
       "in_stock": true,
@@ -3575,7 +3575,7 @@
     {
       "id": 487,
       "name": "CHA VERDE IMPORTADO ( 100g )",
-      "price": 6.3,
+      "price": 5.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/cha_verde_importado_100g_487_1_a757299dedc389e3191f875535e5b36c.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/cha-verde-importado-100g",
       "in_stock": true,
@@ -3584,7 +3584,7 @@
     {
       "id": 489,
       "name": "CHA VERDE ( 100g )",
-      "price": 3.0,
+      "price": 2.67,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/cha_verde_100g_489_1_5b209c7111cadb0489f496b0d5739dd1.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/cha-verde-100g",
       "in_stock": true,
@@ -3602,7 +3602,7 @@
     {
       "id": 499,
       "name": "CARQUEJA AMARGA ( 100g )",
-      "price": 5.5,
+      "price": 4.84,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carqueja_amarga_100g_499_1_37ea637f671bf2cfb8a7e04dabec447b.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/carqueja-amarga-100g",
       "in_stock": true,
