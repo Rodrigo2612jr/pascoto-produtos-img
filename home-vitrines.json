@@ -481,7 +481,7 @@
       "price": 0.95,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/fuba_mimoso_100g_409_1_a91179edbf57af858d1f8b4243dff84b.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/fuba-mimoso-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 9.5
     },
