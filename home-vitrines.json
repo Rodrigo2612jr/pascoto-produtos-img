@@ -406,16 +406,6 @@
       "_price_per_kg": 7.5
     },
     {
-      "id": 101,
-      "name": "CANJICA BRANCA ( 100gr )",
-      "price": 0.99,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/canjica_branca_100gr_101_1_cbfa52772f7a3002f76e97a017d93297.jpg",
-      "url": "https://www.emporiopascoto.com.br/7-graos/canjica-branca-100gr",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 7.6
-    },
-    {
       "id": 433,
       "name": "FARINHA GROSSA MANDIOCA ( 100g )",
       "price": 0.78,
@@ -481,9 +471,19 @@
       "price": 0.95,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/fuba_mimoso_100g_409_1_a91179edbf57af858d1f8b4243dff84b.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/fuba-mimoso-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 9.5
+    },
+    {
+      "id": 101,
+      "name": "CANJICA BRANCA ( 100gr )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/canjica_branca_100gr_101_1_cbfa52772f7a3002f76e97a017d93297.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/canjica-branca-100gr",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 9.9
     },
     {
       "id": 383,
@@ -491,7 +491,7 @@
       "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/trigo_para_kibe_100g_383_1_438e45e3f4194a4e37b069a04ba5072e.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/trigo-para-kibe-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 9.9
     },
@@ -2095,7 +2095,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/ervilha_torrada_com_wasabi_100g_339_1_3096c55a82b6f5ee3e87c528c1a72559.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/ervilha-torrada-com-wasabi-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2962,7 +2962,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/ervilha_torrada_com_wasabi_100g_339_1_3096c55a82b6f5ee3e87c528c1a72559.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/ervilha-torrada-com-wasabi-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
