@@ -22,7 +22,7 @@
     },
     {
       "name": "PIMENTA CALABRESA FLOCOS ( 100g )",
-      "price": 4.0,
+      "price": 3.52,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/pimenta_calabresa_flocos_100g_623_1_bacfc30bb045a3797a68c028578d210f.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/pimenta-calabresa-flocos-100g",
       "_cat_id": "17",
@@ -265,7 +265,7 @@
     },
     {
       "name": "FUMACA EM PO ( 100g )",
-      "price": 4.0,
+      "price": 3.52,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/fumaca_em_po_100g_653_1_e098da51b989d148a71513fb209a7958.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/fumaca-em-po-100g",
       "id": 653,
@@ -838,7 +838,7 @@
     {
       "id": 571,
       "name": "TEMPERO BAIANO SEM PIMENTA ( 100g )",
-      "price": 1.5,
+      "price": 1.32,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tempero_baiano_sem_pimenta_100g_571_1_5d8b20f48e15fc537d3595524ed1c2af.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/tempero-baiano-sem-pimenta-100g",
       "in_stock": true,
@@ -978,7 +978,7 @@
     {
       "id": 601,
       "name": "TEMPERO BAIANO PO ( 100g )",
-      "price": 1.8,
+      "price": 1.58,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tempero_baiano_po_100g_601_1_ee7312108b5a74f72f990d3f6edef947.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/tempero-baiano-po-100g",
       "in_stock": true,
@@ -1422,7 +1422,7 @@
     {
       "id": 569,
       "name": "ACAFRAO IMPORTADO ( 100g )",
-      "price": 5.0,
+      "price": 4.4,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/acafrao_importado_100g_569_1_10a71054f56785af31139408f74f681e.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/acafrao-importado-100g",
       "in_stock": true,
@@ -1431,7 +1431,7 @@
     {
       "id": 713,
       "name": "ACAFRAO NACIONAL ( 100g )",
-      "price": 10.5,
+      "price": 9.24,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/acafrao_nacional_100g_713_1_d4a10754653e307926f0eb33db6f8599.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/acafrao-nacional-100g",
       "in_stock": true,
@@ -1748,7 +1748,7 @@
     {
       "id": 371,
       "name": "AVELA C/ CHOC AO LEITE ( 100g )",
-      "price": 23.32,
+      "price": 26.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_c_choc_ao_leite_100g_371_1_a08f1267711ddb04c81aef123f47eefc.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/avela-c-choc-ao-leite-100g",
       "in_stock": true,
@@ -1829,7 +1829,7 @@
     {
       "id": 495,
       "name": "CASTANHA DE CAJU COM CHOCOLATE ( 100g )",
-      "price": 21.39,
+      "price": 23.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_de_caju_com_chocolate_100g_495_1_7bda92fa375dd4be2cf3fcb6a574635f.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/castanha-de-caju-com-chocolate-100g",
       "in_stock": true,
@@ -1838,7 +1838,7 @@
     {
       "id": 497,
       "name": "CASTANHA DE CAJU C/ CHOC 70% CACAU ( 100g )",
-      "price": 21.56,
+      "price": 24.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_de_caju_c_choc_70_cacau_100g_497_1_005e42870ed429cc0c7188b22e0fc1d5.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/castanha-de-caju-c-choc-70-cacau-100g",
       "in_stock": true,
@@ -1847,7 +1847,7 @@
     {
       "id": 509,
       "name": "AVELA C/ CHOC 70% ( 100g )",
-      "price": 23.32,
+      "price": 26.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_c_choc_70_100g_509_1_bd583f14abaf24a591cb55c34f11860c.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/avela-c-choc-70-100g",
       "in_stock": true,
@@ -2173,7 +2173,7 @@
     {
       "id": 507,
       "name": "BANANA PASSA C/ CHOCOLATE ( 100g )",
-      "price": 18.33,
+      "price": 19.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_c_chocolate_100g_507_1_8bc169afa59c50ab1027be7bc0559301.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-c-chocolate-100g",
       "in_stock": true,
@@ -2352,7 +2352,7 @@
     {
       "id": 563,
       "name": "CHIMICHURRI DEFUMADO ( 100g )",
-      "price": 6.5,
+      "price": 6.11,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chimichurri_defumado_100g_563_1_23da90fd6e0383a039fd5f3077047250.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/chimichurri-defumado-100g",
       "available": true
@@ -2360,7 +2360,7 @@
     {
       "id": 631,
       "name": "PAPRICA DEFUMADA ( 100g )",
-      "price": 3.0,
+      "price": 2.64,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/paprica_defumada_100g_631_1_b3f7024adf14381724e487739cd0de55.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/paprica-defumada-100g",
       "available": true
@@ -2376,7 +2376,7 @@
     {
       "id": 705,
       "name": "ALHO FRITO ( 100g )",
-      "price": 4.8,
+      "price": 4.22,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/alho_frito_100g_705_1_85fbee42b7e3f0799ce921dd49fa1e4f.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/alho-frito-100g",
       "available": true
@@ -2392,7 +2392,7 @@
     {
       "id": 623,
       "name": "PIMENTA CALABRESA FLOCOS ( 100g )",
-      "price": 4.0,
+      "price": 3.52,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/pimenta_calabresa_flocos_100g_623_1_bacfc30bb045a3797a68c028578d210f.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/pimenta-calabresa-flocos-100g",
       "available": true
@@ -2424,7 +2424,7 @@
     {
       "id": 665,
       "name": "CRAVO GRAO ( 100g )",
-      "price": 13.5,
+      "price": 12.56,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/cravo_grao_100g_665_1_485757ecd5caaf70dfa66e2ce3f944b3.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/cravo-grao-100g",
       "available": true
@@ -2594,7 +2594,7 @@
     {
       "id": 665,
       "name": "CRAVO GRAO ( 100g )",
-      "price": 13.5,
+      "price": 12.56,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/cravo_grao_100g_665_1_485757ecd5caaf70dfa66e2ce3f944b3.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/cravo-grao-100g",
       "available": true
@@ -3040,7 +3040,7 @@
     {
       "id": 365,
       "name": "GOTA DE LICOR MORANGO ( 100g )",
-      "price": 19.36,
+      "price": 22.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/gota_de_licor_morango_100g_365_1_7d10eda646a134c6d50a86e347390a9c.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/gota-de-licor-morango-100g",
       "in_stock": true,
@@ -3049,7 +3049,7 @@
     {
       "id": 367,
       "name": "GOTA DE LICOR CEREJA ( 100g )",
-      "price": 19.36,
+      "price": 22.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/gota_de_licor_cereja_100g_367_1_3131ed6721e6f8c2fdf939680952596a.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/gota-de-licor-cereja-100g",
       "in_stock": true,
@@ -3058,7 +3058,7 @@
     {
       "id": 371,
       "name": "AVELA C/ CHOC AO LEITE ( 100g )",
-      "price": 23.32,
+      "price": 26.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_c_choc_ao_leite_100g_371_1_a08f1267711ddb04c81aef123f47eefc.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/avela-c-choc-ao-leite-100g",
       "in_stock": true,
@@ -3067,7 +3067,7 @@
     {
       "id": 381,
       "name": "UVA PASSA C/ CHOCOLATE ( 100g )",
-      "price": 19.36,
+      "price": 22.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/uva_passa_c_chocolate_100g_381_1_b4b9b065c988679094b2cea28a9b9349.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/uva-passa-c-chocolate-100g",
       "in_stock": true,
@@ -3076,7 +3076,7 @@
     {
       "id": 495,
       "name": "CASTANHA DE CAJU COM CHOCOLATE ( 100g )",
-      "price": 21.39,
+      "price": 23.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_de_caju_com_chocolate_100g_495_1_7bda92fa375dd4be2cf3fcb6a574635f.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/castanha-de-caju-com-chocolate-100g",
       "in_stock": true,
@@ -3085,7 +3085,7 @@
     {
       "id": 497,
       "name": "CASTANHA DE CAJU C/ CHOC 70% CACAU ( 100g )",
-      "price": 21.56,
+      "price": 24.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_de_caju_c_choc_70_cacau_100g_497_1_005e42870ed429cc0c7188b22e0fc1d5.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/castanha-de-caju-c-choc-70-cacau-100g",
       "in_stock": true,
@@ -3094,7 +3094,7 @@
     {
       "id": 507,
       "name": "BANANA PASSA C/ CHOCOLATE ( 100g )",
-      "price": 18.33,
+      "price": 19.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_c_chocolate_100g_507_1_8bc169afa59c50ab1027be7bc0559301.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-c-chocolate-100g",
       "in_stock": true,
@@ -3103,7 +3103,7 @@
     {
       "id": 509,
       "name": "AVELA C/ CHOC 70% ( 100g )",
-      "price": 23.32,
+      "price": 26.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_c_choc_70_100g_509_1_bd583f14abaf24a591cb55c34f11860c.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/avela-c-choc-70-100g",
       "in_stock": true,
@@ -3757,7 +3757,7 @@
     {
       "id": 497,
       "name": "CASTANHA DE CAJU C/ CHOC 70% CACAU ( 100g )",
-      "price": 21.56,
+      "price": 24.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_de_caju_c_choc_70_cacau_100g_497_1_005e42870ed429cc0c7188b22e0fc1d5.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/castanha-de-caju-c-choc-70-cacau-100g",
       "in_stock": true,
@@ -3766,7 +3766,7 @@
     {
       "id": 509,
       "name": "AVELA C/ CHOC 70% ( 100g )",
-      "price": 23.32,
+      "price": 26.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_c_choc_70_100g_509_1_bd583f14abaf24a591cb55c34f11860c.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/avela-c-choc-70-100g",
       "in_stock": true,
