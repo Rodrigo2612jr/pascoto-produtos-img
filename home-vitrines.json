@@ -766,6 +766,16 @@
       "_price_per_kg": 13.1
     },
     {
+      "id": 571,
+      "name": "TEMPERO BAIANO SEM PIMENTA ( 100g )",
+      "price": 1.32,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/tempero_baiano_sem_pimenta_100g_571_1_5d8b20f48e15fc537d3595524ed1c2af.jpg",
+      "url": "https://www.emporiopascoto.com.br/17-temperos/tempero-baiano-sem-pimenta-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 13.2
+    },
+    {
       "id": 1085,
       "name": "MOLHO DE TOMATE TRADICIONAL SALSARETTI 300G ( UND )",
       "price": 4.0,
@@ -836,16 +846,6 @@
       "_price_per_kg": 14.9
     },
     {
-      "id": 571,
-      "name": "TEMPERO BAIANO SEM PIMENTA ( 100g )",
-      "price": 1.32,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/tempero_baiano_sem_pimenta_100g_571_1_5d8b20f48e15fc537d3595524ed1c2af.jpg",
-      "url": "https://www.emporiopascoto.com.br/17-temperos/tempero-baiano-sem-pimenta-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 15.0
-    },
-    {
       "id": 785,
       "name": "AMENDOIM S/ SAL S/PELE TORRADO ( 100g )",
       "price": 1.5,
@@ -872,6 +872,16 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_centeio_100g_455_1_af2e20e4ebd4b92316323577363f6899.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-centeio-100g",
       "in_stock": false,
+      "available": true,
+      "_price_per_kg": 15.8
+    },
+    {
+      "id": 601,
+      "name": "TEMPERO BAIANO PO ( 100g )",
+      "price": 1.58,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/tempero_baiano_po_100g_601_1_ee7312108b5a74f72f990d3f6edef947.jpg",
+      "url": "https://www.emporiopascoto.com.br/17-temperos/tempero-baiano-po-100g",
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 15.8
     },
@@ -966,6 +976,36 @@
       "_price_per_kg": 17.5
     },
     {
+      "id": 573,
+      "name": "CREME DE CEBOLA ( 100g )",
+      "price": 1.76,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/creme_de_cebola_100g_573_1_ee3ea1f188f3ebcaea84e0b819088454.jpg",
+      "url": "https://www.emporiopascoto.com.br/17-temperos/creme-de-cebola-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 17.6
+    },
+    {
+      "id": 661,
+      "name": "CURRY ( 100g )",
+      "price": 1.76,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/curry_100g_661_1_8e782c140eeb2edfc89d51477494193c.jpg",
+      "url": "https://www.emporiopascoto.com.br/17-temperos/curry-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 17.6
+    },
+    {
+      "id": 671,
+      "name": "COLORAU ( 100g )",
+      "price": 1.76,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/colorau_100g_671_1_be7f732d83bca598601aa33b6b7a6e6b.jpg",
+      "url": "https://www.emporiopascoto.com.br/17-temperos/colorau-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 17.6
+    },
+    {
       "id": 121,
       "name": "FEIJAO RAJADO ( 100gr )",
       "price": 1.79,
@@ -974,16 +1014,6 @@
       "in_stock": false,
       "available": true,
       "_price_per_kg": 17.9
-    },
-    {
-      "id": 601,
-      "name": "TEMPERO BAIANO PO ( 100g )",
-      "price": 1.58,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/tempero_baiano_po_100g_601_1_ee7312108b5a74f72f990d3f6edef947.jpg",
-      "url": "https://www.emporiopascoto.com.br/17-temperos/tempero-baiano-po-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 18.0
     },
     {
       "id": 781,
@@ -1344,6 +1374,15 @@
       "price": 12.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/extrato_de_propolis_verde_pet_abv_30ml_und_259_1_04c3b149dac7144d5b5934fff60b8e48.jpg",
       "url": "https://www.emporiopascoto.com.br/11-apicultura/extrato-de-propolis-verde-pet-abv-30ml-und",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 261,
+      "name": "BALA DE GENGIBRE PROPOLIS E MEL 45G ( UND )",
+      "price": 7.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/bala_de_gengibre_propolis_e_mel_45g_und_261_1_f826999933055479201656fa3e1b8a52.jpg",
+      "url": "https://www.emporiopascoto.com.br/11-apicultura/bala-de-gengibre-propolis-e-mel-45g-und",
       "in_stock": true,
       "available": true
     },
@@ -1715,7 +1754,7 @@
       "price": 4.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_confeitadas_colorida_100g_349_1_50037779bdc328474cde235b20a92ba3.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/amendoa-confeitadas-colorida-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -1913,7 +1952,7 @@
       "price": 38.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_integral_power_one_1_005kg_und_775_1_3966f3a79ed23f3dcc50cc1161de21ed.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-integral-power-one-1-005kg-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -1922,7 +1961,7 @@
       "price": 38.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_crocante_power_one_1_005kg_und_777_1_d4a81140040cb11c5ba3ebd76850fef5.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-crocante-power-one-1-005kg-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2140,7 +2179,7 @@
       "price": 4.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_confeitadas_colorida_100g_349_1_50037779bdc328474cde235b20a92ba3.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/amendoa-confeitadas-colorida-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2665,7 +2704,7 @@
       "price": 9.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/morango_desidratado_100g_129_1_3f65c16740de4414fcea8f3848899e2c.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/morango-desidratado-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2746,7 +2785,7 @@
       "price": 13.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_frutas_100g_147_1_3d6b1d7acebfcfc1654e8008c32a596e.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/mix-de-frutas-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2818,7 +2857,7 @@
       "price": 8.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/figo_cristalizado_100g_163_1_b872a1023f16784e75dcb67e8b4d80e0.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/figo-cristalizado-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2854,7 +2893,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2909,6 +2948,15 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/bala_de_gengibre_ecoas_40g_und_221_1_bf3b9a0fc41b4ad8c1d49722cc626607.jpg",
       "url": "https://www.emporiopascoto.com.br/11-apicultura/bala-de-gengibre-ecoas-40g-und",
       "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 261,
+      "name": "BALA DE GENGIBRE PROPOLIS E MEL 45G ( UND )",
+      "price": 7.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/bala_de_gengibre_propolis_e_mel_45g_und_261_1_f826999933055479201656fa3e1b8a52.jpg",
+      "url": "https://www.emporiopascoto.com.br/11-apicultura/bala-de-gengibre-propolis-e-mel-45g-und",
+      "in_stock": true,
       "available": true
     },
     {
@@ -3007,7 +3055,7 @@
       "price": 4.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_confeitadas_colorida_100g_349_1_50037779bdc328474cde235b20a92ba3.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/amendoa-confeitadas-colorida-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3324,7 +3372,7 @@
       "price": 30.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/cloreto_de_magnesio_com_sucupira_ninho_verde_120_caps_und_1351_1_f15d13ba6aaa4dc81e5c803c6c663b08.jpg",
       "url": "https://www.emporiopascoto.com.br/26-encapsulados/cloreto-de-magnesio-com-sucupira-ninho-verde-120-caps-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3796,7 +3844,7 @@
       "price": 38.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_integral_power_one_1_005kg_und_775_1_3966f3a79ed23f3dcc50cc1161de21ed.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-integral-power-one-1-005kg-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3805,7 +3853,7 @@
       "price": 38.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_crocante_power_one_1_005kg_und_777_1_d4a81140040cb11c5ba3ebd76850fef5.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-crocante-power-one-1-005kg-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
