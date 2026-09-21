@@ -836,16 +836,6 @@
       "_price_per_kg": 15.0
     },
     {
-      "id": 785,
-      "name": "AMENDOIM S/ SAL S/PELE TORRADO ( 100g )",
-      "price": 1.95,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_s_sal_s_pele_torrado_100g_785_1_85b5edf1d3ae813d61822db6d839c1f7.jpg",
-      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-s-sal-spele-torrado-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 15.6
-    },
-    {
       "id": 455,
       "name": "FARINHA DE CENTEIO ( 100g )",
       "price": 1.58,
@@ -1054,6 +1044,16 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 19.0
+    },
+    {
+      "id": 785,
+      "name": "AMENDOIM S/ SAL S/PELE TORRADO ( 100g )",
+      "price": 1.95,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_s_sal_s_pele_torrado_100g_785_1_85b5edf1d3ae813d61822db6d839c1f7.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-s-sal-spele-torrado-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 19.5
     },
     {
       "id": 787,
