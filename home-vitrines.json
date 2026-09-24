@@ -235,7 +235,7 @@
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
     "itens": 419,
-    "indisponiveis": 3,
+    "indisponiveis": 4,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -1407,7 +1407,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/spray_de_propolis_puro_30ml_vidro_apicultura_boa_vista_und_301_1_f55e453477bc0594b7769b4ab141798b.jpg",
       "url": "https://www.emporiopascoto.com.br/11-apicultura/spray-de-propolis-puro-30ml-vidro-apicultura-boa-vista-und",
       "in_stock": true,
-      "available": true
+      "available": false
     },
     {
       "id": 303,
