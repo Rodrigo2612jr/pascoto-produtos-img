@@ -11,13 +11,15 @@ o cron falhava. Com a imagem hospedada aqui, o feed continua de pe.
 Uso:  python3 scripts/refresh_instagram.py
 Token: env IG_TOKEN (Actions) ou ../Tema Tray/_ig_token.txt (local)
 """
-import json, os, sys, urllib.request, urllib.error
+import json, os, re, sys, urllib.request, urllib.error
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DEST = ROOT / "ig"
 BASE = "https://rodrigo2612jr.github.io/pascoto-produtos-img/ig"
 UA = {"User-Agent": "Mozilla/5.0"}
+# Post de promocao datada (% de desconto) vence e o feed da home nao sabe quando: fica fora.
+PROMO = re.compile(r"semana do consumidor|\d+\s*%\s*(off|de desconto)", re.I)
 
 def token():
     t = os.environ.get("IG_TOKEN")
@@ -34,13 +36,16 @@ def get(url, timeout=60):
 def main():
     campos = "id,caption,media_type,media_url,thumbnail_url,permalink,timestamp"
     api = (f"https://graph.instagram.com/v21.0/me/media"
-           f"?fields={campos}&limit=8&access_token={token()}")
+           f"?fields={campos}&limit=20&access_token={token()}")
     posts = json.loads(get(api).decode("utf-8")).get("data", [])
     print(f"{len(posts)} posts recebidos")
     DEST.mkdir(exist_ok=True)
 
     saida, mantidos = [], set()
     for p in posts:
+        if len(saida) >= 8: break  # a home mostra 6, 8 de folga
+        if PROMO.search(p.get("caption") or ""):
+            print(f"  pulei {p.get('id')}: promocao datada na legenda"); continue
         mt = p.get("media_type", "IMAGE")
         origem = (p.get("thumbnail_url") if mt == "VIDEO" else p.get("media_url")) or p.get("media_url") or ""
         if not origem:
