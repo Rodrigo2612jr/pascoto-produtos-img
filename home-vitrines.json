@@ -431,9 +431,29 @@
       "price": 0.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amido_de_milho_100g_521_1_6b0215b8a4e2350c4564e3378e93477f.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/amido-de-milho-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 8.0
+    },
+    {
+      "id": 521,
+      "name": "AMIDO DE MILHO ( 100g )",
+      "price": 0.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amido_de_milho_100g_521_1_6b0215b8a4e2350c4564e3378e93477f.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/amido-de-milho-100g",
+      "in_stock": false,
+      "available": true,
+      "_price_per_kg": 8.0
+    },
+    {
+      "id": 1043,
+      "name": "MOLHO DE TOMATE TRADICIONAL QUERO 300G ( UND )",
+      "price": 2.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/molho_de_tomate_tradicional_quero_300g_und_1043_1_497c9e7cf4ab1b7a5acd952780c1614a.jpg",
+      "url": "https://www.emporiopascoto.com.br/27-mercearia/molho-de-tomate-tradicional-quero-300g-und",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 8.33
     },
     {
       "id": 1043,
@@ -471,6 +491,26 @@
       "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/canjica_branca_100gr_101_1_cbfa52772f7a3002f76e97a017d93297.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/canjica-branca-100gr",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": 511,
+      "name": "AVEIA LAMINADA ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_laminada_100g_511_1_827294e0c7a20ada950a21aec50d2a2e.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-laminada-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": 513,
+      "name": "AVEIA FLOCOS ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_flocos_100g_513_1_500c96acb66f3c229c773fe3c57827d0.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-flocos-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 9.9
@@ -606,16 +646,6 @@
       "_price_per_kg": 10.5
     },
     {
-      "id": 697,
-      "name": "BICARBONATO DE SODIO ( 100g )",
-      "price": 1.05,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/bicarbonato_de_sodio_100g_697_1_5e41c87acf75c17ea8b425c530d88cd2.jpg",
-      "url": "https://www.emporiopascoto.com.br/17-temperos/bicarbonato-de-sodio-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 10.5
-    },
-    {
       "id": 99,
       "name": "ERVILHA PARTIDA ( 100gr )",
       "price": 1.05,
@@ -644,6 +674,16 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 11.5
+    },
+    {
+      "id": 1015,
+      "name": "FLOCAO DO VALLE 500G ( UND )",
+      "price": 5.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/flocao_do_valle_500g_und_1015_1_51fdba53c64f559bff582306916491a7.jpg",
+      "url": "https://www.emporiopascoto.com.br/27-mercearia/flocao-do-valle-500g-und",
+      "in_stock": false,
+      "available": true,
+      "_price_per_kg": 11.6
     },
     {
       "id": 1015,
@@ -746,6 +786,16 @@
       "_price_per_kg": 13.33
     },
     {
+      "id": 1085,
+      "name": "MOLHO DE TOMATE TRADICIONAL SALSARETTI 300G ( UND )",
+      "price": 4.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/molho_de_tomate_tradicional_salsaretti_300g_und_1085_1_7d4dd809034005dd6d0f62e6992d1556.jpg",
+      "url": "https://www.emporiopascoto.com.br/27-mercearia/molho-de-tomate-tradicional-salsaretti-300g-und",
+      "in_stock": false,
+      "available": true,
+      "_price_per_kg": 13.33
+    },
+    {
       "id": 113,
       "name": "ARROZ INTEGRAL AGULHA BRANCO ( 100gr )",
       "price": 1.35,
@@ -816,12 +866,22 @@
       "_price_per_kg": 14.9
     },
     {
+      "id": 571,
+      "name": "TEMPERO BAIANO SEM PIMENTA ( 100g )",
+      "price": 1.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/tempero_baiano_sem_pimenta_100g_571_1_5d8b20f48e15fc537d3595524ed1c2af.jpg",
+      "url": "https://www.emporiopascoto.com.br/17-temperos/tempero-baiano-sem-pimenta-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 15.0
+    },
+    {
       "id": 475,
       "name": "FARELO DE AVEIA ( 100g )",
       "price": 1.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 15.0
     },
@@ -841,7 +901,7 @@
       "price": 1.58,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_centeio_100g_455_1_af2e20e4ebd4b92316323577363f6899.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-centeio-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 15.8
     },
@@ -861,7 +921,7 @@
       "price": 1.59,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/arroz_integral_agulha_misto_100gr_111_1_418ce3472930b6070c75a50886e6f175.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/arroz-integral-agulha-misto-100gr",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 15.9
     },
@@ -876,24 +936,14 @@
       "_price_per_kg": 16.0
     },
     {
-      "id": 63,
-      "name": "LENTILHA ( 100gr )",
+      "id": 545,
+      "name": "GERGELIM C/ PELE ( 100g )",
       "price": 1.6,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/lentilha_100gr_63_1_be017137808bae9f4b02a6580a6f9ec6.jpg",
-      "url": "https://www.emporiopascoto.com.br/7-graos/lentilha-100gr",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/gergelim_c_pele_100g_545_1_32a345d4cfac77af90f2a90801761883.jpg",
+      "url": "https://www.emporiopascoto.com.br/16-sementes/gergelim-c-pele-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 16.0
-    },
-    {
-      "id": 1037,
-      "name": "RAPADURA JR 600G ( UND )",
-      "price": 10.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/rapadura_jr_600g_und_1037_1_e040b40578efb48ceabc1b204d8b2b71.jpg",
-      "url": "https://www.emporiopascoto.com.br/27-mercearia/rapadura-jr-600g-und",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 16.5
     },
     {
       "id": 429,
@@ -924,26 +974,6 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 17.0
-    },
-    {
-      "id": 65,
-      "name": "GRAO DE BICO  MIUDO ( 100gr )",
-      "price": 1.75,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/grao_de_bico_miudo_100gr_65_1_948a785a3adb9cbbf14c4b71940d6f6e.jpg",
-      "url": "https://www.emporiopascoto.com.br/7-graos/grao-de-bico-miudo-100gr",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 17.5
-    },
-    {
-      "id": 673,
-      "name": "COENTRO GRAO ( 100g )",
-      "price": 1.75,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/coentro_grao_100g_673_1_499504c42816c567c6d9721f9a70f4bc.jpg",
-      "url": "https://www.emporiopascoto.com.br/17-temperos/coentro-grao-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 17.5
     },
     {
       "id": 121,
@@ -986,12 +1016,32 @@
       "_price_per_kg": 18.0
     },
     {
+      "id": 1037,
+      "name": "RAPADURA JR 600G ( UND )",
+      "price": 10.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/rapadura_jr_600g_und_1037_1_e040b40578efb48ceabc1b204d8b2b71.jpg",
+      "url": "https://www.emporiopascoto.com.br/27-mercearia/rapadura-jr-600g-und",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 18.17
+    },
+    {
+      "id": 1037,
+      "name": "RAPADURA JR 600G ( UND )",
+      "price": 10.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/rapadura_jr_600g_und_1037_1_e040b40578efb48ceabc1b204d8b2b71.jpg",
+      "url": "https://www.emporiopascoto.com.br/27-mercearia/rapadura-jr-600g-und",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 18.17
+    },
+    {
       "id": 1243,
       "name": "TAPIOCA DA TERRINHA 1KG ( UND )",
       "price": 18.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tapioca_da_terrinha_1kg_und_1243_1_2b1fbbc943f644c057bac495cc5f1c84.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/tapioca-da-terrinha-1kg-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 18.9
     },
@@ -1002,16 +1052,6 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tapioca_da_terrinha_500g_und_1241_1_3870359be1867f8446f7cfee55c40ef4.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/tapioca-da-terrinha-500g-und",
       "in_stock": false,
-      "available": true,
-      "_price_per_kg": 19.0
-    },
-    {
-      "id": 677,
-      "name": "COENTRO EM PO ( 100g )",
-      "price": 1.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/coentro_em_po_100g_677_1_37c09b8dcc6f0effdef5a7edd201a003.jpg",
-      "url": "https://www.emporiopascoto.com.br/17-temperos/coentro-em-po-100g",
-      "in_stock": true,
       "available": true,
       "_price_per_kg": 19.0
     },
@@ -1176,138 +1216,12 @@
       "available": true
     },
     {
-      "id": 185,
-      "name": "SPRAY DE MEL E PROPOLIS ABV 35ML ( UND )",
-      "price": 9.0,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/spray_de_mel_e_propolis_abv_35ml_und_185_1_e66730f64224a5d13e1f80cd855ab57b.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/spray-de-mel-e-propolis-abv-35ml-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 187,
-      "name": "EXTRATO DE PROPOLIS VERDE ALECRIM VIDRO 11%  COM BULBO ABV 30ML ( UND )",
-      "price": 17.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/extrato_de_propolis_verde_alecrim_vidro_11_com_bulbo_abv_30ml_und_187_1_d3f81c1e51af298673d8e93378c50a90.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/extrato-de-propolis-verde-alecrim-vidro-11-com-bulbo-abv-30ml-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 191,
-      "name": "EXTRATO DE PROPOLIS 20%  WAX GREEN 30ML ( UND )",
-      "price": 25.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/extrato_de_propolis_20_wax_green_30ml_und_191_1_eed3729c69955ef9589e3a5c03a211b3.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/extrato-de-propolis-20-wax-green-30ml-und",
+      "id": 569,
+      "name": "ACAFRAO IMPORTADO ( 100g )",
+      "price": 5.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/acafrao_importado_100g_569_1_10a71054f56785af31139408f74f681e.jpg",
+      "url": "https://www.emporiopascoto.com.br/17-temperos/acafrao-importado-100g",
       "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 199,
-      "name": "EXTRATO DE PROPOLIS AQUOSO ABV 30ML ( UND )",
-      "price": 16.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/extrato_de_propolis_aquoso_abv_30ml_und_199_1_5954162af5444e2a7f4ac38a44fffe7f.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/extrato-de-propolis-aquoso-abv-30ml-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 201,
-      "name": "SPRAY MEL E PROPOLIS ORGANICO ECOAS 30ML ( UND )",
-      "price": 16.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/spray_mel_e_propolis_organico_ecoas_30ml_und_201_1_61f1da99cbe80f7b5ecea7ce45847c4a.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/spray-mel-e-propolis-organico-ecoas-30ml-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 205,
-      "name": "EXTRATO DE PROPOLIS VERDE ALECRIM ABV 25% 30ML ( UND )",
-      "price": 52.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/extrato_de_propolis_verde_alecrim_abv_25_30ml_und_205_1_ce732250b38093c5a1e80e09d75b1930.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/extrato-de-propolis-verde-alecrim-abv-25-30ml-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 207,
-      "name": "BALA DE MEL PROPOLIS E GENGIBRE 30G ( UND )",
-      "price": 4.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/bala_de_mel_propolis_e_gengibre_30g_und_207_1_48fd8092d406f12c9ba7c9f2fb64c841.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/bala-de-mel-propolis-e-gengibre-30g-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 211,
-      "name": "BALA DE GENGIBRE COM MEL E PROPOLIS 30G ( UND )",
-      "price": 3.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/bala_de_gengibre_com_mel_e_propolis_30g_und_211_1_07717bc204da0c21b3e6b0e11f475dc3.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/bala-de-gengibre-com-mel-e-propolis-30g-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 215,
-      "name": "EXTRATO DE PROPOLIS VERDE MINAMEL 30ML ( UND )",
-      "price": 45.8,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/extrato_de_propolis_verde_minamel_30ml_und_215_1_6b8c702a9a8cea340961edac831e7ad2.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/extrato-de-propolis-verde-minamel-30ml-und",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 217,
-      "name": "EXTRATO DE PROPOLIS VERDE 70 APIS FLORA - 30 ML ( UND )",
-      "price": 59.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/extrato_de_propolis_verde_70_apis_flora_30_ml_und_217_1_e110b16fc347153a1e177e77ffce1625.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/extrato-de-propolis-verde-70-apis-flora-30ml-und",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 221,
-      "name": "BALA DE GENGIBRE ECOAS 40G ( UND )",
-      "price": 5.25,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/bala_de_gengibre_ecoas_40g_und_221_1_bf3b9a0fc41b4ad8c1d49722cc626607.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/bala-de-gengibre-ecoas-40g-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 223,
-      "name": "PROPOLIS 40% EXTRATO APIARIO BONADIO 30ML ( UND )",
-      "price": 32.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/propolis_40_extrato_apiario_bonadio_30ml_und_223_1_5e0aad51e0de08f44cf7bdf117027347.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/propolis-40-extrato-apiario-bonadio-30ml-und",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 23,
-      "name": "CASTANHA DO PARA QUEBRADA ( 100gr )",
-      "price": 13.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_quebrada_100gr_23_1_080d7791fa9008e57f503cf20b4268f3.jpg",
-      "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-quebrada",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 239,
-      "name": "EXTRATO DE PROPOLIS VERDE ORGANICO APIS FLORA 30ML ( UND )",
-      "price": 43.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/extrato_de_propolis_verde_organico_apis_flora_30ml_und_239_1_5f4fce4ebfe79cb80c6d2338bd0f4a18.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/extrato-de-propolis-verde-organico-apis-flora-30ml-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 247,
-      "name": "EXTRATO DE PROPOLIS VERDE APIS FLORA 30ML ( UND )",
-      "price": 38.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/extrato_de_propolis_verde_apis_flora_30ml_und_247_1_5f8e169c4f58c31d57173371ffbe9309.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/extrato-de-propolis-verde-apis-flora-30ml-und",
-      "in_stock": false,
       "available": true
     },
     {
@@ -1401,30 +1315,12 @@
       "available": true
     },
     {
-      "id": 301,
-      "name": "SPRAY DE PROPOLIS PURO 30ML VIDRO APICULTURA BOA VISTA ( UND )",
-      "price": 17.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/spray_de_propolis_puro_30ml_vidro_apicultura_boa_vista_und_301_1_f55e453477bc0594b7769b4ab141798b.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/spray-de-propolis-puro-30ml-vidro-apicultura-boa-vista-und",
-      "in_stock": true,
-      "available": false
-    },
-    {
       "id": 303,
       "name": "EXTRATO DE PROPOLIS VERDE NATURAL 30 ML VIDRO ( UND )",
       "price": 18.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/extrato_de_propolis_verde_natural_30_ml_vidro_und_303_1_15672b2cc4316667caee2b5838257f3a.jpg",
       "url": "https://www.emporiopascoto.com.br/11-apicultura/extrato-de-propolis-verde-natural-30-ml-vidro-und",
       "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 569,
-      "name": "ACAFRAO IMPORTADO ( 100g )",
-      "price": 5.0,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/acafrao_importado_100g_569_1_10a71054f56785af31139408f74f681e.jpg",
-      "url": "https://www.emporiopascoto.com.br/17-temperos/acafrao-importado-100g",
-      "in_stock": true,
       "available": true
     },
     {
@@ -1570,7 +1466,7 @@
       "price": 222.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/whey_fort_chocolate_3w_vitafor_900g_und_1065_1_354b7e45fbe7b9f1071613c2c147623b.jpg",
       "url": "https://www.emporiopascoto.com.br/26-encapsulados/whey-fort-chocolate-3w-vitafor-900g-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -1664,11 +1560,47 @@
       "available": true
     },
     {
-      "id": 23,
-      "name": "CASTANHA DO PARA QUEBRADA ( 100gr )",
-      "price": 13.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_quebrada_100gr_23_1_080d7791fa9008e57f503cf20b4268f3.jpg",
-      "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-quebrada",
+      "id": 509,
+      "name": "AVELA C/ CHOC 70% ( 100g )",
+      "price": 26.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_c_choc_70_100g_509_1_bd583f14abaf24a591cb55c34f11860c.jpg",
+      "url": "https://www.emporiopascoto.com.br/13-drageados/avela-c-choc-70-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 523,
+      "name": "FARINHA DE CHIA  ( 100g )",
+      "price": 4.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_chia_100g_523_1_5610b2273d97e06155040c64ae42fa10.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-chia-100g",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 535,
+      "name": "LINHACA MARROM SEMENTE ( 100g )",
+      "price": 2.65,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_marrom_semente_100g_535_1_9b1a8c55a16c97ae5cd1a3d57071a49e.jpg",
+      "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-marrom-semente-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 537,
+      "name": "LINHACA DOURADA SEMENTE ( 100g )",
+      "price": 2.45,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_dourada_semente_100g_537_1_486100281a0c89e19ad36a06ade3f82b.jpg",
+      "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-dourada-semente-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 547,
+      "name": "CHIA PREMIUM ( 100g )",
+      "price": 4.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
+      "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
       "in_stock": true,
       "available": true
     },
@@ -1714,7 +1646,7 @@
       "price": 4.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_confeitadas_colorida_100g_349_1_50037779bdc328474cde235b20a92ba3.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/amendoa-confeitadas-colorida-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -1844,51 +1776,6 @@
       "available": true
     },
     {
-      "id": 509,
-      "name": "AVELA C/ CHOC 70% ( 100g )",
-      "price": 26.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_c_choc_70_100g_509_1_bd583f14abaf24a591cb55c34f11860c.jpg",
-      "url": "https://www.emporiopascoto.com.br/13-drageados/avela-c-choc-70-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 523,
-      "name": "FARINHA DE CHIA  ( 100g )",
-      "price": 4.0,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_chia_100g_523_1_5610b2273d97e06155040c64ae42fa10.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-chia-100g",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 535,
-      "name": "LINHACA MARROM SEMENTE ( 100g )",
-      "price": 2.65,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_marrom_semente_100g_535_1_9b1a8c55a16c97ae5cd1a3d57071a49e.jpg",
-      "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-marrom-semente-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 537,
-      "name": "LINHACA DOURADA SEMENTE ( 100g )",
-      "price": 2.45,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_dourada_semente_100g_537_1_486100281a0c89e19ad36a06ade3f82b.jpg",
-      "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-dourada-semente-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 547,
-      "name": "CHIA PREMIUM ( 100g )",
-      "price": 4.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
-      "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
       "id": 769,
       "name": "PASTA DE AMENDOIM INTEGRAL CROCANTE POWER ONE 500G ( UND )",
       "price": 24.99,
@@ -2002,7 +1889,7 @@
       "price": 165.01,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/whey_up_3w_chocobelga_pouch_900g_und_897_1_a07390d4bb40c4cc365937d59ba3bd46.jpg",
       "url": "https://www.emporiopascoto.com.br/23-suplemetos/whey-up-3w-chocobelga-pouch-900g-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2035,11 +1922,11 @@
       "available": true
     },
     {
-      "id": 171,
-      "name": "BANANA PASSA ( 100g )",
-      "price": 7.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_100g_171_1_cbf318197d628ce20a03677d2829005b.jpg",
-      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/banana-passa-100g",
+      "id": 507,
+      "name": "BANANA PASSA C/ CHOCOLATE ( 100g )",
+      "price": 19.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_c_chocolate_100g_507_1_8bc169afa59c50ab1027be7bc0559301.jpg",
+      "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-c-chocolate-100g",
       "in_stock": true,
       "available": true
     },
@@ -2139,7 +2026,7 @@
       "price": 4.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_confeitadas_colorida_100g_349_1_50037779bdc328474cde235b20a92ba3.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/amendoa-confeitadas-colorida-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2167,15 +2054,6 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kiwi_100g_und_357_1_1f1fa975da4458ede765b409faeb14a0.png",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/kiwi-100g-und",
       "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 507,
-      "name": "BANANA PASSA C/ CHOCOLATE ( 100g )",
-      "price": 19.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_c_chocolate_100g_507_1_8bc169afa59c50ab1027be7bc0559301.jpg",
-      "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-c-chocolate-100g",
-      "in_stock": true,
       "available": true
     }
   ],
@@ -2664,7 +2542,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/morango_desidratado_100g_129_1_3f65c16740de4414fcea8f3848899e2c.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/morango-desidratado-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2673,7 +2551,7 @@
       "price": 14.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_frutas_vermelhas_100g_131_1_32dfcc31a6de1b645cd61d41270c9a73.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/mix-de-frutas-vermelhas-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2745,7 +2623,7 @@
       "price": 13.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_frutas_100g_147_1_3d6b1d7acebfcfc1654e8008c32a596e.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/mix-de-frutas-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2794,120 +2672,21 @@
       "available": true
     },
     {
-      "id": 159,
-      "name": "FRUTAS CRISTALIZADAS ( 100g )",
-      "price": 2.2,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/frutas_cristalizadas_100g_159_1_4c091d24633062d8876ccb524aa2c655.jpg",
-      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/frutas-cristalizadas-100g",
+      "id": 507,
+      "name": "BANANA PASSA C/ CHOCOLATE ( 100g )",
+      "price": 19.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_c_chocolate_100g_507_1_8bc169afa59c50ab1027be7bc0559301.jpg",
+      "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-c-chocolate-100g",
       "in_stock": true,
       "available": true
     },
     {
-      "id": 161,
-      "name": "FIGO TURCO SECO ( 100g )",
-      "price": 13.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/figo_turco_seco_100g_161_1_1c8cdb1063a51d3d47437fc1d041d45d.jpg",
-      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/figo-turco-seco-100g",
+      "id": 509,
+      "name": "AVELA C/ CHOC 70% ( 100g )",
+      "price": 26.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_c_choc_70_100g_509_1_bd583f14abaf24a591cb55c34f11860c.jpg",
+      "url": "https://www.emporiopascoto.com.br/13-drageados/avela-c-choc-70-100g",
       "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 163,
-      "name": "FIGO CRISTALIZADO ( 100g )",
-      "price": 8.0,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/figo_cristalizado_100g_163_1_b872a1023f16784e75dcb67e8b4d80e0.jpg",
-      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/figo-cristalizado-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 165,
-      "name": "DAMASCO ( 100g )",
-      "price": 14.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/damasco_100g_165_1_e74515eceed7fc7e5fd2525aa1bd9a0f.jpg",
-      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/damasco-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 167,
-      "name": "CRANBERRY INTEIRO ( 100g )",
-      "price": 8.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/cranberry_inteiro_100g_167_1_42188fcd2cab14ea546ef910afe86371.jpg",
-      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/cranberry-inteiro-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 169,
-      "name": "BLUE BERRY ( 100g )",
-      "price": 24.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/blue_berry_100g_169_1_7087020f8b8a60054f4a822084a403ab.jpg",
-      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/blue-berry-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 17,
-      "name": "MIX DE CASTANHAS ( 100gr )",
-      "price": 9.89,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
-      "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 171,
-      "name": "BANANA PASSA ( 100g )",
-      "price": 7.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_100g_171_1_cbf318197d628ce20a03677d2829005b.jpg",
-      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/banana-passa-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 173,
-      "name": "AMEIXA SEM CAROCO ( 100g )",
-      "price": 5.95,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/ameixa_sem_caroco_100g_173_1_ae0d3230f1057bba1ecdd3189d31f012.jpg",
-      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/ameixa-sem-caroco-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 175,
-      "name": "ABACAXI CRISTALIZADO ( 100g )",
-      "price": 12.8,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/abacaxi_cristalizado_100g_175_1_234b058d1bd4379d54c85a0ab523ac19.jpg",
-      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/abacaxi-cristalizado-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 207,
-      "name": "BALA DE MEL PROPOLIS E GENGIBRE 30G ( UND )",
-      "price": 4.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/bala_de_mel_propolis_e_gengibre_30g_und_207_1_48fd8092d406f12c9ba7c9f2fb64c841.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/bala-de-mel-propolis-e-gengibre-30g-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 211,
-      "name": "BALA DE GENGIBRE COM MEL E PROPOLIS 30G ( UND )",
-      "price": 3.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/bala_de_gengibre_com_mel_e_propolis_30g_und_211_1_07717bc204da0c21b3e6b0e11f475dc3.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/bala-de-gengibre-com-mel-e-propolis-30g-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 221,
-      "name": "BALA DE GENGIBRE ECOAS 40G ( UND )",
-      "price": 5.25,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/bala_de_gengibre_ecoas_40g_und_221_1_bf3b9a0fc41b4ad8c1d49722cc626607.jpg",
-      "url": "https://www.emporiopascoto.com.br/11-apicultura/bala-de-gengibre-ecoas-40g-und",
-      "in_stock": false,
       "available": true
     },
     {
@@ -3015,7 +2794,7 @@
       "price": 4.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_confeitadas_colorida_100g_349_1_50037779bdc328474cde235b20a92ba3.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/amendoa-confeitadas-colorida-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3096,24 +2875,6 @@
       "price": 24.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_de_caju_c_choc_70_cacau_100g_497_1_005e42870ed429cc0c7188b22e0fc1d5.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/castanha-de-caju-c-choc-70-cacau-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 507,
-      "name": "BANANA PASSA C/ CHOCOLATE ( 100g )",
-      "price": 19.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_passa_c_chocolate_100g_507_1_8bc169afa59c50ab1027be7bc0559301.jpg",
-      "url": "https://www.emporiopascoto.com.br/13-drageados/banana-passa-c-chocolate-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 509,
-      "name": "AVELA C/ CHOC 70% ( 100g )",
-      "price": 26.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_c_choc_70_100g_509_1_bd583f14abaf24a591cb55c34f11860c.jpg",
-      "url": "https://www.emporiopascoto.com.br/13-drageados/avela-c-choc-70-100g",
       "in_stock": true,
       "available": true
     },
@@ -3345,6 +3106,15 @@
       "available": true
     },
     {
+      "id": 501,
+      "name": "CAMOMILA ( 100g )",
+      "price": 5.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/camomila_100g_501_1_b48ce291fb6e686a8445782bebfe7af2.jpg",
+      "url": "https://www.emporiopascoto.com.br/14-ervas/camomila-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
       "id": 397,
       "name": "MELISSA ( 100g )",
       "price": 7.8,
@@ -3359,15 +3129,6 @@
       "price": 3.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/erva_cidreira_100g_481_1_f9340b42900a1d259f0830d06a20a742.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/erva-cidreira-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 501,
-      "name": "CAMOMILA ( 100g )",
-      "price": 5.8,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/camomila_100g_501_1_b48ce291fb6e686a8445782bebfe7af2.jpg",
-      "url": "https://www.emporiopascoto.com.br/14-ervas/camomila-100g",
       "in_stock": true,
       "available": true
     },
@@ -3464,6 +3225,42 @@
       "available": true
     },
     {
+      "id": 523,
+      "name": "FARINHA DE CHIA  ( 100g )",
+      "price": 4.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_chia_100g_523_1_5610b2273d97e06155040c64ae42fa10.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-chia-100g",
+      "in_stock": false,
+      "available": true
+    },
+    {
+      "id": 535,
+      "name": "LINHACA MARROM SEMENTE ( 100g )",
+      "price": 2.65,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_marrom_semente_100g_535_1_9b1a8c55a16c97ae5cd1a3d57071a49e.jpg",
+      "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-marrom-semente-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 537,
+      "name": "LINHACA DOURADA SEMENTE ( 100g )",
+      "price": 2.45,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_dourada_semente_100g_537_1_486100281a0c89e19ad36a06ade3f82b.jpg",
+      "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-dourada-semente-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 547,
+      "name": "CHIA PREMIUM ( 100g )",
+      "price": 4.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
+      "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
       "id": 387,
       "name": "SENE ( 100g )",
       "price": 2.8,
@@ -3550,7 +3347,7 @@
       "price": 3.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_banana_verde_100g_463_1_d52d7593c5cd176c27c49f7ac019011e.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-banana-verde-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3577,7 +3374,7 @@
       "price": 1.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3613,42 +3410,6 @@
       "price": 5.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carqueja_amarga_100g_499_1_37ea637f671bf2cfb8a7e04dabec447b.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/carqueja-amarga-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 523,
-      "name": "FARINHA DE CHIA  ( 100g )",
-      "price": 4.0,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_chia_100g_523_1_5610b2273d97e06155040c64ae42fa10.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-chia-100g",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 535,
-      "name": "LINHACA MARROM SEMENTE ( 100g )",
-      "price": 2.65,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_marrom_semente_100g_535_1_9b1a8c55a16c97ae5cd1a3d57071a49e.jpg",
-      "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-marrom-semente-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 537,
-      "name": "LINHACA DOURADA SEMENTE ( 100g )",
-      "price": 2.45,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/linhaca_dourada_semente_100g_537_1_486100281a0c89e19ad36a06ade3f82b.jpg",
-      "url": "https://www.emporiopascoto.com.br/16-sementes/linhaca-dourada-semente-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 547,
-      "name": "CHIA PREMIUM ( 100g )",
-      "price": 4.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
-      "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
       "in_stock": true,
       "available": true
     },
@@ -3721,7 +3482,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/moringa_em_po_100g_893_1_417452696a11f9a737a3072f7b097d8e.jpg",
       "url": "https://www.emporiopascoto.com.br/23-suplemetos/moringa-em-po-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3744,6 +3505,15 @@
     }
   ],
   "sem_acucar": [
+    {
+      "id": 509,
+      "name": "AVELA C/ CHOC 70% ( 100g )",
+      "price": 26.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_c_choc_70_100g_509_1_bd583f14abaf24a591cb55c34f11860c.jpg",
+      "url": "https://www.emporiopascoto.com.br/13-drageados/avela-c-choc-70-100g",
+      "in_stock": true,
+      "available": true
+    },
     {
       "id": 315,
       "name": "STEVIA EM PO ( 100g )",
@@ -3768,15 +3538,6 @@
       "price": 24.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_de_caju_c_choc_70_cacau_100g_497_1_005e42870ed429cc0c7188b22e0fc1d5.jpg",
       "url": "https://www.emporiopascoto.com.br/13-drageados/castanha-de-caju-c-choc-70-cacau-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 509,
-      "name": "AVELA C/ CHOC 70% ( 100g )",
-      "price": 26.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_c_choc_70_100g_509_1_bd583f14abaf24a591cb55c34f11860c.jpg",
-      "url": "https://www.emporiopascoto.com.br/13-drageados/avela-c-choc-70-100g",
       "in_stock": true,
       "available": true
     },
