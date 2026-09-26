@@ -141,7 +141,7 @@
     },
     {
       "name": " MIX DE CASTANHAS ( 100gr )",
-      "price": 11.5,
+      "price": 9.89,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
       "_cat_id": "1",
@@ -234,7 +234,7 @@
     "atualizado_imagens": "2026-06-09 (imagens atuais da Tray)",
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
-    "itens": 392,
+    "itens": 418,
     "indisponiveis": 3,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
@@ -2206,7 +2206,7 @@
     {
       "id": 17,
       "name": "MIX DE CASTANHAS ( 100gr )",
-      "price": 11.5,
+      "price": 9.89,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
       "available": true
