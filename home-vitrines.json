@@ -235,7 +235,7 @@
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
     "itens": 123,
-    "indisponiveis": 3,
+    "indisponiveis": 5,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -625,7 +625,7 @@
       "price": 1.95,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_c_sal_s_pele_torrado_100g_787_1_aa09704200d7956de6a71bb9079cf82e.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-c-sal-spele-torrado-100g",
-      "available": true
+      "available": false
     },
     {
       "id": 795,
@@ -891,7 +891,7 @@
       "price": 1.95,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_c_sal_s_pele_torrado_100g_787_1_aa09704200d7956de6a71bb9079cf82e.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-c-sal-spele-torrado-100g",
-      "available": true
+      "available": false
     },
     {
       "id": 785,
