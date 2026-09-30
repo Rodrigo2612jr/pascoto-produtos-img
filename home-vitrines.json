@@ -836,6 +836,16 @@
       "_price_per_kg": 15.0
     },
     {
+      "id": 785,
+      "name": "AMENDOIM S/ SAL S/PELE TORRADO ( 100g )",
+      "price": 1.56,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_s_sal_s_pele_torrado_100g_785_1_85b5edf1d3ae813d61822db6d839c1f7.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-s-sal-spele-torrado-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 15.6
+    },
+    {
       "id": 455,
       "name": "FARINHA DE CENTEIO ( 100g )",
       "price": 1.58,
@@ -1044,16 +1054,6 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 19.0
-    },
-    {
-      "id": 785,
-      "name": "AMENDOIM S/ SAL S/PELE TORRADO ( 100g )",
-      "price": 1.95,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_s_sal_s_pele_torrado_100g_785_1_85b5edf1d3ae813d61822db6d839c1f7.jpg",
-      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-s-sal-spele-torrado-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 19.5
     }
   ],
   "imunidade": [
@@ -1276,7 +1276,7 @@
     {
       "id": 23,
       "name": "CASTANHA DO PARA QUEBRADA ( 100gr )",
-      "price": 13.5,
+      "price": 11.48,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_quebrada_100gr_23_1_080d7791fa9008e57f503cf20b4268f3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-quebrada",
       "in_stock": true,
@@ -1306,7 +1306,7 @@
       "price": 14.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -1647,7 +1647,7 @@
     {
       "id": 23,
       "name": "CASTANHA DO PARA QUEBRADA ( 100gr )",
-      "price": 13.5,
+      "price": 11.48,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_quebrada_100gr_23_1_080d7791fa9008e57f503cf20b4268f3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-quebrada",
       "in_stock": true,
@@ -1659,7 +1659,7 @@
       "price": 14.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_media_100gr_25_1_d6af2246afc58af638d92da195faee98.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-media",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2834,7 +2834,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
