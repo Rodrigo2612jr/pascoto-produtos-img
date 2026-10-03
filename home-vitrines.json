@@ -456,11 +456,11 @@
       "_price_per_kg": 8.5
     },
     {
-      "id": 513,
-      "name": "AVEIA FLOCOS ( 100g )",
-      "price": 0.99,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_flocos_100g_513_1_500c96acb66f3c229c773fe3c57827d0.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-flocos-100g",
+      "id": 511,
+      "name": "AVEIA LAMINADA ( 100g )",
+      "price": 0.92,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_laminada_100g_511_1_827294e0c7a20ada950a21aec50d2a2e.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-laminada-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 9.2
@@ -526,11 +526,11 @@
       "_price_per_kg": 9.9
     },
     {
-      "id": 511,
-      "name": "AVEIA LAMINADA ( 100g )",
-      "price": 0.92,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_laminada_100g_511_1_827294e0c7a20ada950a21aec50d2a2e.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-laminada-100g",
+      "id": 513,
+      "name": "AVEIA FLOCOS ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_flocos_100g_513_1_500c96acb66f3c229c773fe3c57827d0.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-flocos-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 9.9
@@ -631,7 +631,7 @@
       "price": 1.08,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_trigo_integral_100g_419_1_8290dec2720f23944f70a500ec3ea831.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-trigo-integral-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 10.8
     },
@@ -681,6 +681,16 @@
       "price": 1.2,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_trigo_tostado_100g_473_1_a5602b64eed08f7372caba4a92b86761.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-trigo-tostado-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 12.0
+    },
+    {
+      "id": 475,
+      "name": "FARELO DE AVEIA ( 100g )",
+      "price": 1.2,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 12.0
@@ -816,16 +826,6 @@
       "_price_per_kg": 14.9
     },
     {
-      "id": 475,
-      "name": "FARELO DE AVEIA ( 100g )",
-      "price": 1.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 15.0
-    },
-    {
       "id": 571,
       "name": "TEMPERO BAIANO SEM PIMENTA ( 100g )",
       "price": 1.5,
@@ -834,6 +834,16 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 15.0
+    },
+    {
+      "id": 785,
+      "name": "AMENDOIM S/ SAL S/PELE TORRADO ( 100g )",
+      "price": 1.56,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_s_sal_s_pele_torrado_100g_785_1_85b5edf1d3ae813d61822db6d839c1f7.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-s-sal-spele-torrado-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 15.6
     },
     {
       "id": 455,
@@ -1044,16 +1054,6 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 19.0
-    },
-    {
-      "id": 785,
-      "name": "AMENDOIM S/ SAL S/PELE TORRADO ( 100g )",
-      "price": 1.56,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoim_s_sal_s_pele_torrado_100g_785_1_85b5edf1d3ae813d61822db6d839c1f7.jpg",
-      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/amendoim-s-sal-spele-torrado-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 19.5
     }
   ],
   "imunidade": [
@@ -2726,7 +2726,7 @@
       "price": 13.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_frutas_100g_147_1_3d6b1d7acebfcfc1654e8008c32a596e.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/mix-de-frutas-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2789,7 +2789,7 @@
       "price": 13.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/figo_turco_seco_100g_161_1_1c8cdb1063a51d3d47437fc1d041d45d.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/figo-turco-seco-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3555,7 +3555,7 @@
     {
       "id": 475,
       "name": "FARELO DE AVEIA ( 100g )",
-      "price": 1.5,
+      "price": 1.2,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
       "in_stock": true,
