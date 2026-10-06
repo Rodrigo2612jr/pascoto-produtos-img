@@ -158,7 +158,7 @@
       "_cat_id": "17",
       "_cat_slug": "",
       "id": 475,
-      "available": true,
+      "available": false,
       "_vendidos_6m": 71
     },
     {
@@ -235,7 +235,7 @@
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
     "itens": 417,
-    "indisponiveis": 5,
+    "indisponiveis": 8,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -822,7 +822,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
       "in_stock": true,
-      "available": true,
+      "available": false,
       "_price_per_kg": 15.0
     },
     {
@@ -3559,7 +3559,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
       "in_stock": true,
-      "available": true
+      "available": false
     },
     {
       "id": 487,
