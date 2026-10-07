@@ -396,14 +396,14 @@
       "_price_per_kg": 6.3
     },
     {
-      "id": 435,
-      "name": "FARINHA FINA MANDIOCA ( 100g )",
-      "price": 0.78,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_fina_mandioca_100g_435_1_5c51b53793fce6255da4b38ce8f2d5d3.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-mandioca-fina-100g",
+      "id": 59,
+      "name": "MILHO DE PIPOCA ( 100gr )",
+      "price": 0.75,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_de_pipoca_100gr_59_1_21b22c79c81efd87c2e90d3c94b74259.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/milho-de-pipoca-100gr",
       "in_stock": true,
       "available": true,
-      "_price_per_kg": 6.7
+      "_price_per_kg": 7.5
     },
     {
       "id": 433,
@@ -413,17 +413,17 @@
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-mandioca-grossa-100g",
       "in_stock": true,
       "available": true,
-      "_price_per_kg": 7.2
+      "_price_per_kg": 7.8
     },
     {
-      "id": 59,
-      "name": "MILHO DE PIPOCA ( 100gr )",
-      "price": 0.75,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_de_pipoca_100gr_59_1_21b22c79c81efd87c2e90d3c94b74259.jpg",
-      "url": "https://www.emporiopascoto.com.br/7-graos/milho-de-pipoca-100gr",
+      "id": 435,
+      "name": "FARINHA FINA MANDIOCA ( 100g )",
+      "price": 0.78,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_fina_mandioca_100g_435_1_5c51b53793fce6255da4b38ce8f2d5d3.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-mandioca-fina-100g",
       "in_stock": true,
       "available": true,
-      "_price_per_kg": 7.5
+      "_price_per_kg": 7.8
     },
     {
       "id": 521,
@@ -456,26 +456,6 @@
       "_price_per_kg": 8.5
     },
     {
-      "id": 383,
-      "name": "TRIGO PARA KIBE ( 100g )",
-      "price": 0.99,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/trigo_para_kibe_100g_383_1_438e45e3f4194a4e37b069a04ba5072e.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/trigo-para-kibe-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 9.2
-    },
-    {
-      "id": 513,
-      "name": "AVEIA FLOCOS ( 100g )",
-      "price": 0.99,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_flocos_100g_513_1_500c96acb66f3c229c773fe3c57827d0.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-flocos-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 9.2
-    },
-    {
       "id": 409,
       "name": "FUBA MIMOSO ( 100g )",
       "price": 0.95,
@@ -491,6 +471,16 @@
       "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/canjica_branca_100gr_101_1_cbfa52772f7a3002f76e97a017d93297.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/canjica-branca-100gr",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": 383,
+      "name": "TRIGO PARA KIBE ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/trigo_para_kibe_100g_383_1_438e45e3f4194a4e37b069a04ba5072e.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/trigo-para-kibe-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 9.9
@@ -531,6 +521,16 @@
       "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_laminada_100g_511_1_827294e0c7a20ada950a21aec50d2a2e.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-laminada-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": 513,
+      "name": "AVEIA FLOCOS ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_flocos_100g_513_1_500c96acb66f3c229c773fe3c57827d0.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-flocos-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 9.9
@@ -636,16 +636,6 @@
       "_price_per_kg": 10.8
     },
     {
-      "id": 363,
-      "name": "FARINHA DE ARROZ INTEGRAL ( 100g )",
-      "price": 1.39,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_arroz_integral_100g_363_1_d22af26ffc0e8bf0cb7cc34ea4c42cc6.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-arroz-integral-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 11.1
-    },
-    {
       "id": 467,
       "name": "FARINHA DE ARROZ ( 100g )",
       "price": 1.15,
@@ -746,16 +736,6 @@
       "_price_per_kg": 13.0
     },
     {
-      "id": 413,
-      "name": "FECULA DE BATATA ( 100g )",
-      "price": 1.38,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/fecula_de_batata_100g_413_1_12e67dbdc801d42f0313c5558affd41f.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/fecula-de-batata-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 13.0
-    },
-    {
       "id": 1085,
       "name": "MOLHO DE TOMATE TRADICIONAL SALSARETTI 300G ( UND )",
       "price": 4.0,
@@ -796,6 +776,26 @@
       "_price_per_kg": 13.8
     },
     {
+      "id": 413,
+      "name": "FECULA DE BATATA ( 100g )",
+      "price": 1.38,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/fecula_de_batata_100g_413_1_12e67dbdc801d42f0313c5558affd41f.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/fecula-de-batata-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 13.8
+    },
+    {
+      "id": 363,
+      "name": "FARINHA DE ARROZ INTEGRAL ( 100g )",
+      "price": 1.39,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_arroz_integral_100g_363_1_d22af26ffc0e8bf0cb7cc34ea4c42cc6.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-arroz-integral-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 13.9
+    },
+    {
       "id": 325,
       "name": "ACUCAR DEMERARA  ( 100g )",
       "price": 1.45,
@@ -814,16 +814,6 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 14.9
-    },
-    {
-      "id": 475,
-      "name": "FARELO DE AVEIA ( 100g )",
-      "price": 1.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
-      "in_stock": true,
-      "available": false,
-      "_price_per_kg": 15.0
     },
     {
       "id": 571,
@@ -1276,7 +1266,7 @@
     {
       "id": 23,
       "name": "CASTANHA DO PARA QUEBRADA ( 100gr )",
-      "price": 13.5,
+      "price": 11.34,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_quebrada_100gr_23_1_080d7791fa9008e57f503cf20b4268f3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-quebrada",
       "in_stock": true,
@@ -1647,7 +1637,7 @@
     {
       "id": 23,
       "name": "CASTANHA DO PARA QUEBRADA ( 100gr )",
-      "price": 13.5,
+      "price": 11.34,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_do_para_quebrada_100gr_23_1_080d7791fa9008e57f503cf20b4268f3.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-do-para-quebrada",
       "in_stock": true,
@@ -3551,15 +3541,6 @@
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-amendoa-100g",
       "in_stock": true,
       "available": true
-    },
-    {
-      "id": 475,
-      "name": "FARELO DE AVEIA ( 100g )",
-      "price": 1.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
-      "in_stock": true,
-      "available": false
     },
     {
       "id": 487,
