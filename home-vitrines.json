@@ -396,6 +396,26 @@
       "_price_per_kg": 6.3
     },
     {
+      "id": 1217,
+      "name": "CARVAO FUNCHAL 4KG ( UND )",
+      "price": 30.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/carvao_funchal_4kg_und_1217_1_db5ec25954dfcc4d8358a5c7fcfc0cec.jpg",
+      "url": "https://www.emporiopascoto.com.br/27-mercearia/carvao-funchal-4kg-und",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 7.5
+    },
+    {
+      "id": 1357,
+      "name": "CARVAO FUNCHAL 2KG ( UND )",
+      "price": 15.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/carvao_funchal_2kg_und_1357_1_767b81b521570419a2045e7777a21922.jpg",
+      "url": "https://www.emporiopascoto.com.br/27-mercearia/carvao-funchal-2kg-und",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 7.5
+    },
+    {
       "id": 59,
       "name": "MILHO DE PIPOCA ( 100gr )",
       "price": 0.75,
@@ -1910,7 +1930,7 @@
       "price": 5.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/granola_zero_ws_100g_815_1_ef799695018330427ef84ee7ffd94227.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/granola-zero-ws-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3121,7 +3141,7 @@
       "price": 5.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/granola_zero_ws_100g_815_1_ef799695018330427ef84ee7ffd94227.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/granola-zero-ws-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3793,7 +3813,7 @@
       "price": 5.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/granola_zero_ws_100g_815_1_ef799695018330427ef84ee7ffd94227.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/granola-zero-ws-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
