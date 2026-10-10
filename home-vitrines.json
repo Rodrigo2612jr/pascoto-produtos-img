@@ -411,7 +411,7 @@
       "price": 15.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carvao_funchal_2kg_und_1357_1_767b81b521570419a2045e7777a21922.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/carvao-funchal-2kg-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 7.5
     },
@@ -1073,7 +1073,7 @@
       "price": 25.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/guarana_ninho_verde_500mg_60cap_und_1057_1_7040e6e990949a30431497884c8dca40.jpg",
       "url": "https://www.emporiopascoto.com.br/26-encapsulados/guarana-ninho-verde-500mg-60cap-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2736,7 +2736,7 @@
       "price": 13.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_frutas_100g_147_1_3d6b1d7acebfcfc1654e8008c32a596e.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/mix-de-frutas-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3415,7 +3415,7 @@
       "price": 22.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/sene_500mg_60caps_ninho_verde_und_1193_1_e79542cf0babf6c3e518cbd2e825dc71.jpg",
       "url": "https://www.emporiopascoto.com.br/26-encapsulados/sene-500mg-60caps-ninho-verde-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
