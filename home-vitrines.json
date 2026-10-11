@@ -366,16 +366,6 @@
   ],
   "achados_banca": [
     {
-      "id": 125,
-      "name": "QUIRELA  ( 100gr )",
-      "price": 0.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/quirela_100gr_125_1_0ba9ced9edbc7f3dc54d3b4a4ce5014e.jpg",
-      "url": "https://www.emporiopascoto.com.br/7-graos/quirela-100gr",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 5.0
-    },
-    {
       "id": 1425,
       "name": "ARROZ NAMORADO T1 1KG ( UND )",
       "price": 5.0,
@@ -386,6 +376,16 @@
       "_price_per_kg": 5.0
     },
     {
+      "id": 125,
+      "name": "QUIRELA  ( 100gr )",
+      "price": 0.6,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/quirela_100gr_125_1_0ba9ced9edbc7f3dc54d3b4a4ce5014e.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/quirela-100gr",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 6.0
+    },
+    {
       "id": 103,
       "name": "CANJICA AMARELA ( 100gr )",
       "price": 0.69,
@@ -393,7 +393,7 @@
       "url": "https://www.emporiopascoto.com.br/7-graos/canjica-amarela-100gr",
       "in_stock": true,
       "available": true,
-      "_price_per_kg": 6.3
+      "_price_per_kg": 6.9
     },
     {
       "id": 1217,
@@ -401,7 +401,7 @@
       "price": 30.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carvao_funchal_4kg_und_1217_1_db5ec25954dfcc4d8358a5c7fcfc0cec.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/carvao-funchal-4kg-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 7.5
     },
@@ -412,16 +412,6 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carvao_funchal_2kg_und_1357_1_767b81b521570419a2045e7777a21922.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/carvao-funchal-2kg-und",
       "in_stock": false,
-      "available": true,
-      "_price_per_kg": 7.5
-    },
-    {
-      "id": 59,
-      "name": "MILHO DE PIPOCA ( 100gr )",
-      "price": 0.78,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_de_pipoca_100gr_59_1_21b22c79c81efd87c2e90d3c94b74259.jpg",
-      "url": "https://www.emporiopascoto.com.br/7-graos/milho-de-pipoca-100gr",
-      "in_stock": true,
       "available": true,
       "_price_per_kg": 7.5
     },
@@ -441,6 +431,16 @@
       "price": 0.78,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_fina_mandioca_100g_435_1_5c51b53793fce6255da4b38ce8f2d5d3.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-mandioca-fina-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 7.8
+    },
+    {
+      "id": 59,
+      "name": "MILHO DE PIPOCA ( 100gr )",
+      "price": 0.78,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_de_pipoca_100gr_59_1_21b22c79c81efd87c2e90d3c94b74259.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/milho-de-pipoca-100gr",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 7.8
@@ -473,7 +473,7 @@
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/polvilho-doce-fecula-mandioca-100g",
       "in_stock": true,
       "available": true,
-      "_price_per_kg": 8.5
+      "_price_per_kg": 8.9
     },
     {
       "id": 409,
@@ -501,16 +501,6 @@
       "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/trigo_para_kibe_100g_383_1_438e45e3f4194a4e37b069a04ba5072e.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/trigo-para-kibe-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 9.9
-    },
-    {
-      "id": 425,
-      "name": "FARINHA DE ROSCA ( 100g )",
-      "price": 1.05,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_rosca_100g_425_1_aac243b1b59e1adf9609114e060792b0.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-rosca-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 9.9
@@ -606,21 +596,11 @@
       "_price_per_kg": 10.0
     },
     {
-      "id": 393,
-      "name": "POLVILHO AZEDO ( 100g )",
-      "price": 1.2,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/polvilho_azedo_100g_393_1_c0a183433c1433a2e84768e1d35e6c13.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/polvilho-azedo-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 10.5
-    },
-    {
-      "id": 403,
-      "name": "GOMA DO NORTE OLINDA ( 100g )",
-      "price": 1.2,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/goma_do_norte_olinda_100g_403_1_400488295f9f61718ee8707678cf4c9b.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/goma-do-norte-olinda-100g",
+      "id": 425,
+      "name": "FARINHA DE ROSCA ( 100g )",
+      "price": 1.05,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_rosca_100g_425_1_aac243b1b59e1adf9609114e060792b0.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-rosca-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 10.5
@@ -646,26 +626,6 @@
       "_price_per_kg": 10.5
     },
     {
-      "id": 419,
-      "name": "FARINHA DE TRIGO INTEGRAL ( 100g )",
-      "price": 1.2,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_trigo_integral_100g_419_1_8290dec2720f23944f70a500ec3ea831.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-trigo-integral-100g",
-      "in_stock": false,
-      "available": true,
-      "_price_per_kg": 10.8
-    },
-    {
-      "id": 467,
-      "name": "FARINHA DE ARROZ ( 100g )",
-      "price": 1.2,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_arroz_100g_467_1_1423eaf556b72ef125e504f30a378351.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-arroz-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 11.5
-    },
-    {
       "id": 1015,
       "name": "FLOCAO DO VALLE 500G ( UND )",
       "price": 5.8,
@@ -682,6 +642,46 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mel_itajai_do_sul_1250g_und_1333_1_3a76a324a09ffff574f6780914cb753d.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/mel-itajai-do-sul-1250g-und",
       "in_stock": false,
+      "available": true,
+      "_price_per_kg": 12.0
+    },
+    {
+      "id": 393,
+      "name": "POLVILHO AZEDO ( 100g )",
+      "price": 1.2,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/polvilho_azedo_100g_393_1_c0a183433c1433a2e84768e1d35e6c13.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/polvilho-azedo-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 12.0
+    },
+    {
+      "id": 403,
+      "name": "GOMA DO NORTE OLINDA ( 100g )",
+      "price": 1.2,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/goma_do_norte_olinda_100g_403_1_400488295f9f61718ee8707678cf4c9b.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/goma-do-norte-olinda-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 12.0
+    },
+    {
+      "id": 419,
+      "name": "FARINHA DE TRIGO INTEGRAL ( 100g )",
+      "price": 1.2,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_trigo_integral_100g_419_1_8290dec2720f23944f70a500ec3ea831.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-trigo-integral-100g",
+      "in_stock": false,
+      "available": true,
+      "_price_per_kg": 12.0
+    },
+    {
+      "id": 467,
+      "name": "FARINHA DE ARROZ ( 100g )",
+      "price": 1.2,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_arroz_100g_467_1_1423eaf556b72ef125e504f30a378351.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-arroz-100g",
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 12.0
     },
@@ -714,26 +714,6 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 12.5
-    },
-    {
-      "id": 319,
-      "name": "ACUCAR MASCAVO ( 100g )",
-      "price": 1.35,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/acucar_mascavo_100g_319_1_19ee1051b8f1a560b90e07a78f162d0e.jpg",
-      "url": "https://www.emporiopascoto.com.br/10-adocantes-naturais/acucar-mascavo-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 12.9
-    },
-    {
-      "id": 385,
-      "name": "TAPIOCA GRANULADA ( 100g )",
-      "price": 1.49,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/tapioca_granulada_100g_385_1_826039b97ebdda87b269fd740825ecdb.jpg",
-      "url": "https://www.emporiopascoto.com.br/15-farinaceos/tapioca-granulada-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 12.9
     },
     {
       "id": 1335,
@@ -772,6 +752,16 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/arroz_integral_agulha_branco_100gr_113_1_195e103b9ec32014365aab28ae2b4f33.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/arroz-integral-agulha-branco-100gr",
       "in_stock": true,
+      "available": true,
+      "_price_per_kg": 13.5
+    },
+    {
+      "id": 319,
+      "name": "ACUCAR MASCAVO ( 100g )",
+      "price": 1.35,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/acucar_mascavo_100g_319_1_19ee1051b8f1a560b90e07a78f162d0e.jpg",
+      "url": "https://www.emporiopascoto.com.br/10-adocantes-naturais/acucar-mascavo-100g",
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 13.5
     },
@@ -826,6 +816,16 @@
       "_price_per_kg": 14.5
     },
     {
+      "id": 385,
+      "name": "TAPIOCA GRANULADA ( 100g )",
+      "price": 1.49,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/tapioca_granulada_100g_385_1_826039b97ebdda87b269fd740825ecdb.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/tapioca-granulada-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 14.9
+    },
+    {
       "id": 87,
       "name": "FEIJAO BRANCO ( 100gr )",
       "price": 1.49,
@@ -874,16 +874,6 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 15.9
-    },
-    {
-      "id": 545,
-      "name": "GERGELIM C/ PELE ( 100g )",
-      "price": 2.0,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/gergelim_c_pele_100g_545_1_32a345d4cfac77af90f2a90801761883.jpg",
-      "url": "https://www.emporiopascoto.com.br/16-sementes/gergelim-c-pele-100g",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 16.0
     },
     {
       "id": 63,
@@ -1012,16 +1002,6 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tapioca_da_terrinha_500g_und_1241_1_3870359be1867f8446f7cfee55c40ef4.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/tapioca-da-terrinha-500g-und",
       "in_stock": false,
-      "available": true,
-      "_price_per_kg": 19.0
-    },
-    {
-      "id": 677,
-      "name": "COENTRO EM PO ( 100g )",
-      "price": 2.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/coentro_em_po_100g_677_1_37c09b8dcc6f0effdef5a7edd201a003.jpg",
-      "url": "https://www.emporiopascoto.com.br/17-temperos/coentro-em-po-100g",
-      "in_stock": true,
       "available": true,
       "_price_per_kg": 19.0
     },
@@ -1570,7 +1550,7 @@
       "price": 18.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_pecan_extra_100gr_11_1_cbfc565aed62ae67513d6ea9a37e576f.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-pecan-extra",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
