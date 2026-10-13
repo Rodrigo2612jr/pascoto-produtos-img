@@ -3134,15 +3134,6 @@
       "available": true
     },
     {
-      "id": 819,
-      "name": "SUCRILHO S/ AÇUCAR ( 100g )",
-      "price": 3.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/sucrilho_s_acucar_100g_819_1_9b6f656418a8d64ecd3cda283144d18b.jpg",
-      "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/sucrilho-s-acucar-100g",
-      "in_stock": true,
-      "available": false
-    },
-    {
       "id": 821,
       "name": "SUCRILHO C/ AÇUCAR ( 100g )",
       "price": 3.2,
@@ -3795,15 +3786,6 @@
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/granola-zero-ws-100g",
       "in_stock": true,
       "available": true
-    },
-    {
-      "id": 819,
-      "name": "SUCRILHO S/ AÇUCAR ( 100g )",
-      "price": 3.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/sucrilho_s_acucar_100g_819_1_9b6f656418a8d64ecd3cda283144d18b.jpg",
-      "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/sucrilho-s-acucar-100g",
-      "in_stock": true,
-      "available": false
     }
   ]
 }
