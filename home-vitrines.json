@@ -2824,7 +2824,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
