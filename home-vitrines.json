@@ -119,7 +119,7 @@
     },
     {
       "name": " NOZES INTEIRA ( 100gr )",
-      "price": 9.35,
+      "price": 11.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_inteira_100gr_13_1_9b8c4a5b0855b5a6304e05592886bff1.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-inteira",
       "_cat_id": "1",
@@ -1601,7 +1601,7 @@
     {
       "id": 13,
       "name": "NOZES INTEIRA ( 100gr )",
-      "price": 9.35,
+      "price": 11.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_inteira_100gr_13_1_9b8c4a5b0855b5a6304e05592886bff1.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-inteira",
       "in_stock": true,
@@ -2250,7 +2250,7 @@
     {
       "id": 147,
       "name": "MIX DE FRUTAS ( 100g )",
-      "price": 13.5,
+      "price": 11.48,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_frutas_100g_147_1_3d6b1d7acebfcfc1654e8008c32a596e.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/mix-de-frutas-100g",
       "available": true
@@ -2306,7 +2306,7 @@
     {
       "id": 13,
       "name": "NOZES INTEIRA ( 100gr )",
-      "price": 9.35,
+      "price": 11.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_inteira_100gr_13_1_9b8c4a5b0855b5a6304e05592886bff1.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-inteira",
       "available": true
@@ -2713,7 +2713,7 @@
     {
       "id": 147,
       "name": "MIX DE FRUTAS ( 100g )",
-      "price": 13.5,
+      "price": 11.48,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_frutas_100g_147_1_3d6b1d7acebfcfc1654e8008c32a596e.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/mix-de-frutas-100g",
       "in_stock": true,
