@@ -871,7 +871,7 @@
       "price": 1.59,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/arroz_integral_agulha_misto_100gr_111_1_418ce3472930b6070c75a50886e6f175.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/arroz-integral-agulha-misto-100gr",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 15.9
     },
