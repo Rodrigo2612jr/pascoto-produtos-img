@@ -235,7 +235,7 @@
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
     "itens": 413,
-    "indisponiveis": 6,
+    "indisponiveis": 7,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -3113,7 +3113,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/fibrus_150g_und_809_1_972a739f4a28f06fae971534dd3223a9.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/fibrus-150g-und",
       "in_stock": true,
-      "available": true
+      "available": false
     },
     {
       "id": 815,
