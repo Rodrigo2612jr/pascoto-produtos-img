@@ -20,6 +20,8 @@ BASE = "https://rodrigo2612jr.github.io/pascoto-produtos-img/ig"
 UA = {"User-Agent": "Mozilla/5.0"}
 # Post de promocao datada (% de desconto) vence e o feed da home nao sabe quando: fica fora.
 PROMO = re.compile(r"semana do consumidor|\d+\s*%\s*(off|de desconto)", re.I)
+# Marca e "loja" (decisao 15/10/2026): post que cita Mercadao/banca nao vai pro site (legenda vira aria-label).
+FORA_DA_MARCA = re.compile(r"mercad[aã]o|mercado municipal|\bbancas?\b", re.I)
 
 def token():
     t = os.environ.get("IG_TOKEN")
@@ -46,6 +48,8 @@ def main():
         if len(saida) >= 8: break  # a home mostra 6, 8 de folga
         if PROMO.search(p.get("caption") or ""):
             print(f"  pulei {p.get('id')}: promocao datada na legenda"); continue
+        if FORA_DA_MARCA.search(p.get("caption") or ""):
+            print(f"  pulei {p.get('id')}: legenda cita Mercadao/banca"); continue
         mt = p.get("media_type", "IMAGE")
         origem = (p.get("thumbnail_url") if mt == "VIDEO" else p.get("media_url")) or p.get("media_url") or ""
         if not origem:
