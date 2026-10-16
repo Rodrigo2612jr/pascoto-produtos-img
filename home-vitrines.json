@@ -811,7 +811,7 @@
       "price": 1.45,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/acucar_demerara_100g_325_1_a0072004b80bc70d798edaacda3d0071.jpg",
       "url": "https://www.emporiopascoto.com.br/10-adocantes-naturais/acucar-demerara-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 14.5
     },
