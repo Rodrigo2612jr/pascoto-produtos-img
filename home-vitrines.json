@@ -1550,7 +1550,7 @@
       "price": 18.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_pecan_extra_100gr_11_1_cbfc565aed62ae67513d6ea9a37e576f.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-pecan-extra",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
