@@ -871,7 +871,7 @@
       "price": 1.59,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/arroz_integral_agulha_misto_100gr_111_1_418ce3472930b6070c75a50886e6f175.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/arroz-integral-agulha-misto-100gr",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 15.9
     },
@@ -2083,7 +2083,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/batata_doce_chips_100g_343_1_62202184ac63f4aeb667bcfcc2d62b33.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/batata-doce-chips-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2959,7 +2959,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/batata_doce_chips_100g_343_1_62202184ac63f4aeb667bcfcc2d62b33.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/batata-doce-chips-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3312,7 +3312,7 @@
       "price": 3.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/erva_cidreira_100g_481_1_f9340b42900a1d259f0830d06a20a742.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/erva-cidreira-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
