@@ -1527,24 +1527,6 @@
       "available": true
     },
     {
-      "id": 1063,
-      "name": "WHEY FORT BAUNILHA 3W VITAFOR 900G ( UND )",
-      "price": 222.0,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/whey_fort_baunilha_3w_vitafor_900g_und_1063_1_d6eff8bfc69d874ff8a41d3e211d5047.jpg",
-      "url": "https://www.emporiopascoto.com.br/26-encapsulados/whey-fort-baunilha-3w-vitafor-900g-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
-      "id": 1065,
-      "name": "WHEY FORT CHOCOLATE 3W VITAFOR 900G ( UND )",
-      "price": 222.0,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/whey_fort_chocolate_3w_vitafor_900g_und_1065_1_354b7e45fbe7b9f1071613c2c147623b.jpg",
-      "url": "https://www.emporiopascoto.com.br/26-encapsulados/whey-fort-chocolate-3w-vitafor-900g-und",
-      "in_stock": false,
-      "available": true
-    },
-    {
       "id": 11,
       "name": "NOZES PECAN EXTRA ( 100gr )",
       "price": 18.5,
@@ -1919,7 +1901,7 @@
       "price": 21.85,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/granola_gran_pic_500g_und_823_1_397a2af44b6e0f4171cfb596f909784e.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/granola-gran-pic-500g-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -1965,15 +1947,6 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/proteina_de_ervilha_concentrada_100g_847_1_0cf60e85e875a05cc572fd2fdfcfe533.jpg",
       "url": "https://www.emporiopascoto.com.br/23-suplemetos/proteina-de-ervilha-concentrada-100g",
       "in_stock": true,
-      "available": true
-    },
-    {
-      "id": 897,
-      "name": "WHEY UP 3W - CHOCOBELGA - POUCH 900G ( UND )",
-      "price": 165.01,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/whey_up_3w_chocobelga_pouch_900g_und_897_1_a07390d4bb40c4cc365937d59ba3bd46.jpg",
-      "url": "https://www.emporiopascoto.com.br/23-suplemetos/whey-up-3w-chocobelga-pouch-900g-und",
-      "in_stock": false,
       "available": true
     },
     {
@@ -2698,7 +2671,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3139,7 +3112,7 @@
       "price": 21.85,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/granola_gran_pic_500g_und_823_1_397a2af44b6e0f4171cfb596f909784e.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/granola-gran-pic-500g-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
