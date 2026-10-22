@@ -366,16 +366,6 @@
   ],
   "achados_banca": [
     {
-      "id": 1425,
-      "name": "ARROZ NAMORADO T1 1KG ( UND )",
-      "price": 5.0,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/arroz_namorado_t1_1kg_und_1425_1_074d5b51de90b8f4182ce9b16520d965.jpg",
-      "url": "https://www.emporiopascoto.com.br/27-mercearia/arroz-namorado-t1-1kg-und",
-      "in_stock": true,
-      "available": false,
-      "_price_per_kg": 5.0
-    },
-    {
       "id": 125,
       "name": "QUIRELA  ( 100gr )",
       "price": 0.6,
@@ -401,7 +391,7 @@
       "price": 30.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carvao_funchal_4kg_und_1217_1_db5ec25954dfcc4d8358a5c7fcfc0cec.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/carvao-funchal-4kg-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 7.5
     },
@@ -411,7 +401,7 @@
       "price": 15.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carvao_funchal_2kg_und_1357_1_767b81b521570419a2045e7777a21922.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/carvao-funchal-2kg-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 7.5
     },
@@ -1901,7 +1891,7 @@
       "price": 21.85,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/granola_gran_pic_500g_und_823_1_397a2af44b6e0f4171cfb596f909784e.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/granola-gran-pic-500g-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3112,7 +3102,7 @@
       "price": 21.85,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/granola_gran_pic_500g_und_823_1_397a2af44b6e0f4171cfb596f909784e.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/granola-gran-pic-500g-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
