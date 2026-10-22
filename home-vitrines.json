@@ -158,7 +158,7 @@
       "_cat_id": "17",
       "_cat_slug": "",
       "id": 475,
-      "available": false,
+      "available": true,
       "_vendidos_6m": 71
     },
     {
@@ -234,8 +234,8 @@
     "atualizado_imagens": "2026-06-09 (imagens atuais da Tray)",
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
-    "itens": 409,
-    "indisponiveis": 7,
+    "itens": 408,
+    "indisponiveis": 5,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -918,7 +918,7 @@
     {
       "id": 673,
       "name": "COENTRO GRAO ( 100g )",
-      "price": 1.75,
+      "price": 2.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/coentro_grao_100g_673_1_499504c42816c567c6d9721f9a70f4bc.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/coentro-grao-100g",
       "in_stock": true,
@@ -3272,7 +3272,7 @@
     {
       "id": 481,
       "name": "ERVA CIDREIRA ( 100g )",
-      "price": 3.5,
+      "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/erva_cidreira_100g_481_1_f9340b42900a1d259f0830d06a20a742.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/erva-cidreira-100g",
       "in_stock": false,
