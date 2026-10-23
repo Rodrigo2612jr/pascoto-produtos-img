@@ -661,7 +661,7 @@
       "price": 1.2,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_trigo_integral_100g_419_1_8290dec2720f23944f70a500ec3ea831.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-trigo-integral-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 12.0
     },
@@ -826,6 +826,16 @@
       "_price_per_kg": 14.9
     },
     {
+      "id": 475,
+      "name": "FARELO DE AVEIA ( 100g )",
+      "price": 1.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 15.0
+    },
+    {
       "id": 571,
       "name": "TEMPERO BAIANO SEM PIMENTA ( 100g )",
       "price": 1.5,
@@ -911,16 +921,6 @@
       "price": 1.75,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/grao_de_bico_miudo_100gr_65_1_948a785a3adb9cbbf14c4b71940d6f6e.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/grao-de-bico-miudo-100gr",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 17.5
-    },
-    {
-      "id": 673,
-      "name": "COENTRO GRAO ( 100g )",
-      "price": 2.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/coentro_grao_100g_673_1_499504c42816c567c6d9721f9a70f4bc.jpg",
-      "url": "https://www.emporiopascoto.com.br/17-temperos/coentro-grao-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 17.5
@@ -1394,7 +1394,7 @@
       "price": 10.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/acafrao_nacional_100g_713_1_d4a10754653e307926f0eb33db6f8599.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/acafrao-nacional-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2046,7 +2046,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/batata_doce_chips_100g_343_1_62202184ac63f4aeb667bcfcc2d62b33.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/batata-doce-chips-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2621,7 +2621,7 @@
     },
     {
       "id": 135,
-      "name": "CEREJA EM CALDA SEM CABO ( 100g )",
+      "name": "CEREJA EM CALDA SEM CABO LATA 1.8 KG ( 100g )",
       "price": 9.6,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/cereja_em_calda_sem_cabo_lata_1_8_kg_100g_135_1_ce9778e7959a070e62f1e8d4a24d68a1.png",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/cereja-em-calda-sem-cabo-lata-1-8-kg-100g",
@@ -2661,7 +2661,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2787,7 +2787,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2815,6 +2815,15 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/abacaxi_cristalizado_100g_175_1_234b058d1bd4379d54c85a0ab523ac19.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/abacaxi-cristalizado-100g",
       "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 181,
+      "name": "TAMARA LARGE JUMBO ( 100g )",
+      "price": 8.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_large_jumbo_100g_181_1_f5eccf3f087abdf2985919bd42aeb63a.png",
+      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-large-jumbo-100g",
+      "in_stock": false,
       "available": true
     },
     {
@@ -2922,7 +2931,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/batata_doce_chips_100g_343_1_62202184ac63f4aeb667bcfcc2d62b33.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/batata-doce-chips-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3275,7 +3284,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/erva_cidreira_100g_481_1_f9340b42900a1d259f0830d06a20a742.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/erva-cidreira-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3484,6 +3493,15 @@
       "price": 13.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_amendoa_100g_471_1_9ffaf64af0f047f13f78c653b5e3bf75.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-amendoa-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 475,
+      "name": "FARELO DE AVEIA ( 100g )",
+      "price": 1.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
       "in_stock": true,
       "available": true
     },
