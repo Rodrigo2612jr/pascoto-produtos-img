@@ -401,7 +401,7 @@
       "price": 15.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carvao_funchal_2kg_und_1357_1_767b81b521570419a2045e7777a21922.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/carvao-funchal-2kg-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 7.5
     },
@@ -1855,7 +1855,7 @@
       "price": 38.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_integral_power_one_1_005kg_und_775_1_3966f3a79ed23f3dcc50cc1161de21ed.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-integral-power-one-1-005kg-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -1983,7 +1983,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/jaca_chips_50g_und_327_1_da2a40fa90f576713a6eb37807650c76.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/jaca-chips-50g-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2868,7 +2868,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/jaca_chips_50g_und_327_1_da2a40fa90f576713a6eb37807650c76.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/jaca-chips-50g-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3293,7 +3293,7 @@
       "price": 5.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/camomila_100g_501_1_b48ce291fb6e686a8445782bebfe7af2.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/camomila-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3729,7 +3729,7 @@
       "price": 38.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/pasta_de_amendoim_integral_power_one_1_005kg_und_775_1_3966f3a79ed23f3dcc50cc1161de21ed.jpg",
       "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/pasta-de-amendoim-integral-power-one-1-005kg-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
