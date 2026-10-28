@@ -234,8 +234,8 @@
     "atualizado_imagens": "2026-06-09 (imagens atuais da Tray)",
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
-    "itens": 410,
-    "indisponiveis": 5,
+    "itens": 411,
+    "indisponiveis": 6,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -321,7 +321,7 @@
       "price": 9.9,
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-grelhados-amp-proteinas-und",
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_grelhados_amp_proteinas_und_757_1_0a73bc19ba430f9b93349d6965cb4d96.jpg",
-      "available": true
+      "available": false
     },
     {
       "id": 755,
