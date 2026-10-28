@@ -751,7 +751,7 @@
       "price": 1.35,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/acucar_mascavo_100g_319_1_19ee1051b8f1a560b90e07a78f162d0e.jpg",
       "url": "https://www.emporiopascoto.com.br/10-adocantes-naturais/acucar-mascavo-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 13.5
     },
@@ -1038,6 +1038,15 @@
   ],
   "imunidade": [
     {
+      "id": 1051,
+      "name": "GUARANA MEISSEN 600MG 60CAP ( UND )",
+      "price": 35.9,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/gruarana_meissen_500mg_60cap_und_1051_1_49e73ac6fee9e811dd64c28e3c7468f2.jpg",
+      "url": "https://www.emporiopascoto.com.br/26-encapsulados/gruarana-meissen-500mg-60cap-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
       "id": 1057,
       "name": "GUARANA NINHO VERDE 500MG 60CAP ( UND )",
       "price": 25.0,
@@ -1066,7 +1075,7 @@
     },
     {
       "id": 1139,
-      "name": "GUARANA EM PO APISNUTRI 520MG 60CAP ( UND )",
+      "name": "GUARANA APISNUTRI 520MG 60CAP ( UND )",
       "price": 24.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/guarana_em_po_apisnutri_520mg_60cap_und_1139_1_81e00bc3dd3767007ff20d0e5bb3e346.jpg",
       "url": "https://www.emporiopascoto.com.br/26-encapsulados/guarana-em-po-apisnutri-520mg-60cap-und",
@@ -1394,7 +1403,7 @@
       "price": 10.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/acafrao_nacional_100g_713_1_d4a10754653e307926f0eb33db6f8599.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/acafrao-nacional-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2010,7 +2019,7 @@
       "price": 6.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_mostarda_e_mel_100g_335_1_bff669268376c57392c5336290457e18.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/milho-mostarda-e-mel-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2787,7 +2796,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2895,7 +2904,7 @@
       "price": 6.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_mostarda_e_mel_100g_335_1_bff669268376c57392c5336290457e18.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/milho-mostarda-e-mel-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3154,7 +3163,7 @@
   "sono_ansiedade": [
     {
       "id": 1113,
-      "name": "MAGNESIO TAURATO MEISSEN 500G 60CAP ( UND )",
+      "name": "MAGNESIO TAURATO MEISSEN 500MG 60CAP ( UND )",
       "price": 69.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/magnesio_taurato_meissen_500g_60cap_und_1113_1_b7e7346d1e6195579f780d426d3e7767.jpg",
       "url": "https://www.emporiopascoto.com.br/26-encapsulados/magnesio-taurato-meissen-500g-60cap-und",
@@ -3226,7 +3235,7 @@
     },
     {
       "id": 1313,
-      "name": "MALATO DE MAGNESIO MEISSEN 500G 60CAP ( UND )",
+      "name": "MALATO DE MAGNESIO MEISSEN 500MG 60CAP ( UND )",
       "price": 69.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/malato_de_magnesio_meissen_500g_60cap_und_1313_1_fb61b6bdf0c57cc0c6cbb41ed6966762.jpg",
       "url": "https://www.emporiopascoto.com.br/26-encapsulados/malato-de-magnesio-meissen-500g-60cap-und",
@@ -3651,7 +3660,7 @@
     },
     {
       "id": 905,
-      "name": "SPIRULINA UNILIFE 1000G 150COMP ( UND )",
+      "name": "SPIRULINA UNILIFE 1000MG 150COMP ( UND )",
       "price": 59.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/spirulina_unilife_1000g_150comp_und_905_1_c32145250569dbe1b525cb1b235d2cda.jpg",
       "url": "https://www.emporiopascoto.com.br/26-encapsulados/spirulina-unilife-1000g-150comp-und",
