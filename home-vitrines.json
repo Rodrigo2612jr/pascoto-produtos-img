@@ -235,7 +235,7 @@
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
     "itens": 411,
-    "indisponiveis": 6,
+    "indisponiveis": 7,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -1721,7 +1721,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_crua_100gr_41_1_8de66fc68aa174fec721d46d5acf54a9.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-crua",
       "in_stock": true,
-      "available": true
+      "available": false
     },
     {
       "id": 43,
