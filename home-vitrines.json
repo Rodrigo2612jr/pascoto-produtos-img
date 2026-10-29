@@ -235,7 +235,7 @@
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
     "itens": 411,
-    "indisponiveis": 7,
+    "indisponiveis": 8,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -2608,7 +2608,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/morango_desidratado_100g_129_1_3f65c16740de4414fcea8f3848899e2c.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/morango-desidratado-100g",
       "in_stock": true,
-      "available": true
+      "available": false
     },
     {
       "id": 131,
