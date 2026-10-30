@@ -391,7 +391,7 @@
       "price": 30.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carvao_funchal_4kg_und_1217_1_db5ec25954dfcc4d8358a5c7fcfc0cec.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/carvao-funchal-4kg-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 7.5
     },
@@ -1715,6 +1715,15 @@
       "available": true
     },
     {
+      "id": 41,
+      "name": "AMENDOA CRUA ( 100gr )",
+      "price": 11.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_crua_100gr_41_1_8de66fc68aa174fec721d46d5acf54a9.jpg",
+      "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-crua",
+      "in_stock": true,
+      "available": true
+    },
+    {
       "id": 43,
       "name": "AMENDOA TORRADA C/ SAL ( 100gr )",
       "price": 12.0,
@@ -2010,7 +2019,7 @@
       "price": 6.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_mostarda_e_mel_100g_335_1_bff669268376c57392c5336290457e18.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/milho-mostarda-e-mel-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2787,7 +2796,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2895,7 +2904,7 @@
       "price": 6.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_mostarda_e_mel_100g_335_1_bff669268376c57392c5336290457e18.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/milho-mostarda-e-mel-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
