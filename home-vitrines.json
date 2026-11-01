@@ -476,16 +476,6 @@
       "_price_per_kg": 9.5
     },
     {
-      "id": 101,
-      "name": "CANJICA BRANCA ( 100gr )",
-      "price": 1.39,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/canjica_branca_100gr_101_1_cbfa52772f7a3002f76e97a017d93297.jpg",
-      "url": "https://www.emporiopascoto.com.br/7-graos/canjica-branca-100gr",
-      "in_stock": true,
-      "available": true,
-      "_price_per_kg": 9.9
-    },
-    {
       "id": 383,
       "name": "TRIGO PARA KIBE ( 100g )",
       "price": 0.99,
@@ -531,6 +521,16 @@
       "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_flocos_100g_513_1_500c96acb66f3c229c773fe3c57827d0.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-flocos-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": 515,
+      "name": "ARARUTA 250G ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/araruta_250g_100g_515_1_5eff1821252cb07086ccc46c16a18868.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/araruta-250g-100g",
       "in_stock": true,
       "available": true,
       "_price_per_kg": 9.9
@@ -784,6 +784,16 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 13.8
+    },
+    {
+      "id": 101,
+      "name": "CANJICA BRANCA ( 100gr )",
+      "price": 1.39,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/canjica_branca_100gr_101_1_cbfa52772f7a3002f76e97a017d93297.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/canjica-branca-100gr",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 13.9
     },
     {
       "id": 363,
@@ -1124,7 +1134,7 @@
       "price": 26.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/curcuma_ninho_verde_500mg_60cap_und_1339_1_9f8d2281360f651932a785307ae6da5f.jpg",
       "url": "https://www.emporiopascoto.com.br/26-encapsulados/curcuma-ninho-verde-500mg-60cap-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2095,6 +2105,15 @@
       "available": true
     },
     {
+      "id": 353,
+      "name": "CHIPS MORANGO ( UND )",
+      "price": 600.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/chips_morango_und_353_1_f1bebae274d311afc178b8d3ee3f537d.jpg",
+      "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/chips-morango-und",
+      "in_stock": false,
+      "available": true
+    },
+    {
       "id": 355,
       "name": "CHIPS DE FRUTAS 100G ( UND )",
       "price": 32.9,
@@ -2977,6 +2996,15 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_confeitada_branca_100g_351_1_73ada8f2371d230cefd8f5adff0235de.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/amendoa-confeitada-branca-100g",
       "in_stock": true,
+      "available": true
+    },
+    {
+      "id": 353,
+      "name": "CHIPS MORANGO ( UND )",
+      "price": 600.0,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/chips_morango_und_353_1_f1bebae274d311afc178b8d3ee3f537d.jpg",
+      "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/chips-morango-und",
+      "in_stock": false,
       "available": true
     },
     {
