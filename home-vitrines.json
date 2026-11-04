@@ -1586,7 +1586,7 @@
       "price": 39.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/oleo_de_linhaca_dourada_250ml_pazze_und_1271_1_f176e9abbfc30b600b565859fcea2b3c.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/oleo-de-linhaca-dourada-250ml-pazze-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3413,7 +3413,7 @@
       "price": 39.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/oleo_de_linhaca_dourada_250ml_pazze_und_1271_1_f176e9abbfc30b600b565859fcea2b3c.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/oleo-de-linhaca-dourada-250ml-pazze-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
