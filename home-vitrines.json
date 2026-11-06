@@ -391,7 +391,7 @@
       "price": 30.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carvao_funchal_4kg_und_1217_1_db5ec25954dfcc4d8358a5c7fcfc0cec.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/carvao-funchal-4kg-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 7.5
     },
@@ -401,7 +401,7 @@
       "price": 15.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carvao_funchal_2kg_und_1357_1_767b81b521570419a2045e7777a21922.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/carvao-funchal-2kg-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 7.5
     },
@@ -474,6 +474,16 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 9.5
+    },
+    {
+      "id": 127,
+      "name": "GOJI BERRY 100G ( UND )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/goji_berry_100g_und_127_1_25521fa385d44ec6dc77687107dfbdba.jpg",
+      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/goji-berry-100g-und",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 9.9
     },
     {
       "id": 383,
@@ -1113,7 +1123,7 @@
     {
       "id": 127,
       "name": "GOJI BERRY 100G ( UND )",
-      "price": 9.9,
+      "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/goji_berry_100g_und_127_1_25521fa385d44ec6dc77687107dfbdba.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/goji-berry-100g-und",
       "in_stock": true,
@@ -1574,7 +1584,7 @@
     {
       "id": 127,
       "name": "GOJI BERRY 100G ( UND )",
-      "price": 9.9,
+      "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/goji_berry_100g_und_127_1_25521fa385d44ec6dc77687107dfbdba.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/goji-berry-100g-und",
       "in_stock": true,
@@ -2047,7 +2057,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/ervilha_torrada_com_wasabi_100g_339_1_3096c55a82b6f5ee3e87c528c1a72559.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/ervilha-torrada-com-wasabi-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2614,7 +2624,7 @@
     {
       "id": 127,
       "name": "GOJI BERRY 100G ( UND )",
-      "price": 9.9,
+      "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/goji_berry_100g_und_127_1_25521fa385d44ec6dc77687107dfbdba.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/goji-berry-100g-und",
       "in_stock": true,
@@ -2797,7 +2807,7 @@
       "price": 8.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/cranberry_inteiro_100g_167_1_42188fcd2cab14ea546ef910afe86371.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/cranberry-inteiro-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2815,7 +2825,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2941,7 +2951,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/ervilha_torrada_com_wasabi_100g_339_1_3096c55a82b6f5ee3e87c528c1a72559.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/ervilha-torrada-com-wasabi-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
