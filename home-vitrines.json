@@ -521,7 +521,7 @@
       "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_laminada_100g_511_1_827294e0c7a20ada950a21aec50d2a2e.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-laminada-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 9.9
     },
