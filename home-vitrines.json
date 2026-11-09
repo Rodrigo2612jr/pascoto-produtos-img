@@ -234,7 +234,7 @@
     "atualizado_imagens": "2026-06-09 (imagens atuais da Tray)",
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
-    "itens": 415,
+    "itens": 413,
     "indisponiveis": 6,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
@@ -2303,7 +2303,7 @@
     {
       "id": 631,
       "name": "PAPRICA DEFUMADA ( 100g )",
-      "price": 3.0,
+      "price": 2.58,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/paprica_defumada_100g_631_1_b3f7024adf14381724e487739cd0de55.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/paprica-defumada-100g",
       "available": true
