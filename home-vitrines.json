@@ -2029,7 +2029,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/ervilha_torrada_com_wasabi_100g_339_1_3096c55a82b6f5ee3e87c528c1a72559.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/ervilha-torrada-com-wasabi-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2785,10 +2785,10 @@
     {
       "id": 17,
       "name": "MIX DE CASTANHAS ( 100gr )",
-      "price": 11.5,
+      "price": 9.89,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2914,7 +2914,7 @@
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/ervilha_torrada_com_wasabi_100g_339_1_3096c55a82b6f5ee3e87c528c1a72559.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/ervilha-torrada-com-wasabi-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
