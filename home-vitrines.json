@@ -234,8 +234,8 @@
     "atualizado_imagens": "2026-06-09 (imagens atuais da Tray)",
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
-    "itens": 413,
-    "indisponiveis": 6,
+    "itens": 347,
+    "indisponiveis": 7,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -1761,7 +1761,7 @@
     {
       "id": 7,
       "name": "PISTACHE C/ CASCA T/S ( 100gr )",
-      "price": 22.0,
+      "price": 19.14,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/pistache_c_casca_t_s_100gr_7_1_a08cbf1dbde418fed04982bdae7e9cb8.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/pistache-c-casca-ts",
       "available": true
@@ -2333,7 +2333,7 @@
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/laranja_em_tiras_cristalizadas_100g_151_1_0ef1393db47cca789763f1db37f965cb.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/laranja-em-tiras-cristalizadas-100g",
       "in_stock": true,
-      "available": true
+      "available": false
     },
     {
       "id": 153,
