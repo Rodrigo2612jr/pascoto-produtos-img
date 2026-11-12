@@ -234,8 +234,8 @@
     "atualizado_imagens": "2026-06-09 (imagens atuais da Tray)",
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
-    "itens": 347,
-    "indisponiveis": 7,
+    "itens": 411,
+    "indisponiveis": 8,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -428,7 +428,7 @@
     {
       "id": 59,
       "name": "MILHO DE PIPOCA ( 100gr )",
-      "price": 0.78,
+      "price": 0.71,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_de_pipoca_100gr_59_1_21b22c79c81efd87c2e90d3c94b74259.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/milho-de-pipoca-100gr",
       "in_stock": true,
@@ -2250,7 +2250,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
-      "available": true
+      "available": false
     },
     {
       "id": 141,
@@ -2409,7 +2409,7 @@
     {
       "id": 59,
       "name": "MILHO DE PIPOCA ( 100gr )",
-      "price": 0.78,
+      "price": 0.71,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_de_pipoca_100gr_59_1_21b22c79c81efd87c2e90d3c94b74259.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/milho-de-pipoca-100gr",
       "available": true
@@ -2524,7 +2524,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
-      "available": true
+      "available": false
     },
     {
       "id": 695,
@@ -3064,7 +3064,7 @@
     {
       "id": 59,
       "name": "MILHO DE PIPOCA ( 100gr )",
-      "price": 0.78,
+      "price": 0.71,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_de_pipoca_100gr_59_1_21b22c79c81efd87c2e90d3c94b74259.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/milho-de-pipoca-100gr",
       "in_stock": true,
