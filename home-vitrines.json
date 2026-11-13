@@ -235,7 +235,7 @@
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
     "itens": 411,
-    "indisponiveis": 8,
+    "indisponiveis": 6,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -2250,7 +2250,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
-      "available": false
+      "available": true
     },
     {
       "id": 141,
@@ -2524,7 +2524,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
-      "available": false
+      "available": true
     },
     {
       "id": 695,
