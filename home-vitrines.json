@@ -511,7 +511,7 @@
       "price": 0.99,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_laminada_100g_511_1_827294e0c7a20ada950a21aec50d2a2e.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-laminada-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 9.9
     },
@@ -581,7 +581,7 @@
       "price": 1.05,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_rosca_100g_425_1_aac243b1b59e1adf9609114e060792b0.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-rosca-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 10.5
     },
@@ -931,7 +931,7 @@
       "price": 1.75,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/grao_de_bico_miudo_100gr_65_1_948a785a3adb9cbbf14c4b71940d6f6e.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/grao-de-bico-miudo-100gr",
-      "in_stock": false,
+      "in_stock": true,
       "available": true,
       "_price_per_kg": 17.5
     },
@@ -1323,7 +1323,7 @@
       "price": 7.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/bala_de_gengibre_propolis_e_mel_45g_und_261_1_f826999933055479201656fa3e1b8a52.jpg",
       "url": "https://www.emporiopascoto.com.br/11-apicultura/bala-de-gengibre-propolis-e-mel-45g-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2657,6 +2657,15 @@
       "available": true
     },
     {
+      "id": 143,
+      "name": "TAMARA SEM CAROCO ( 100g )",
+      "price": 4.5,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
+      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
+      "in_stock": true,
+      "available": true
+    },
+    {
       "id": 145,
       "name": "TAMARA JUMBO ( 100g )",
       "price": 11.5,
@@ -2770,7 +2779,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2842,7 +2851,7 @@
       "price": 7.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/bala_de_gengibre_propolis_e_mel_45g_und_261_1_f826999933055479201656fa3e1b8a52.jpg",
       "url": "https://www.emporiopascoto.com.br/11-apicultura/bala-de-gengibre-propolis-e-mel-45g-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -3404,7 +3413,7 @@
       "price": 4.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/hibisco_flor_100g_401_1_4149a18fc8234c0972750c7c18ba3c07.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/hibisco-flor-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
