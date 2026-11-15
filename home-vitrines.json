@@ -1496,7 +1496,7 @@
       "price": 12.2,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/amendoa_torrada_s_sal_100gr_1_1_2d22ea9aae5caa5fd1b20e911d58a944.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/amendoa-torrada-s-sal-100gr",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -1667,7 +1667,7 @@
       "price": 13.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/avela_crua_100gr_35_1_ad40c2a08a3f90d81a20077e3d4a96ec.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/avela-crua",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2065,7 +2065,7 @@
       "price": 6.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_salgada_100g_347_1_bb16613fc7a71722e9a8651f4ea4b5b9.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/banana-salgada-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2608,7 +2608,7 @@
       "price": 15.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_frutas_vermelhas_100g_131_1_32dfcc31a6de1b645cd61d41270c9a73.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/mix-de-frutas-vermelhas-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2671,7 +2671,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_jumbo_100g_145_1_617f0920ecc811a6f83f8013fe3c66ad.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-jumbo-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2941,7 +2941,7 @@
       "price": 6.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_salgada_100g_347_1_bb16613fc7a71722e9a8651f4ea4b5b9.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/banana-salgada-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
