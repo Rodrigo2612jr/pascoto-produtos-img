@@ -163,7 +163,7 @@
     },
     {
       "name": " UVA PASSA PRETA ( 100g )",
-      "price": 2.8,
+      "price": 3.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/uva_passa_preta_100g_139_1_adfa0bb6d5813904cd74af3be0600b3b.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/uva-passa-preta-100g",
       "_cat_id": "5",
@@ -234,8 +234,8 @@
     "atualizado_imagens": "2026-06-09 (imagens atuais da Tray)",
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
-    "itens": 412,
-    "indisponiveis": 6,
+    "itens": 411,
+    "indisponiveis": 7,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -2250,7 +2250,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
-      "available": true
+      "available": false
     },
     {
       "id": 141,
@@ -2263,7 +2263,7 @@
     {
       "id": 139,
       "name": "UVA PASSA PRETA ( 100g )",
-      "price": 2.8,
+      "price": 3.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/uva_passa_preta_100g_139_1_adfa0bb6d5813904cd74af3be0600b3b.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/uva-passa-preta-100g",
       "available": true
@@ -2314,7 +2314,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/lemon_pepper_100g_651_1_43a3286867ef094405e3def9f02cc29f.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/lemon-pepper-100g",
-      "available": false
+      "available": true
     },
     {
       "id": 705,
@@ -2489,7 +2489,7 @@
     {
       "id": 139,
       "name": "UVA PASSA PRETA ( 100g )",
-      "price": 2.8,
+      "price": 3.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/uva_passa_preta_100g_139_1_adfa0bb6d5813904cd74af3be0600b3b.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/uva-passa-preta-100g",
       "available": true
@@ -2524,7 +2524,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
-      "available": true
+      "available": false
     },
     {
       "id": 695,
@@ -2641,7 +2641,7 @@
     {
       "id": 139,
       "name": "UVA PASSA PRETA ( 100g )",
-      "price": 2.8,
+      "price": 3.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/uva_passa_preta_100g_139_1_adfa0bb6d5813904cd74af3be0600b3b.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/uva-passa-preta-100g",
       "in_stock": true,
