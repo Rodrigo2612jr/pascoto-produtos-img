@@ -1206,7 +1206,7 @@
       "price": 52.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/extrato_de_propolis_verde_alecrim_abv_25_30ml_und_205_1_ce732250b38093c5a1e80e09d75b1930.jpg",
       "url": "https://www.emporiopascoto.com.br/11-apicultura/extrato-de-propolis-verde-alecrim-abv-25-30ml-und",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -1766,7 +1766,7 @@
       "price": 13.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_amendoa_100g_471_1_9ffaf64af0f047f13f78c653b5e3bf75.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-amendoa-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3503,7 +3503,7 @@
       "price": 13.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farinha_de_amendoa_100g_471_1_9ffaf64af0f047f13f78c653b5e3bf75.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farinha-de-amendoa-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
