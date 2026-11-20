@@ -9,7 +9,32 @@
 // Carregado pela lista de scripts externos da Tray. O CSP do checkout libera
 // cdn.jsdelivr.net por host, por isso a biblioteca vem de la (versao fixa).
 (function () {
-  if (window.posthog || !/^\/checkout/.test(location.pathname)) return;
+  if (!/^\/checkout/.test(location.pathname)) return;
+
+  // Blindagem do frete. Com o campo GTM da Tray preenchido, o d() do easy-modernize-cart faz
+  // c.checkout.products = t com c = google_tag_manager[id].dataLayer.get("ecommerce"). Se ecommerce
+  // existe sem checkout (mexeu no +/- antes do CEP), da TypeError dentro do setShipping.done e o
+  // frete nao atualiza (visto em 25/09/2026). Garante checkout no retorno. Repete por 20 s porque
+  // o container pode registrar depois deste script.
+  var blinda = function () {
+    var g = window.google_tag_manager;
+    if (!g) return;
+    Object.keys(g).forEach(function (id) {
+      var dl = g[id] && g[id].dataLayer;
+      if (!dl || typeof dl.get !== 'function' || dl.pascotoBlindado) return;
+      var get = dl.get;
+      dl.get = function (k) {
+        var v = get.apply(this, arguments);
+        if (k === 'ecommerce' && v && typeof v === 'object' && !v.checkout) v.checkout = {};
+        return v;
+      };
+      dl.pascotoBlindado = 1;
+    });
+  };
+  blinda();
+  var voltas = 0, relogio = setInterval(function () { blinda(); if (++voltas > 40) clearInterval(relogio); }, 500);
+
+  if (window.posthog) return;
   var TOKEN = 'phc_yg8QK9c5MmMiG3Ly7pSHXzGHQCC7NfvaxYiR2JFBefC3', HOST = 'https://us.i.posthog.com';
   var LIB = 'https://cdn.jsdelivr.net/npm/posthog-js@1.447.3/dist/array.no-external.js';
   var aceitou = /(?:^|;\s*)pascoto_consent=granted/.test(document.cookie);
