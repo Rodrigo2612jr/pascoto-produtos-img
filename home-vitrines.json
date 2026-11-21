@@ -881,7 +881,7 @@
     },
     {
       "id": 569,
-      "name": "ACAFRAO IMPORTADO",
+      "name": "ACAFRAO IMPORTADO ( 100g )",
       "price": 5.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/acafrao_importado_100g_569_1_10a71054f56785af31139408f74f681e.jpg",
       "url": "https://www.emporiopascoto.com.br/17-temperos/acafrao-importado-100g",
@@ -1319,7 +1319,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2247,8 +2247,8 @@
     },
     {
       "id": 167,
-      "name": "CRANBERRY INTEIRO",
-      "price": 8.5,
+      "name": "CRANBERRY INTEIRO ( 100g )",
+      "price": 8.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/cranberry_inteiro_100g_167_1_42188fcd2cab14ea546ef910afe86371.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/cranberry-inteiro-100g",
       "in_stock": true,
@@ -3074,7 +3074,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
