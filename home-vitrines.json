@@ -411,7 +411,7 @@
       "price": 15.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carvao_funchal_2kg_und_1357_1_767b81b521570419a2045e7777a21922.jpg",
       "url": "https://www.emporiopascoto.com.br/27-mercearia/carvao-funchal-2kg-und",
-      "in_stock": true,
+      "in_stock": false,
       "available": true,
       "_price_per_kg": 7.5
     },
@@ -424,6 +424,16 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 8.33
+    },
+    {
+      "id": 81,
+      "name": "FEIJAO FRADINHO ( 100gr )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/feijao_fradinho_100gr_81_1_4b561cf0b3eb56b3147197818d54fc99.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/feijao-fradinho-100gr",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 9.9
     },
     {
       "id": 1015,
@@ -504,6 +514,16 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 15.83
+    },
+    {
+      "id": 781,
+      "name": "XEREM DE AMENDOIM ( 100g )",
+      "price": 1.8,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/xerem_de_amendoim_100g_781_1_83187ad4394e472798736d21eee03f44.jpg",
+      "url": "https://www.emporiopascoto.com.br/24-amendoins-e-pastas/xerem-de-amendoim-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 18.0
     },
     {
       "id": 1037,
@@ -1315,11 +1335,11 @@
     },
     {
       "id": 547,
-      "name": "CHIA PREMIUM",
+      "name": "CHIA PREMIUM ( 100g )",
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -1551,7 +1571,7 @@
     },
     {
       "id": 347,
-      "name": "BANANA SALGADA",
+      "name": "BANANA SALGADA ( 100g )",
       "price": 6.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_salgada_100g_347_1_bb16613fc7a71722e9a8651f4ea4b5b9.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/banana-salgada-100g",
@@ -2427,7 +2447,7 @@
     },
     {
       "id": 347,
-      "name": "BANANA SALGADA",
+      "name": "BANANA SALGADA ( 100g )",
       "price": 6.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/banana_salgada_100g_347_1_bb16613fc7a71722e9a8651f4ea4b5b9.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/banana-salgada-100g",
@@ -2553,11 +2573,11 @@
     },
     {
       "id": 57,
-      "name": "MIX QUINUA",
+      "name": "MIX QUINUA ( 100gr )",
       "price": 4.6,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_quinua_100gr_57_1_2c26d08cf41d8116285a9e8be7917436.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/mix-quinua-100gr",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2589,7 +2609,7 @@
     },
     {
       "id": 819,
-      "name": "SUCRILHO S/ AÇUCAR",
+      "name": "SUCRILHO S/ AÇUCAR ( 100g )",
       "price": 3.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/sucrilho_s_acucar_100g_819_1_9b6f656418a8d64ecd3cda283144d18b.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/sucrilho-s-acucar-100g",
@@ -2598,7 +2618,7 @@
     },
     {
       "id": 821,
-      "name": "SUCRILHO C/ AÇUCAR",
+      "name": "SUCRILHO C/ AÇUCAR ( 100g )",
       "price": 3.2,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/sucrilho_c_acucar_100g_821_1_6d150ee5f5b70b7cbba517b22e7dd9f4.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/sucrilho-c-acucar-100g",
@@ -3070,11 +3090,11 @@
     },
     {
       "id": 547,
-      "name": "CHIA PREMIUM",
+      "name": "CHIA PREMIUM ( 100g )",
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/chia_premium_100g_547_1_44c05f7e6a5abf8e1ddee27a8309996c.jpg",
       "url": "https://www.emporiopascoto.com.br/16-sementes/chia-premium-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3088,11 +3108,11 @@
     },
     {
       "id": 57,
-      "name": "MIX QUINUA",
+      "name": "MIX QUINUA ( 100gr )",
       "price": 4.6,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_quinua_100gr_57_1_2c26d08cf41d8116285a9e8be7917436.jpg",
       "url": "https://www.emporiopascoto.com.br/7-graos/mix-quinua-100gr",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -3261,7 +3281,7 @@
     },
     {
       "id": 819,
-      "name": "SUCRILHO S/ AÇUCAR",
+      "name": "SUCRILHO S/ AÇUCAR ( 100g )",
       "price": 3.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/sucrilho_s_acucar_100g_819_1_9b6f656418a8d64ecd3cda283144d18b.jpg",
       "url": "https://www.emporiopascoto.com.br/22-granolas-e-cereais/sucrilho-s-acucar-100g",
