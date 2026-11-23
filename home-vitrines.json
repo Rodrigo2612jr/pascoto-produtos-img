@@ -2167,15 +2167,6 @@
       "available": true
     },
     {
-      "id": 145,
-      "name": "TAMARA JUMBO",
-      "price": 11.5,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_jumbo_100g_145_1_617f0920ecc811a6f83f8013fe3c66ad.jpg",
-      "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-jumbo-100g",
-      "in_stock": true,
-      "available": true
-    },
-    {
       "id": 147,
       "name": "MIX DE FRUTAS",
       "price": 13.5,
@@ -2289,7 +2280,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
