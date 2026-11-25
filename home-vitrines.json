@@ -234,8 +234,8 @@
     "atualizado_imagens": "2026-06-09 (imagens atuais da Tray)",
     "auto_sync": "github-actions",
     "precos_ok": "so itens sem preco/goji errado removidos; graneis preservados",
-    "itens": 362,
-    "indisponiveis": 7,
+    "itens": 384,
+    "indisponiveis": 5,
     "bestsellers_fonte": "relatorio Produtos mais vendidos do admin Tray, 01/04 a 30/09/2026, por quantidade (atualizado 03/09/2026)"
   },
   "weekly_offers": [
@@ -661,7 +661,7 @@
       "id": 1459,
       "name": "Kit Dourado (açafrão e gengibre)",
       "price": 21.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_dourado_acafrao_e_gengibre_1459_1_b16d0177a0b23ac6cf1410d581661a5d.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_dourado_acafrao_e_gengibre_und_1459_1_3d656d2b230caa045aadc45d231023e1.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-dourado-acafrao-e-gengibre",
       "in_stock": true,
       "available": true
@@ -670,7 +670,7 @@
       "id": 1491,
       "name": "Kit Mel, própolis e gengibre",
       "price": 59.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_mel_propolis_e_gengibre_1491_1_41357a27d3e085106d21f6e3c6d4e62c.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_mel_propolis_e_gengibre_und_1491_1_98026f02054accec17906940a9ef1732.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-mel-propolis-e-gengibre",
       "in_stock": true,
       "available": true
@@ -1131,7 +1131,7 @@
       "id": 1463,
       "name": "Kit Café da manhã",
       "price": 77.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_cafe_da_manha_1463_1_46e6303266850319e4203b8f622f80a7.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_cafe_da_manha_und_1463_1_756fb63debdd875727017a5f6adfb7c2.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-cafe-da-manha",
       "in_stock": true,
       "available": true
@@ -1140,7 +1140,7 @@
       "id": 1467,
       "name": "Kit Granola caseira",
       "price": 49.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_granola_caseira_1467_1_cfb135cb7c8d654754133dbf4482389c.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_granola_caseira_und_1467_1_9b4b480a4acd78055ff702134dcab238.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-granola-caseira",
       "in_stock": true,
       "available": true
@@ -1149,7 +1149,7 @@
       "id": 1471,
       "name": "Kit Chia e linhaça em dobro",
       "price": 20.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chia_e_linhaca_em_dobro_1471_1_56973aeb03b0e8a0925644677fdc8600.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chia_e_linhaca_em_dobro_und_1471_1_deaf14d7e6e11f67ea6ed92c4f9de667.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-chia-e-linhaca-em-dobro",
       "in_stock": true,
       "available": true
@@ -1158,7 +1158,7 @@
       "id": 1489,
       "name": "Kit Mel e chia",
       "price": 31.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_mel_e_chia_1489_1_2cc4ecf4966c8ef7b1493b491c8b77cf.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_mel_e_chia_und_1489_1_89c48bf30cf952bb8af3d2b5c61212c4.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-mel-e-chia",
       "in_stock": true,
       "available": true
@@ -1547,7 +1547,7 @@
       "id": 1477,
       "name": "Kit Snack",
       "price": 65.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_snack_1477_1_7b21fa4b93b552329c1ae92a825e1f2d.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_snack_und_1477_1_e14cb9eea206e7b0d7f4d1bc5284bdb6.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-snack",
       "in_stock": true,
       "available": true
@@ -1556,7 +1556,7 @@
       "id": 1479,
       "name": "Kit Chips do escritório",
       "price": 42.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chips_do_escritorio_1479_1_a8902143e3ca3fa7b064522127a95037.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chips_do_escritorio_und_1479_1_f37c1f6033de0498d76984830be23092.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-chips-do-escritorio",
       "in_stock": true,
       "available": true
@@ -1565,7 +1565,7 @@
       "id": 1493,
       "name": "Kit Chips em dobro",
       "price": 58.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chips_em_dobro_1493_1_6426f883e40ec410185f43f69960c656.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chips_em_dobro_und_1493_1_8b2393df5e4a51490e81abe6ea773ad4.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-chips-em-dobro",
       "in_stock": true,
       "available": true
@@ -1860,7 +1860,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
-      "available": false
+      "available": true
     },
     {
       "id": 141,
@@ -2134,7 +2134,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
-      "available": false
+      "available": true
     },
     {
       "id": 695,
@@ -2288,7 +2288,7 @@
       "id": 1467,
       "name": "Kit Granola caseira",
       "price": 49.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_granola_caseira_1467_1_cfb135cb7c8d654754133dbf4482389c.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_granola_caseira_und_1467_1_9b4b480a4acd78055ff702134dcab238.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-granola-caseira",
       "in_stock": true,
       "available": true
@@ -2306,7 +2306,7 @@
       "id": 1479,
       "name": "Kit Chips do escritório",
       "price": 42.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chips_do_escritorio_1479_1_a8902143e3ca3fa7b064522127a95037.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chips_do_escritorio_und_1479_1_f37c1f6033de0498d76984830be23092.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-chips-do-escritorio",
       "in_stock": true,
       "available": true
@@ -2324,7 +2324,7 @@
       "id": 1493,
       "name": "Kit Chips em dobro",
       "price": 58.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chips_em_dobro_1493_1_6426f883e40ec410185f43f69960c656.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chips_em_dobro_und_1493_1_8b2393df5e4a51490e81abe6ea773ad4.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-chips-em-dobro",
       "in_stock": true,
       "available": true
@@ -3057,7 +3057,7 @@
       "id": 1459,
       "name": "Kit Dourado (açafrão e gengibre)",
       "price": 21.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_dourado_acafrao_e_gengibre_1459_1_b16d0177a0b23ac6cf1410d581661a5d.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_dourado_acafrao_e_gengibre_und_1459_1_3d656d2b230caa045aadc45d231023e1.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-dourado-acafrao-e-gengibre",
       "in_stock": true,
       "available": true
@@ -3066,7 +3066,7 @@
       "id": 1471,
       "name": "Kit Chia e linhaça em dobro",
       "price": 20.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chia_e_linhaca_em_dobro_1471_1_56973aeb03b0e8a0925644677fdc8600.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chia_e_linhaca_em_dobro_und_1471_1_deaf14d7e6e11f67ea6ed92c4f9de667.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-chia-e-linhaca-em-dobro",
       "in_stock": true,
       "available": true
@@ -3075,7 +3075,7 @@
       "id": 1489,
       "name": "Kit Mel e chia",
       "price": 31.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_mel_e_chia_1489_1_2cc4ecf4966c8ef7b1493b491c8b77cf.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_mel_e_chia_und_1489_1_89c48bf30cf952bb8af3d2b5c61212c4.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-mel-e-chia",
       "in_stock": true,
       "available": true
@@ -3084,7 +3084,7 @@
       "id": 1491,
       "name": "Kit Mel, própolis e gengibre",
       "price": 59.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_mel_propolis_e_gengibre_1491_1_41357a27d3e085106d21f6e3c6d4e62c.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_mel_propolis_e_gengibre_und_1491_1_98026f02054accec17906940a9ef1732.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-mel-propolis-e-gengibre",
       "in_stock": true,
       "available": true
@@ -3374,7 +3374,7 @@
       "id": 1485,
       "name": "Kit Confeitaria sem açúcar",
       "price": 64.9,
-      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_confeitaria_sem_acucar_1485_1_014fe747246fd4e61fa27b4260c81832.jpg",
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_confeitaria_sem_acucar_und_1485_1_c51869e0facaa304742ae4ab41358156.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-confeitaria-sem-acucar",
       "in_stock": true,
       "available": true
