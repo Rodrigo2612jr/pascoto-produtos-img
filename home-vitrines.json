@@ -426,6 +426,26 @@
       "_price_per_kg": 8.33
     },
     {
+      "id": 49,
+      "name": "SOJA GRAO ( 100gr )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/soja_grao_100gr_49_1_af9a93575188323e17295e33b345cf16.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/soja-grao-100gr",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 9.9
+    },
+    {
+      "id": 513,
+      "name": "AVEIA FLOCOS ( 100g )",
+      "price": 0.99,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/aveia_flocos_100g_513_1_500c96acb66f3c229c773fe3c57827d0.jpg",
+      "url": "https://www.emporiopascoto.com.br/15-farinaceos/aveia-flocos-100g",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 9.9
+    },
+    {
       "id": 81,
       "name": "FEIJAO FRADINHO ( 100gr )",
       "price": 0.99,
@@ -444,6 +464,16 @@
       "in_stock": false,
       "available": true,
       "_price_per_kg": 11.6
+    },
+    {
+      "id": 77,
+      "name": "FEIJAO PRETO ( 100gr )",
+      "price": 1.19,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/feijao_preto_100gr_77_1_19a866e991ade437872fd77246eaf051.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/feijao-preto-100gr",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 11.9
     },
     {
       "id": 1333,
@@ -524,6 +554,26 @@
       "in_stock": true,
       "available": true,
       "_price_per_kg": 16.0
+    },
+    {
+      "id": 85,
+      "name": "FEIJAO CARIOCA ( 100gr )",
+      "price": 1.65,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/feijao_carioca_100gr_85_1_763260b4d5951a2c25cf3ecf964f557c.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/feijao-carioca-100gr",
+      "in_stock": true,
+      "available": true,
+      "_price_per_kg": 16.5
+    },
+    {
+      "id": 121,
+      "name": "FEIJAO RAJADO ( 100gr )",
+      "price": 1.79,
+      "image": "https://images.tcdn.com.br/img/img_prod/1491433/feijao_rajado_100gr_121_1_61d012ea38e37107ca79813d669daffb.jpg",
+      "url": "https://www.emporiopascoto.com.br/7-graos/feijao-rajado-100gr",
+      "in_stock": false,
+      "available": true,
+      "_price_per_kg": 17.9
     },
     {
       "id": 781,
@@ -659,16 +709,16 @@
     },
     {
       "id": 1459,
-      "name": "Kit Dourado (açafrão e gengibre)",
+      "name": "Kit Dourado (açafrão e gengibre) ( UND )",
       "price": 21.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_dourado_acafrao_e_gengibre_und_1459_1_3d656d2b230caa045aadc45d231023e1.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-dourado-acafrao-e-gengibre",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
       "id": 1491,
-      "name": "Kit Mel, própolis e gengibre",
+      "name": "Kit Mel, própolis e gengibre ( UND )",
       "price": 59.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_mel_propolis_e_gengibre_und_1491_1_98026f02054accec17906940a9ef1732.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-mel-propolis-e-gengibre",
@@ -1111,7 +1161,7 @@
     },
     {
       "id": 13,
-      "name": "NOZES INTEIRA",
+      "name": "NOZES INTEIRA ( 100gr )",
       "price": 11.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/nozes_inteira_100gr_13_1_9b8c4a5b0855b5a6304e05592886bff1.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/nozes-inteira",
@@ -1129,7 +1179,7 @@
     },
     {
       "id": 1463,
-      "name": "Kit Café da manhã",
+      "name": "Kit Café da manhã ( UND )",
       "price": 77.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_cafe_da_manha_und_1463_1_756fb63debdd875727017a5f6adfb7c2.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-cafe-da-manha",
@@ -1138,7 +1188,7 @@
     },
     {
       "id": 1467,
-      "name": "Kit Granola caseira",
+      "name": "Kit Granola caseira ( UND )",
       "price": 49.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_granola_caseira_und_1467_1_9b4b480a4acd78055ff702134dcab238.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-granola-caseira",
@@ -1147,7 +1197,7 @@
     },
     {
       "id": 1471,
-      "name": "Kit Chia e linhaça em dobro",
+      "name": "Kit Chia e linhaça em dobro ( UND )",
       "price": 20.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chia_e_linhaca_em_dobro_und_1471_1_deaf14d7e6e11f67ea6ed92c4f9de667.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-chia-e-linhaca-em-dobro",
@@ -1156,7 +1206,7 @@
     },
     {
       "id": 1489,
-      "name": "Kit Mel e chia",
+      "name": "Kit Mel e chia ( UND )",
       "price": 31.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_mel_e_chia_und_1489_1_89c48bf30cf952bb8af3d2b5c61212c4.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-mel-e-chia",
@@ -1545,7 +1595,7 @@
     },
     {
       "id": 1477,
-      "name": "Kit Snack",
+      "name": "Kit Snack ( UND )",
       "price": 65.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_snack_und_1477_1_e14cb9eea206e7b0d7f4d1bc5284bdb6.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-snack",
@@ -1554,7 +1604,7 @@
     },
     {
       "id": 1479,
-      "name": "Kit Chips do escritório",
+      "name": "Kit Chips do escritório ( UND )",
       "price": 42.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chips_do_escritorio_und_1479_1_f37c1f6033de0498d76984830be23092.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-chips-do-escritorio",
@@ -1563,7 +1613,7 @@
     },
     {
       "id": 1493,
-      "name": "Kit Chips em dobro",
+      "name": "Kit Chips em dobro ( UND )",
       "price": 58.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chips_em_dobro_und_1493_1_8b2393df5e4a51490e81abe6ea773ad4.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-chips-em-dobro",
@@ -1617,7 +1667,7 @@
     },
     {
       "id": 335,
-      "name": "MILHO MOSTARDA E MEL",
+      "name": "MILHO MOSTARDA E MEL ( 100g )",
       "price": 6.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_mostarda_e_mel_100g_335_1_bff669268376c57392c5336290457e18.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/milho-mostarda-e-mel-100g",
@@ -2250,7 +2300,7 @@
     },
     {
       "id": 139,
-      "name": "UVA PASSA PRETA",
+      "name": "UVA PASSA PRETA ( 100g )",
       "price": 3.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/uva_passa_preta_100g_139_1_adfa0bb6d5813904cd74af3be0600b3b.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/uva-passa-preta-100g",
@@ -2272,7 +2322,7 @@
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_sem_caroco_100g_143_1_8037fc4433f651bde0a8060951b3d8fd.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-sem-caroco-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
@@ -2281,12 +2331,12 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/tamara_jumbo_100g_145_1_617f0920ecc811a6f83f8013fe3c66ad.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/tamara-jumbo-100g",
-      "in_stock": false,
+      "in_stock": true,
       "available": true
     },
     {
       "id": 1467,
-      "name": "Kit Granola caseira",
+      "name": "Kit Granola caseira ( UND )",
       "price": 49.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_granola_caseira_und_1467_1_9b4b480a4acd78055ff702134dcab238.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-granola-caseira",
@@ -2304,7 +2354,7 @@
     },
     {
       "id": 1479,
-      "name": "Kit Chips do escritório",
+      "name": "Kit Chips do escritório ( UND )",
       "price": 42.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chips_do_escritorio_und_1479_1_f37c1f6033de0498d76984830be23092.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-chips-do-escritorio",
@@ -2322,7 +2372,7 @@
     },
     {
       "id": 1493,
-      "name": "Kit Chips em dobro",
+      "name": "Kit Chips em dobro ( UND )",
       "price": 58.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chips_em_dobro_und_1493_1_8b2393df5e4a51490e81abe6ea773ad4.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-chips-em-dobro",
@@ -2376,7 +2426,7 @@
     },
     {
       "id": 161,
-      "name": "FIGO TURCO SECO",
+      "name": "FIGO TURCO SECO ( 100g )",
       "price": 13.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/figo_turco_seco_100g_161_1_1c8cdb1063a51d3d47437fc1d041d45d.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/figo-turco-seco-100g",
@@ -2425,7 +2475,7 @@
       "price": 11.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/mix_de_castanhas_100gr_17_1_35d6210f387ea1376006863fdb6cd6da.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/mix-de-castanhas",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -2538,7 +2588,7 @@
     },
     {
       "id": 335,
-      "name": "MILHO MOSTARDA E MEL",
+      "name": "MILHO MOSTARDA E MEL ( 100g )",
       "price": 6.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/milho_mostarda_e_mel_100g_335_1_bff669268376c57392c5336290457e18.jpg",
       "url": "https://www.emporiopascoto.com.br/12-chips-e-snacks/milho-mostarda-e-mel-100g",
@@ -2936,7 +2986,7 @@
     },
     {
       "id": 397,
-      "name": "MELISSA",
+      "name": "CHA DE MELISSA",
       "price": 7.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/melissa_100g_397_1_bc4768a8ba1e1b39e223ca121ebd0d4f.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/melissa-100g",
@@ -2945,7 +2995,7 @@
     },
     {
       "id": 481,
-      "name": "ERVA CIDREIRA",
+      "name": "CHA DE ERVA CIDREIRA",
       "price": 4.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/erva_cidreira_100g_481_1_f9340b42900a1d259f0830d06a20a742.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/erva-cidreira-100g",
@@ -2954,7 +3004,7 @@
     },
     {
       "id": 501,
-      "name": "CAMOMILA",
+      "name": "CAMOMILA ( 100g )",
       "price": 5.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/camomila_100g_501_1_b48ce291fb6e686a8445782bebfe7af2.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/camomila-100g",
@@ -3055,16 +3105,16 @@
     },
     {
       "id": 1459,
-      "name": "Kit Dourado (açafrão e gengibre)",
+      "name": "Kit Dourado (açafrão e gengibre) ( UND )",
       "price": 21.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_dourado_acafrao_e_gengibre_und_1459_1_3d656d2b230caa045aadc45d231023e1.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-dourado-acafrao-e-gengibre",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
       "id": 1471,
-      "name": "Kit Chia e linhaça em dobro",
+      "name": "Kit Chia e linhaça em dobro ( UND )",
       "price": 20.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_chia_e_linhaca_em_dobro_und_1471_1_deaf14d7e6e11f67ea6ed92c4f9de667.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-chia-e-linhaca-em-dobro",
@@ -3073,7 +3123,7 @@
     },
     {
       "id": 1489,
-      "name": "Kit Mel e chia",
+      "name": "Kit Mel e chia ( UND )",
       "price": 31.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_mel_e_chia_und_1489_1_89c48bf30cf952bb8af3d2b5c61212c4.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-mel-e-chia",
@@ -3082,7 +3132,7 @@
     },
     {
       "id": 1491,
-      "name": "Kit Mel, própolis e gengibre",
+      "name": "Kit Mel, própolis e gengibre ( UND )",
       "price": 59.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_mel_propolis_e_gengibre_und_1491_1_98026f02054accec17906940a9ef1732.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-mel-propolis-e-gengibre",
@@ -3091,7 +3141,7 @@
     },
     {
       "id": 387,
-      "name": "SENE",
+      "name": "CHA DE SENE",
       "price": 2.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/sene_100g_387_1_d147fc584211ae1c470b4e36a6608494.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/sene-100g",
@@ -3100,7 +3150,7 @@
     },
     {
       "id": 401,
-      "name": "HIBISCO FLOR",
+      "name": "CHA DE HIBISCO FLOR",
       "price": 4.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/hibisco_flor_100g_401_1_4149a18fc8234c0972750c7c18ba3c07.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/hibisco-flor-100g",
@@ -3226,7 +3276,7 @@
     },
     {
       "id": 493,
-      "name": "CAVALINHA CULTIVADA",
+      "name": "CHA DE CAVALINHA",
       "price": 9.8,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/cavalinha_cultivada_100g_493_1_44ff379370117e646db6fa4bc2589bf4.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/cavalinha-cultivada-100g",
@@ -3235,7 +3285,7 @@
     },
     {
       "id": 499,
-      "name": "CARQUEJA AMARGA",
+      "name": "CHA DE CARQUEJA AMARGA",
       "price": 5.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/carqueja_amarga_100g_499_1_37ea637f671bf2cfb8a7e04dabec447b.jpg",
       "url": "https://www.emporiopascoto.com.br/14-ervas/carqueja-amarga-100g",
@@ -3343,7 +3393,7 @@
     },
     {
       "id": 893,
-      "name": "MORINGA EM PO",
+      "name": "MORINGA EM PO ( 100g )",
       "price": 12.0,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/moringa_em_po_100g_893_1_417452696a11f9a737a3072f7b097d8e.jpg",
       "url": "https://www.emporiopascoto.com.br/23-suplemetos/moringa-em-po-100g",
@@ -3372,7 +3422,7 @@
   "sem_acucar": [
     {
       "id": 1485,
-      "name": "Kit Confeitaria sem açúcar",
+      "name": "Kit Confeitaria sem açúcar ( UND )",
       "price": 64.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_confeitaria_sem_acucar_und_1485_1_c51869e0facaa304742ae4ab41358156.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-confeitaria-sem-acucar",
