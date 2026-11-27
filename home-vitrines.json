@@ -1183,7 +1183,7 @@
       "price": 77.9,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/kit_cafe_da_manha_und_1463_1_756fb63debdd875727017a5f6adfb7c2.jpg",
       "url": "https://www.emporiopascoto.com.br/20-kits-e-combos/kit-cafe-da-manha",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
@@ -1251,7 +1251,7 @@
     },
     {
       "id": 29,
-      "name": "CASTANHA CAJU S/ SAL",
+      "name": "CASTANHA CAJU S/ SAL ( 100gr )",
       "price": 13.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_caju_s_sal_100gr_29_1_4c07d1778507ef8cf803bc45695411ec.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-caju-s-sal",
@@ -1260,7 +1260,7 @@
     },
     {
       "id": 31,
-      "name": "CASTANHA CAJU C/ SAL",
+      "name": "CASTANHA CAJU C/ SAL ( 100gr )",
       "price": 13.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/castanha_caju_c_sal_100gr_31_1_036e19aeb4a8183b1b2c44d159251018.jpg",
       "url": "https://www.emporiopascoto.com.br/5-castanhas/castanha-caju-c-sal",
@@ -2489,7 +2489,7 @@
     },
     {
       "id": 173,
-      "name": "AMEIXA SEM CAROCO",
+      "name": "AMEIXA SEM CAROCO ( 100g )",
       "price": 5.95,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/ameixa_sem_caroco_100g_173_1_ae0d3230f1057bba1ecdd3189d31f012.jpg",
       "url": "https://www.emporiopascoto.com.br/9-frutas-secas/ameixa-sem-caroco-100g",
@@ -3253,7 +3253,7 @@
       "price": 1.5,
       "image": "https://images.tcdn.com.br/img/img_prod/1491433/farelo_de_aveia_100g_475_1_58b87256397a228dc3e4ab2f64e8cb26.jpg",
       "url": "https://www.emporiopascoto.com.br/15-farinaceos/farelo-de-aveia-100g",
-      "in_stock": true,
+      "in_stock": false,
       "available": true
     },
     {
